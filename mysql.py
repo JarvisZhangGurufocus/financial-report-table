@@ -15,7 +15,7 @@ porterStemmer = PorterStemmer()
 
 class MySqlHelper:
   def __init__(self):
-    self.dbHost = env['DB_HOST'] "173.192.96.34"
+    self.dbHost = env['DB_HOST']
     self.dbPort = env['DB_PORT']
     self.dbUser = env['DB_USER']
     self.dbPWD = env['DB_PWD']
