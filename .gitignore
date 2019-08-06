@@ -1,0 +1,6 @@
+clusters/*
+logs/*
+words/*
+*.pyc
+.env
+.DS_Store
