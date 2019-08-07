@@ -46,6 +46,35 @@ class MySqlHelper:
     self.connection.commit()
     return id
 
+  def searchTable(self, table):
+    key = ''
+    value = ''
+
+    if 'id' in table.keys():
+      key = 'id'
+      value = table['id']
+    elif 'table_id' in table.keys():
+      key = 'table_id'
+      value = table['table_id']
+    else:
+      return []
+    
+    SQL = "SELECT * FROM report_tables WHERE %s = '%s'" % (key, value)
+    return self.query(SQL)
+
+  def saveTable(self, table):
+    if table is None:
+      return
+    saved = self.searchTable(table)
+    if len(saved) > 0:
+      return saved[0]
+    SQL = "INSERT INTO report_tables (primary_tags, secondary_tags, other_tags, context, section) VALUES ('%s','%s','%s','%s','%s')" % (
+      table['primary_tags'], table['secondary_tags'], table['other_tags'], table['context'], table['section']
+    )
+    tableId = self.execute(SQL)
+    table['id'] = tableId
+    return table
+
   def searchCell(self, cell):
     WHERES = '1 '
     for key in cell.keys():
@@ -60,7 +89,7 @@ class MySqlHelper:
     if cell is None:
       return
     saved = self.searchCell(cell)
-    if saved:
+    if len(saved) > 0:
       return saved[0]
     SQL = "INSERT INTO %s (value, date, table_id) VALUES ('%s','%s','%s')" % (
       self.cellTable, cell['value'], parse(cell['date']).strftime("%Y-%m-%d"), cell['table_id'])
@@ -86,7 +115,7 @@ class MySqlHelper:
     if attr is None:
       return
     saved = self.searchAttr(attr)
-    if saved:
+    if len(saved) > 0:
       return saved[0]
 
     tag = {'value': attr['value'], 'type': attr['type'], 'label':attr['value']}
@@ -123,7 +152,7 @@ class MySqlHelper:
     if tag is None:
       return
     saved = self.searchTag(tag)
-    if saved:
+    if len(saved) > 0:
       return saved[0]
     
     SQL = "INSERT INTO %s (value, type, label) VALUES ('%s', '%s', '%s')" % (self.tagTable, tag['value'], tag['type'], tag['label'])
@@ -144,7 +173,7 @@ class MySqlHelper:
     if cellAttr is None:
       return
     saved = self.searchCellAttr(cellAttr)
-    if saved:
+    if len(saved) > 0:
       return saved[0]
     
     SQL = "INSERT INTO %s (cell_id, attr_id) VALUES ('%s', '%s')" % (self.cellAttrTable, cellAttr['cell_id'], cellAttr['attr_id'])
@@ -165,7 +194,7 @@ class MySqlHelper:
     if attrTag is None:
       return
     saved = self.searchAttrTag(attrTag)
-    if saved:
+    if len(saved) > 0:
       return saved[0]
     
     SQL = "INSERT INTO %s (attr_id, tag_id) VALUES ('%s', '%s')" % (self.attrTagTable, attrTag['attr_id'], attrTag['tag_id'])

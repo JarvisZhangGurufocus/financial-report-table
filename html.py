@@ -1,12 +1,14 @@
 import json
 import re
 import datetime
+import string
 
 from bs4 import BeautifulSoup
 from itertools import product
 from utils import Utils
 
 utils = Utils()
+printable = set(string.printable)
 
 class HtmlHelper:
   def htmlSoup(self, html):
@@ -20,8 +22,11 @@ class HtmlHelper:
     return soup.get_text()
 
   def getTableCells(self, html):
-    html = html.replace('<br/>', ' ').replace('<br>', ' ').replace('<br />', ' ').replace('\n', ' ').replace('\r', ' ')
-    soup = BeautifulSoup(html, features='html.parser')
+    if type(html) is str:
+      html = html.replace('<br/>', ' ').replace('<br>', ' ').replace('<br />', ' ').replace('\n', ' ').replace('\r', ' ')
+      soup = BeautifulSoup(html, features='html.parser')
+    else:
+      soup = html
     
     body = self.table2Array(soup)
     header = [body.pop(0)]
@@ -222,3 +227,125 @@ class HtmlHelper:
           table[y] = table[y][1:]
 
     return table
+
+  def pluckNode(self, node):
+    if node.name == None or node.name == 'table':
+      return [node]
+    
+    onlyFont = True
+    for child in node.children:
+      if node.name is None or node.name == 'span' or node.name == 'font':
+        continue
+      onlyFont = False
+    if onlyFont and self.isSection(node.get_text()):
+      return [node]
+
+    onlyString = True
+    for child in node.children:
+      if child.name is not None:
+        onlyString = False
+    if onlyString:
+      return [node]
+    
+    nodes = []
+    for child in node.children:
+      nodes += self.pluckNode(child)
+    return nodes
+  
+  def isSection(self, content):
+    if not re.match(r'^[ ]*ITEM(.*)', content, re.IGNORECASE) and not re.match(r'^[ ]*NOTE(.*)', content, re.IGNORECASE):
+      return False
+    content = content.upper().replace('ITEM', '').replace('ITEMS', '').replace('NOTE', '').replace('NOTES', '')
+    content = utils.strEncode(content)
+    if content:
+      return True
+    return False
+  
+  def getSection(self, nodes, index):
+    index = index - 1
+    while index >= 0:
+      node = nodes[index]
+      if node.name != None and self.isSection(node.get_text()):
+        section = node.get_text()
+        section = re.sub('\s\s+', ' ', section)
+        return section
+      index -= 1
+    return ''
+  
+  def getNodeContent(self, node):
+    if node.name == None:
+      return unicode(node)
+    else:
+      return node.get_text()
+
+  def getTableContext(self, nodes, index):
+    index = index - 1
+    context = []
+    contextEnough = False
+    while index >= 0:
+      if contextEnough:
+        break
+      node = nodes[index]
+      if node.name == 'table':
+        contextEnough = True
+      node_content = self.getNodeContent(node)
+      node_score = self.getContextNodeScore(node)
+      sentences = self.breakSentence(node_content)
+      sentences.reverse()
+      for sentence in sentences:
+        if contextEnough:
+          break
+        sentenceScore = self.getContextScore(sentence)
+        if sentenceScore > 2:
+          context.append(sentence)
+          contextEnough = True
+        elif sentenceScore > 0 and len(context) < 3:
+          context.append(sentence)
+      index -= 1
+    return context
+      
+
+  def breakSentence(self, content):
+    sentences = []
+    last_index = 0
+    for i in range(len(content)):
+      if content[i] not in printable:
+        continue
+      if content[i] == '.' or content[i] == ';':
+        sentences.append(content[last_index: i])
+        last_index = i + 1
+    sentences.append(content[last_index:])
+    sentences = [x for x in sentences if x]
+    return sentences
+      
+  def getContextNodeScore(self, node):
+    if node.name == 'b':
+      return 1
+    if node.name != None and 'id' in node.attrs.keys() and node['id'] == 'temp-section':
+      return 1
+    if node.name != None and 'style' in node.attrs and node['style'].upper().find('FONT-WEIGHT') > -1:
+      return 1
+    return 0
+
+  def getContextScore(self, content):
+    score = 0
+    if content.upper().find('FOLLOW') > -1:
+      score += 4
+    if content.upper().find('BELOW') > -1:
+      score += 2
+
+    if content.upper().find('TABLE') > -1:
+      score += 2
+
+    if content.upper().find('PRESENT') > -1:
+      score += 1
+    if content.upper().find('PROVIDE') > -1:
+      score += 1
+    if content.upper().find('SUMMARIZE') > -1:
+      score += 1
+    if content.upper().find('SHOW') > -1:
+      score += 1
+    return score
+
+
+
