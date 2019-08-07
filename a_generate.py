@@ -76,6 +76,5 @@ class Generator:
 
 
 
-# Generator().start(['0C00000ADA'])
-Generator().handleReport('HKfqJGsB4fMJE2Jmg_jH')
+Generator().start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
 
