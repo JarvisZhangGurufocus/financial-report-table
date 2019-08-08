@@ -104,5 +104,4 @@ class Generator:
         'context': context, 'section': section
       })
 
-Generator()
-# .start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
+Generator().start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
