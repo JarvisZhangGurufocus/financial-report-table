@@ -66,6 +66,7 @@ class Generator:
       index = nodes.index(table)
       section = htmlHelper.getSection(nodes, index)
       section = ''.join([x for x in section if x in printable])
+      section = utils.strEncode(section)
       
       context = htmlHelper.getTableContext(nodes, index)
       context = ';'.join([ utils.strEncode(x) for x in context ])
