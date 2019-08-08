@@ -22,7 +22,7 @@ class HtmlHelper:
     return soup.get_text()
 
   def getTableCells(self, html):
-    if type(html) is str or unicode:
+    if type(html) is str or type(html) is unicode:
       html = html.replace('<br/>', ' ').replace('<br>', ' ').replace('<br />', ' ').replace('\n', ' ').replace('\r', ' ')
       soup = BeautifulSoup(html, features='html.parser')
     else:
