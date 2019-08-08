@@ -14,7 +14,7 @@ utils = Utils()
 printable = set(string.printable)
 
 class Generator:
-  def start(self, morn_comp_ids):
+  def __init__(self):
     self.handled_reports = []
     self.handled_tables = []
 
@@ -30,6 +30,7 @@ class Generator:
     if len(self.handled_tables) > 0:
       self.handled_tables.pop()
 
+  def start(self, morn_comp_ids):
     self.log('STARTED %s' % time.ctime())
     for morn_comp_id in morn_comp_ids:
       self.handleStock(morn_comp_id)
@@ -100,7 +101,4 @@ class Generator:
         'context': context, 'section': section
       })
 
-
-
 Generator().start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
-

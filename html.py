@@ -22,7 +22,7 @@ class HtmlHelper:
     return soup.get_text()
 
   def getTableCells(self, html):
-    if type(html) is str:
+    if type(html) is str or unicode:
       html = html.replace('<br/>', ' ').replace('<br>', ' ').replace('<br />', ' ').replace('\n', ' ').replace('\r', ' ')
       soup = BeautifulSoup(html, features='html.parser')
     else:
@@ -84,7 +84,6 @@ class HtmlHelper:
 
   def formatCell(self, cell):
     cell['date'] = ''
-
     attrs = []
     for attr in cell['attrs']:
       pieces = attr['value'].split()
@@ -107,7 +106,7 @@ class HtmlHelper:
             cell['date'] = date
         elif pieces[i].isdigit():
           attr['value'] = attr['value'].replace(pieces[i], '')
-          if pieces[i] > '1970' and pieces[i] < '2050' and len(pieces[i]) > len(cell['date']):
+          if pieces[i].isdigit() and int(pieces[i]) > 1970 and int(pieces[i]) < 2050 and len(pieces[i]) > len(cell['date']):
             cell['date'] = pieces[i]
         i -= 1
       attr['value'] = re.sub(' +', ' ', attr['value'])
