@@ -1,5 +1,6 @@
 import re
 import string
+import time
 
 from elastic import ElasticHelper
 from html import HtmlHelper
@@ -24,15 +25,17 @@ class Generator:
       elif 'CELLS IN TABLE' in log:
         self.handled_tables.append(log.split('CELLS IN TABLE')[1].strip())
     
-    self.handled_reports.pop()
-    self.handled_tables.pop()
+    if len(self.handled_reports) > 0:
+      self.handled_reports.pop()
+    if len(self.handled_tables) > 0:
+      self.handled_tables.pop()
 
-    self.log('STARTED')
+    self.log('STARTED %s' % time.ctime())
     for morn_comp_id in morn_comp_ids:
       self.handleStock(morn_comp_id)
 
-  def log(content):
-    utils.appendFile('logs/generate', '%s\n' % content)
+  def log(self, content):
+    utils.appendFile('logs/generate', content)
 
   def handleStock(self, morn_comp_id):
     self.log('HANDLE STOCK %s' % morn_comp_id)
