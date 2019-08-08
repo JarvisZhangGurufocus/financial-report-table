@@ -14,18 +14,37 @@ printable = set(string.printable)
 
 class Generator:
   def start(self, morn_comp_ids):
-    print 'STARTED'
+    self.handled_reports = []
+    self.handled_tables = []
+
+    logs = utils.readFile('logs/generate').split('\n')
+    for log in logs:
+      if 'HANDLE REPORT' in log:
+        self.handled_reports.append(log.split('HANDLE REPORT')[1].strip())
+      elif 'CELLS IN TABLE' in log:
+        self.handled_tables.append(log.split('CELLS IN TABLE')[1].strip())
+    
+    self.handled_reports.pop()
+    self.handled_tables.pop()
+
+    self.log('STARTED')
     for morn_comp_id in morn_comp_ids:
       self.handleStock(morn_comp_id)
 
+  def log(content):
+    utils.appendFile('logs/generate', '%s\n' % content)
+
   def handleStock(self, morn_comp_id):
-    print 'HANDLE STOCK %s' % morn_comp_id
+    self.log('HANDLE STOCK %s' % morn_comp_id)
     report_ids = elasticHelper.getStockReports(morn_comp_id)
     for report_id in report_ids:
       self.handleReport(report_id)
   
   def handleReport(self, report_id):
-    print 'HANDLE REPORT %s' % report_id
+    if report_id in self.handled_reports:
+      return
+
+    self.log('HANDLE REPORT %s' % report_id)
     resultTables = []
 
     report = elasticHelper.getReport(report_id)
@@ -34,11 +53,14 @@ class Generator:
     tables = [x for x in soup.find_all("table") if 'id' in x.attrs.keys()]
     tableIdxs = [ nodes.index(table) for table in tables ]
 
-    print '   %s TABLE in REPORT' % str(len(tables))
+    self.log('   %s TABLE in REPORT' % str(len(tables)))
     for table in tables:
-      index = nodes.index(table)
-
       table_id = str(report['_source']['document_id']) + ':' + table.attrs['id']
+
+      if table_id in self.handled_tables:
+        continue
+
+      index = nodes.index(table)
       section = htmlHelper.getSection(nodes, index)
       section = ''.join([x for x in section if x in printable])
       
@@ -50,7 +72,7 @@ class Generator:
       other_tags = set()
 
       cells = htmlHelper.getTableCells(table)
-      print '     %s CELLS IN TABLE %s' % (len(cells), table_id)
+      self.log('     %s CELLS IN TABLE %s' % (len(cells), table_id))
       for cell in cells:
         cell['table_id'] = table_id
         if not cell['date']:
@@ -64,9 +86,9 @@ class Generator:
             other_tags.add(attr['value'])
         mysqlHelper.saveCell(cell)
       
-      primary_tags = ';'.join([x for x in primary_tags])
-      secondary_tags = ';'.join([x for x in secondary_tags])
-      other_tags = ';'.join([x for x in other_tags])
+      primary_tags = ';'.join([utils.strEncode(x) for x in primary_tags])
+      secondary_tags = ';'.join([utils.strEncode(x) for x in secondary_tags])
+      other_tags = ';'.join([utils.strEncode(x) for x in other_tags])
 
       mysqlHelper.saveTable({
         'table_id': table_id,
