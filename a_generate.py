@@ -24,9 +24,9 @@ class Generator:
         self.handled_reports.append(log.split('HANDLE REPORT')[1].strip())
       elif 'CELLS IN TABLE' in log:
         self.handled_tables.append(log.split('CELLS IN TABLE')[1].strip())
-    
-    self.handled_reports = [set(self.handled_reports)]
-    self.handled_tables = [set(self.handled_tables)]
+
+    self.handled_reports = [x for x in set(self.handled_reports)]
+    self.handled_tables = [x for x in set(self.handled_tables)]
 
     if len(self.handled_reports) > 0:
       self.handled_reports.pop()
@@ -104,4 +104,5 @@ class Generator:
         'context': context, 'section': section
       })
 
-Generator().start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
+Generator()
+# .start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
