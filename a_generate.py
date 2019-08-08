@@ -25,13 +25,13 @@ class Generator:
       elif 'CELLS IN TABLE' in log:
         self.handled_tables.append(log.split('CELLS IN TABLE')[1].strip())
 
-    self.handled_reports = [x for x in set(self.handled_reports)]
-    self.handled_tables = [x for x in set(self.handled_tables)]
-
     if len(self.handled_reports) > 0:
       self.handled_reports.pop()
     if len(self.handled_tables) > 0:
       self.handled_tables.pop()
+    
+    self.handled_reports = [x for x in set(self.handled_reports)]
+    self.handled_tables = [x for x in set(self.handled_tables)]
 
   def start(self, morn_comp_ids):
     self.log('STARTED %s' % time.ctime())
