@@ -110,7 +110,8 @@ class Generator:
       mysqlHelper.saveTable({
         'table_id': table_id,
         'primary_tags': primary_tags, 'secondary_tags': secondary_tags, 'other_tags': other_tags, 
-        'context': context, 'section': section
+        'context': context, 'section': section, 'morn_comp_id': report['_source']['morn_comp_id'],
+        'document_type': report['_source']['document_type']
       })
 
 Generator().start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
