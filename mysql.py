@@ -21,11 +21,12 @@ class MySqlHelper:
     self.dbPWD = env['DB_PWD']
     self.db = env['DB']
 
-    self.cellTable = 'report_cells'
-    self.attrTable = 'report_attrs'
-    self.tagTable = 'report_tags'
-    self.cellAttrTable = 'report_cell_attrs'
-    self.attrTagTable = 'report_attr_tags'
+    self.table = env['TABLE']
+    self.cellTable = env['CELL_TABLE']
+    self.attrTable = env['ATTR_TABLE']
+    self.tagTable = env['TAG_TABLE']
+    self.cellAttrTable = env['CELL_ATTR_TABLE']
+    self.attrTagTable = env['ATTR_TAG_TABLE']
 
     self.connection = pymysql.connect(host=self.dbHost, port=self.dbPort, user=self.dbUser,password=self.dbPWD,db=self.db)
 
@@ -59,7 +60,7 @@ class MySqlHelper:
     else:
       return []
     
-    SQL = "SELECT * FROM report_tables WHERE %s = '%s'" % (key, value)
+    SQL = "SELECT * FROM %s WHERE %s = '%s'" % (self.table, key, value)
     return self.query(SQL)
 
   def saveTable(self, table):
@@ -76,8 +77,9 @@ class MySqlHelper:
       values.append(value)
     
     SQL = '''
-      INSERT INTO report_tables ({KEYS}) VALUES ({VALUES})
+      INSERT INTO {TABLE} ({KEYS}) VALUES ({VALUES})
     '''.format(
+      TABLE = self.table,
       KEYS = ','.join(keys),
       VALUES = "'" + "','".join(values) + "'"
     )

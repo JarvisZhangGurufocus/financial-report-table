@@ -23,7 +23,7 @@ sectionTransformer = joblib.load('pkls/transformer.section.pkl')
 sectionKnn = joblib.load('pkls/knn.section.pkl')
 
 def getXY():
-  tables = mysqlHelper.query('SELECT * FROM report_tables')
+  tables = mysqlHelper.query('SELECT * FROM %s' % mysqlHelper.table)
   pTags = []
   sTags = []
   oTags = []

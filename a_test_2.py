@@ -39,12 +39,14 @@ def getCellByTag(morn_comp_id, tag_ids):
 
   cell_ids = [str(x) for x in cell_ids]
   cells = mysqlHelper.query('''
-    SELECT report_cells.*, report_tables.morn_comp_id
-    FROM report_cells 
-    JOIN report_tables ON report_cells.table_id = report_tables.table_id
-    WHERE report_cells.id in ({ids}) AND morn_comp_id = '{morn_comp_id}'
-    ORDER BY report_cells.date
+    SELECT {cell_table}.*, {table}.morn_comp_id
+    FROM {cell_table} 
+    JOIN {table} ON {cell_table}.table_id = {table}.table_id
+    WHERE {cell_table}.id in ({ids}) AND morn_comp_id = '{morn_comp_id}'
+    ORDER BY {cell_table}.date
   '''.format(
+    table = mysqlHelper.table,
+    cell_table = mysqlHelper.cellTable,
     ids = ','.join(cell_ids),
     morn_comp_id = morn_comp_id
   ))

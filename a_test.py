@@ -23,6 +23,9 @@ def getTableCells(table_id):
     tag_ids += cell['tag_ids']
   tag_ids = [x for x in set(tag_ids)]
 
+  if len(tag_ids) == 0:
+    return []
+
   tags = mysqlHelper.query('''
     SELECT * FROM report_tags
     WHERE id in ({ids})
@@ -66,14 +69,13 @@ def getCellByTag(tag_ids):
   cell_ids = [str(x) for x in cell_ids]
   return mysqlHelper.query('SELECT * FROM report_cells WHERE id in (%s)' % ','.join(cell_ids))
 
-table = elasticHelper.getTable('1713062:0.1.1.1.1.1.2.3.734.2.8.0.0', 'table_id')
-cells = htmlHelper.getTableCells(table['_source']['content'])
+# table = elasticHelper.getTable('1713062:0.1.1.1.1.1.2.3.734.2.8.0.0', 'table_id')
+# cells = htmlHelper.getTableCells(table['_source']['content'])
 
-print cells
 
-# cells = getTableCells('1513:0.1.1.1.1.1.2.3.1310.0.0')
-# for cell in cells:
-#   print cell
+cells = getTableCells('1745567:6.3.391.0.0')
+for cell in cells:
+  print cell
 
   # print '===='
   # print cell

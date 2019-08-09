@@ -5,7 +5,7 @@ mysqlHelper = MySqlHelper()
 elasticHelper = ElasticHelper()
 
 reportMaps = {}
-tables = mysqlHelper.query('SELECT * FROM report_tables WHERE morn_comp_id is null and document_type is null')
+tables = mysqlHelper.query('SELECT * FROM %s WHERE morn_comp_id is null and document_type is null' % mysqlHelper.table)
 
 for table in tables:
   print table['id']
@@ -17,9 +17,10 @@ for table in tables:
     reportMaps[report_id] = report
   
   mysqlHelper.execute('''
-    UPDATE report_tables SET morn_comp_id = '{morn_comp_id}', document_type = '{document_type}' WHERE id = '{id}'
+    UPDATE {table} SET morn_comp_id = '{morn_comp_id}', document_type = '{document_type}' WHERE id = '{id}'
   '''.format(
     id = table['id'],
+    table = mysqlHelper.table,
     morn_comp_id = report['_source']['morn_comp_id'],
     document_type = report['_source']['document_type']
   ))
