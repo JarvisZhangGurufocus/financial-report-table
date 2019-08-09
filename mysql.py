@@ -68,9 +68,20 @@ class MySqlHelper:
     saved = self.searchTable(table)
     if len(saved) > 0:
       return saved[0]
-    SQL = "INSERT INTO report_tables (table_id, primary_tags, secondary_tags, other_tags, context, section) VALUES ('%s','%s','%s','%s','%s','%s')" % (
-      table['table_id'], table['primary_tags'], table['secondary_tags'], table['other_tags'], table['context'], table['section']
+
+    keys = []
+    values = []
+    for key, value in table.items():
+      keys.append(key)
+      value.append(value)
+    
+    SQL = '''
+      INSERT INTO report_tables ({KEYS}) VALUES ({VALUES})
+    '''.format(
+      KEYS = ','.join(keys),
+      VALUES = "'" + "','".join(values) + "'"
     )
+
     tableId = self.execute(SQL)
     table['id'] = tableId
     return table
