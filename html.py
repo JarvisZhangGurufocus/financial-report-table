@@ -31,17 +31,24 @@ class HtmlHelper:
   def isHeader(self, row):
     if self.isTitle(row[0]):
       return True
+    
     isEmpty = True
+    isDate = False
+    isNumber = False
     for content in row[1:]:
       if 'Month' in content:
-        return True
+        isDate = True
       if 'Year' in content:
-        return True
+        isDate = True
       if 'Day' in content:
-        return True
+        isDate = True
+      if utils.isNumber(content.replace('$', '').replace('%', '')):
+        isNumber = True
       if content:
         isEmpty = False
     if isEmpty:
+      return True
+    if isDate and not isNumber:
       return True
     return False
 
@@ -101,7 +108,8 @@ class HtmlHelper:
         for c in cells:
           if self.sameCell(cell, c):
             isSame = True
-        if not isSame:
+        isValide = self.valideCell(cell)
+        if not isSame and isValide:
           cells.append(cell)
     
     return cells
@@ -109,6 +117,13 @@ class HtmlHelper:
   def formatCell(self, cell):
     cell['date'] = ''
     attrs = []
+
+    primary_attrs = []
+    secondary_attrs = []
+    other_attrs = []
+
+    cell['attrs'].sort(key= lambda x: ['primary', 'secondary', 'other'].index(x['type']))
+
     for attr in cell['attrs']:
       pieces = attr['value'].split()
       i = len(pieces) - 1
@@ -134,11 +149,30 @@ class HtmlHelper:
             cell['date'] = pieces[i]
         i -= 1
       attr['value'] = re.sub(' +', ' ', attr['value'])
+      if attr['type'] == 'primary' and attr['value'] in primary_attrs:
+        continue
+      if attr['type'] == 'secondary' and (attr['value'] in primary_attrs or attr['value'] in secondary_attrs):
+        continue
+      if attr['type'] == 'other' and (attr['value'] in primary_attrs or attr['value'] in secondary_attrs or attr['value'] in other_attrs):
+        continue
       if attr['value'].replace(' ', ''):
         attrs.append(attr)
+      if attr['type'] == 'primary':
+        primary_attrs.append(attr['value'])
+      if attr['type'] == 'secondary':
+        secondary_attrs.append(attr['value'])
+      if attr['type'] == 'other':
+        other_attrs.append(attr['value'])
+    
     cell['attrs'] = attrs
 
     return cell
+
+  def valideCell(self, cell):
+    for attr in cell['attrs']:
+      if cell['value'] == attr['value']:
+        return False
+    return True
 
   def sameCell(self, cell1, cell2):
     if cell1 is None or cell2 is None:
