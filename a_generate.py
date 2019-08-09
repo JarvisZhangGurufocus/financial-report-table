@@ -15,26 +15,35 @@ printable = set(string.printable)
 
 class Generator:
   def __init__(self):
+    self.handled_stocks = []
     self.handled_reports = []
     self.handled_tables = []
 
     logs = utils.readFile('logs/generate').split('\n')
     for log in logs:
+      if 'HANDLE STOCK' in log:
+        self.handled_stocks.append(log.split('HANDLE STOCK')[1].strip())
       if 'HANDLE REPORT' in log:
         self.handled_reports.append(log.split('HANDLE REPORT')[1].strip())
       elif 'CELLS IN TABLE' in log:
         self.handled_tables.append(log.split('CELLS IN TABLE')[1].strip())
 
+    if len(self.handled_stocks) > 0:
+      self.handled_stocks.pop()
     if len(self.handled_reports) > 0:
       self.handled_reports.pop()
     if len(self.handled_tables) > 0:
       self.handled_tables.pop()
     
+    self.handled_stocks = [x for x in set(self.handled_stocks)]
     self.handled_reports = [x for x in set(self.handled_reports)]
     self.handled_tables = [x for x in set(self.handled_tables)]
 
   def start(self, morn_comp_ids):
     self.log('STARTED %s' % time.ctime())
+    self.log('%s STOCKS FINISHED' % str(len(self.handled_stocks)))
+    self.log('%s REPORTS FINISHED' % str(len(self.handled_reports)))
+    self.log('%s TABLES FINISHED' % str(len(self.handled_tables)))
     for morn_comp_id in morn_comp_ids:
       self.handleStock(morn_comp_id)
 
