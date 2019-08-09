@@ -60,9 +60,20 @@ def getCellByTag(tag_ids):
       cell_ids = ids
     else:
       cell_ids = list(set(cell_ids).intersection(set(ids)))
-  return cell_ids
+  cell_ids = [str(x) for x in cell_ids]
+  return mysqlHelper.query('SELECT * FROM report_cells WHERE id in (%s)' % ','.join(cell_ids))
 
 cells = getTableCells('1745567:6.3.235.0.1.0.0')
 for cell in cells:
-  print cell
-  print getCellByTag(cell['tag_ids'])
+  print '===='
+  for tag in cell['p_tags']:
+    print tag
+  for tag in cell['s_tags']:
+    print tag
+  for tag in cell['o_tags']:
+    print tag
+  print ''
+  print '%s %s' % (cell['date'], cell['value'])
+  similarCells = getCellByTag(cell['tag_ids'])
+  for similarCell in similarCells:
+    print '%s %s' % (similarCell['date'], similarCell['value'])

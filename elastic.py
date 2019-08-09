@@ -139,12 +139,12 @@ class ElasticHelper:
 
     return table['hits']['hits'][0]
   
-  def getReport(self, report_id):
+  def getReport(self, report_id, field = '_id'):
     report = self.client.search(index=self.reportIndex, size = 1, body={
       "query": {
         "bool": {
           "must":[
-            { "term": { "_id": report_id } }
+            { "term": { field: report_id } }
           ]
         }
       }
