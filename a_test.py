@@ -69,7 +69,7 @@ def getCellByTag(tag_ids):
   cell_ids = [str(x) for x in cell_ids]
   return mysqlHelper.query('SELECT * FROM report_cells WHERE id in (%s)' % ','.join(cell_ids))
 
-table = elasticHelper.getTable('1745567:6.3.159.0.0', 'table_id')
+table = elasticHelper.getTable('1527:0.1.1.1.1.1.1.2.87.17.15.13.37.57.43.21.31.37.29.47.25.37.11', 'table_id')
 cells = htmlHelper.getTableCells(table['_source']['content'])
 for cell in cells:
   print cell

@@ -28,6 +28,12 @@ class HtmlHelper:
       return True
     return False
 
+  def isEmptyHeader(self, row):
+    for content in row[1:]:
+      if content != '':
+        return False
+    return True
+
   def isHeader(self, row):
     if self.isTitle(row[0]):
       return True
@@ -67,6 +73,11 @@ class HtmlHelper:
 
     while len(body) > 0 and ( body[0][0] == '' or self.isHeader(body[0])):
       header.append(body.pop(0))
+    
+    countEmptyHeader = 0
+    while self.isEmptyHeader(header[len(header) - 1]) and countEmptyHeader < len(header):
+      header = [header[len(header) - 1]] + header[0:-1]
+      countEmptyHeader += 1
 
     cells = []
 
@@ -109,6 +120,7 @@ class HtmlHelper:
           if self.sameCell(cell, c):
             isSame = True
         isValide = self.valideCell(cell)
+
         if not isSame and isValide:
           cells.append(cell)
     
