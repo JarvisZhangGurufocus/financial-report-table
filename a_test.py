@@ -1,7 +1,10 @@
 from mysql import MySqlHelper
+from elastic import ElasticHelper
+from html import HtmlHelper
 
 mysqlHelper = MySqlHelper()
-
+elasticHelper = ElasticHelper()
+htmlHelper = HtmlHelper()
 
 def getTableCells(table_id):
   cells = mysqlHelper.query('''
@@ -63,17 +66,25 @@ def getCellByTag(tag_ids):
   cell_ids = [str(x) for x in cell_ids]
   return mysqlHelper.query('SELECT * FROM report_cells WHERE id in (%s)' % ','.join(cell_ids))
 
-cells = getTableCells('1745567:6.3.235.0.1.0.0')
-for cell in cells:
-  print '===='
-  for tag in cell['p_tags']:
-    print tag
-  for tag in cell['s_tags']:
-    print tag
-  for tag in cell['o_tags']:
-    print tag
-  print ''
-  print '%s %s' % (cell['date'], cell['value'])
-  similarCells = getCellByTag(cell['tag_ids'])
-  for similarCell in similarCells:
-    print '%s %s' % (similarCell['date'], similarCell['value'])
+table = elasticHelper.getTable('1713062:0.1.1.1.1.1.2.3.734.2.8.0.0', 'table_id')
+cells = htmlHelper.getTableCells(table['_source']['content'])
+
+print cells
+
+# cells = getTableCells('1513:0.1.1.1.1.1.2.3.1310.0.0')
+# for cell in cells:
+#   print cell
+
+  # print '===='
+  # print cell
+  # for tag in cell['p_tags']:
+  #   print tag
+  # for tag in cell['s_tags']:
+  #   print tag
+  # for tag in cell['o_tags']:
+  #   print tag
+  # print ''
+  # print '%s %s' % (cell['date'], cell['value'])
+  # similarCells = getCellByTag(cell['tag_ids'])
+  # for similarCell in similarCells:
+  #   print '%s %s' % (similarCell['date'], similarCell['value'])

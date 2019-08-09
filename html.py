@@ -21,6 +21,30 @@ class HtmlHelper:
     soup = BeautifulSoup(html, features='html.parser')
     return soup.get_text()
 
+  def isTitle(self, content):
+    if 'In Millions' in content:
+      return True
+    if 'In Billions' in content:
+      return True
+    return False
+
+  def isHeader(self, row):
+    if self.isTitle(row[0]):
+      return True
+    isEmpty = True
+    for content in row[1:]:
+      if 'Month' in content:
+        return True
+      if 'Year' in content:
+        return True
+      if 'Day' in content:
+        return True
+      if content:
+        isEmpty = False
+    if isEmpty:
+      return True
+    return False
+
   def getTableCells(self, html):
     if type(html) is str or type(html) is unicode:
       html = html.replace('<br/>', ' ').replace('<br>', ' ').replace('<br />', ' ').replace('\n', ' ').replace('\r', ' ')
@@ -34,9 +58,9 @@ class HtmlHelper:
     if len(body) == 0:
       return []
 
-    while len(body) > 0 and body[0][0] == '':
+    while len(body) > 0 and ( body[0][0] == '' or self.isHeader(body[0])):
       header.append(body.pop(0))
-    
+
     cells = []
 
     attr = None
@@ -67,9 +91,9 @@ class HtmlHelper:
         if attr is not None:
           cell['attrs'].append(attr)
         for h in range(len(header) - 1):
+          if header[h][0] != '':
+            cell['attrs'].append({'value': header[0][0], 'type': 'other'})
           cell['attrs'].append({'value': header[h][i], 'type': 'secondary'})
-        if header[0][0] != '':
-          cell['attrs'].append({'value': header[0][0], 'type': 'other'})
         
         cell = self.formatCell(cell)
 
