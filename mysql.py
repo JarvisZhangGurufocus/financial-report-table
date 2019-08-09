@@ -73,7 +73,7 @@ class MySqlHelper:
     values = []
     for key, value in table.items():
       keys.append(key)
-      value.append(value)
+      values.append(value)
     
     SQL = '''
       INSERT INTO report_tables ({KEYS}) VALUES ({VALUES})
