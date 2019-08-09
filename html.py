@@ -79,8 +79,10 @@ class HtmlHelper:
       header = [header[len(header) - 1]] + header[0:-1]
       countEmptyHeader += 1
 
-    cells = []
+    print header
+    print body
 
+    cells = []
     attr = None
     for row in body:
       if row[0] == '':

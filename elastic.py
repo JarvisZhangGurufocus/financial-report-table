@@ -19,8 +19,16 @@ class ElasticHelper:
         "bool": {
           "should":[
             { "term": { 
-              "document_id": report['_source']['document_id'] 
-            }},
+                "document_id": report['_source']['document_id'] 
+              }
+            },
+          ],
+          "must":[
+            {
+              "terms": {
+                "document_type": ["10-Q", "10-K"]
+              }
+            }
           ]
         }
       }
