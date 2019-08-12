@@ -240,6 +240,10 @@ class MySqlHelper:
   def searchFrame(self, frame):
     WHERES = '1 '
     for key in frame.keys():
+      if key == 'name':
+        continue
+      if key == 'rows':
+        continue
       if type(frame[key]) is not list and type(frame[key]) is not dict:
         WHERES += "AND %s = '%s' " % (key, frame[key])
     SQL = 'SELECT * FROM %s WHERE %s' % (self.frameTable, WHERES)
@@ -251,7 +255,7 @@ class MySqlHelper:
     saved = self.searchFrame(frame)
     if len(saved) > 0:
       return saved[0]
-    SQL = "INSERT INTO %s (rows, name) VALUES ('%s', '%s')" % (self.frameTable, frame['rows'], frame['name'])
+    SQL = "INSERT INTO %s (tags, rows, name) VALUES ('%s', '%s', '%s')" % (self.frameTable, frame['tags'], frame['rows'], frame['name'])
     frameId = self.execute(SQL)
     frame['id'] = frameId
     return frame

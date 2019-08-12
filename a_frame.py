@@ -71,7 +71,9 @@ def handleTable(table_id):
       for tag in secondary_group[0]['o_tags']:
         frame_name += tag['value'] + ' '
       frame_name = frame_name.strip()
+      
       rowIds = []
+      tagIds = []
       for cell in secondary_group:
         row_name = ''
         for tag in cell['p_tags']:
@@ -80,11 +82,15 @@ def handleTable(table_id):
           continue
         row = mysqlHelper.saveFrameRow({'name': row_name, 'tags': ','.join(cell['tag_ids'])})
         rowIds.append(str(row['id']))
+        tagIds += cell['tag_ids']
       
       rowIds = list(set(rowIds))
       rowIds.sort()
       
-      mysqlHelper.saveFrame({'name': frame_name, 'rows': ','.join(rowIds)})
+      tagIds = list(set(tagIds))
+      tagIds.sort()
+
+      mysqlHelper.saveFrame({'name': frame_name, 'rows': ','.join(rowIds), 'tags': ','.join(tagIds)})
       
 
 def groupBy(arr, key):
