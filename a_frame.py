@@ -9,7 +9,7 @@ htmlHelper = HtmlHelper()
 utils = Utils()
 
 def handleStock(morn_comp_id):
-  tables = mysqlHelper.query('SELECT table_id from %s' % mysqlHelper.table)
+  tables = mysqlHelper.query("SELECT table_id from %s WHERE filing_date > '2014-01-01'" % mysqlHelper.table)
   table_ids = [ x['table_id'] for x in tables ]
   for table_id in table_ids:
     handleTable(table_id)
@@ -76,6 +76,8 @@ def handleTable(table_id):
         row_name = ''
         for tag in cell['p_tags']:
           row_name += tag['value'] + ' '
+        if row_name == '':
+          continue
         row = mysqlHelper.saveFrameRow({'name': row_name, 'tags': ','.join(cell['tag_ids'])})
         rowIds.append(str(row['id']))
       
