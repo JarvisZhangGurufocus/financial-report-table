@@ -221,6 +221,8 @@ class MySqlHelper:
   def searchFrameRow(self, row):
     WHERES = '1 '
     for key in row.keys():
+      if key == 'name':
+        continue
       if type(row[key]) is not list and type(row[key]) is not dict:
         WHERES += "AND %s = '%s' " % (key, row[key])
     SQL = 'SELECT * FROM %s WHERE %s' % (self.frameRow, WHERES)
