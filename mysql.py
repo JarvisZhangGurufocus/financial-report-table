@@ -27,6 +27,8 @@ class MySqlHelper:
     self.tagTable = env['TAG_TABLE']
     self.cellAttrTable = env['CELL_ATTR_TABLE']
     self.attrTagTable = env['ATTR_TAG_TABLE']
+    self.frameTable = env['FRAME_TABLE']
+    self.frameRow = env['FRAME_ROW']
 
     self.connection = pymysql.connect(host=self.dbHost, port=self.dbPort, user=self.dbUser,password=self.dbPWD,db=self.db)
 
@@ -215,3 +217,41 @@ class MySqlHelper:
 
     attrTag['id'] = attrTagId
     return attrTag
+  
+  def searchFrameRow(self, row):
+    WHERES = '1 '
+    for key in row.keys():
+      if type(row[key]) is not list and type(row[key]) is not dict:
+        WHERES += "AND %s = '%s' " % (key, row[key])
+    SQL = 'SELECT * FROM %s WHERE %s' % (self.frameRow, WHERES)
+    return self.query(SQL)
+  
+  def saveFrameRow(self, row):
+    if row is None:
+      return
+    saved = self.searchFrameRow(row)
+    if len(saved) > 0:
+      return saved[0]
+    SQL = "INSERT INTO %s (tags, name) VALUES ('%s', '%s')" % (self.frameRow, row['tags'], row['name'])
+    rowId = self.execute(SQL)
+    row['id'] = rowId
+    return row
+  
+  def searchFrame(self, frame):
+    WHERES = '1 '
+    for key in frame.keys():
+      if type(frame[key]) is not list and type(frame[key]) is not dict:
+        WHERES += "AND %s = '%s' " % (key, frame[key])
+    SQL = 'SELECT * FROM %s WHERE %s' % (self.frameTable, WHERES)
+    return self.query(SQL)
+
+  def saveFrame(self, frame):
+    if frame is None:
+      return
+    saved = self.searchFrame(frame)
+    if len(saved) > 0:
+      return saved[0]
+    SQL = "INSERT INTO %s (rows, name) VALUES ('%s', '%s')" % (self.frameTable, frame['rows'], frame['name'])
+    frameId = self.execute(SQL)
+    frame['id'] = frameId
+    return frame

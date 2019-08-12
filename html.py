@@ -34,6 +34,29 @@ class HtmlHelper:
         return False
     return True
 
+  def isOneValueHeader(self, row):
+    if len(row) < 2:
+      return False
+    c = ''
+    for content in row[1:]:
+      if content != '':
+        c = content
+    if utils.isNumber(c):
+      return False
+    for content in row[2:]:
+      if content != c:
+        return False
+    return True
+
+  def isAttrRow(self, row):
+    if self.isEmptyHeader(row):
+      return row[0]
+    elif self.isOneValueHeader(row):
+      for content in row:
+        if content != '':
+          return content
+    return False
+
   def isHeader(self, row):
     if self.isTitle(row[0]):
       return True
@@ -79,24 +102,17 @@ class HtmlHelper:
       header = [header[len(header) - 1]] + header[0:-1]
       countEmptyHeader += 1
 
-    print header
-    print body
-
     cells = []
     attr = None
     for row in body:
+      rowAttr = self.isAttrRow(row)
+      if rowAttr and rowAttr != '':
+        attr = { 'value': rowAttr, 'type': 'secondary' }
+        continue
+
       if row[0] == '':
         continue
 
-      isAttr = True
-      for i in range(len(row)):
-        if i > 0 and row[i] != '' and row[i] != row[i-1]:
-          isAttr = False
-      
-      if isAttr:
-        attr = { 'value': row[0], 'type': 'secondary' }
-        continue
-      
       for i in range(len(row)):
         if i == 0:
           continue
