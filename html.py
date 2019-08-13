@@ -89,8 +89,10 @@ class HtmlHelper:
       soup = html
     
     body = self.table2Array(soup)
+    if len(body) == 0:
+      return []
+    
     header = [body.pop(0)]
-
     if len(body) == 0:
       return []
 
