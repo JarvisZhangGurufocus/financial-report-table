@@ -289,6 +289,9 @@ class HtmlHelper:
         table.pop(y)
       y -= 1
     
+    if len(table) == 0 or len(table[0]) == 0:
+      return []
+
     # remove empty row
     x = len(table[0]) - 1
     while x >= 0:
