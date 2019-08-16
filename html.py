@@ -323,13 +323,13 @@ class HtmlHelper:
   def pluckNode(self, node):
     if node.name == None or node.name == 'table':
       return [node]
-    
+
     onlyFont = True
     for child in node.children:
-      if node.name is None or node.name == 'span' or node.name == 'font':
+      if child.name is None or child.name == 'span' or child.name == 'font' or child.name == 'a':
         continue
       onlyFont = False
-    if onlyFont and self.isSection(node.get_text()):
+    if onlyFont:
       return [node]
 
     onlyString = True
@@ -373,51 +373,39 @@ class HtmlHelper:
   def getTableContext(self, nodes, index):
     index = index - 1
     context = []
-    contextEnough = False
     while index >= 0:
-      if contextEnough:
-        break
       node = nodes[index]
-      if node.name == 'table':
-        contextEnough = True
-      node_content = self.getNodeContent(node)
-      node_score = self.getContextNodeScore(node)
-      sentences = self.breakSentence(node_content)
-      sentences.reverse()
-      for sentence in sentences:
-        if contextEnough:
-          break
-        sentenceScore = self.getContextScore(sentence)
-        if sentenceScore > 2:
-          context.append(sentence)
-          contextEnough = True
-        elif sentenceScore > 0 and len(context) < 3:
-          context.append(sentence)
+      if node.name == 'table' and 'id' in node.attrs:
+        break
+
+      nodeContent = self.getNodeContent(node)
+      nodeScore = self.getContextNodeScore(node)
+      contentScore = self.getContextScore(nodeContent)
+      
+      if nodeScore + contentScore > 0:
+        context.append(nodeContent)
+      if nodeScore + contentScore > 2:
+        break
+      if len(context) > 4:
+        break
+      
       index -= 1
+    
     return context
       
-
-  def breakSentence(self, content):
-    sentences = []
-    last_index = 0
-    for i in range(len(content)):
-      if content[i] not in printable:
-        continue
-      if content[i] == '.' or content[i] == ';':
-        sentences.append(content[last_index: i])
-        last_index = i + 1
-    sentences.append(content[last_index:])
-    sentences = [x for x in sentences if x]
-    return sentences
       
   def getContextNodeScore(self, node):
+    score = 0
     if node.name == 'b':
-      return 1
-    if node.name != None and 'id' in node.attrs.keys() and node['id'] == 'temp-section':
-      return 1
-    if node.name != None and 'style' in node.attrs and node['style'].upper().find('FONT-WEIGHT') > -1:
-      return 1
-    return 0
+      score += 1
+    if node.name == 'table':
+      score += 1
+    if node.name != None and 'style' in node.attrs:
+      if node['style'].upper().find('FONT-WEIGHT') > -1:
+        score += 1
+      if node['style'].upper().find('FONT-STYLE') > -1:
+        score += 1
+    return score
 
   def getContextScore(self, content):
     score = 0

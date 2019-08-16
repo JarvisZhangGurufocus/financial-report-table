@@ -112,7 +112,9 @@ class ElasticHelper:
       "query": {
         "bool": {
           "must":[
-            { "term": { "morn_comp_id": morn_comp_id } }
+            { "term": { "morn_comp_id": morn_comp_id } },
+            { "range": { "filling_date": { "gte": "2010-01-01" } } },
+            { "terms": { "document_type": ["10-Q", "10-K"] } }
           ]
         }
       },

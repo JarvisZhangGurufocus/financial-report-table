@@ -65,9 +65,31 @@ class MySqlHelper:
     SQL = "SELECT * FROM %s WHERE %s = '%s'" % (self.table, key, value)
     return self.query(SQL)
 
+  def updateTable(self, table):
+    if not table or 'table_id' not in table.keys():
+      return
+
+    UPDATES = []
+    for key in table.keys():
+      if key == 'table_id':
+        continue
+      UPDATES.append("%s = '%s'" % (key, table[key]))
+    
+    SQL = '''
+      UPDATE {TABLE} SET {UPDATES} WHERE table_id = '{TABLE_ID}'
+    '''.format(
+      TABLE = self.table,
+      UPDATES = ','.join(UPDATES),
+      TABLE_ID = table['table_id']
+    )
+
+    self.execute(SQL)
+    return table
+
   def saveTable(self, table):
     if table is None:
       return
+    
     saved = self.searchTable(table)
     if len(saved) > 0:
       return saved[0]

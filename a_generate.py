@@ -72,17 +72,17 @@ class Generator:
     self.log('   %s TABLE in REPORT' % str(len(tables)))
     for table in tables:
       table_id = str(report['_source']['document_id']) + ':' + table.attrs['id']
-
       if table_id in self.handled_tables:
         continue
 
       index = nodes.index(table)
-      section = htmlHelper.getSection(nodes, index)
-      section = ''.join([x for x in section if x in printable])
-      section = utils.strEncode(section)
-      
+
       context = htmlHelper.getTableContext(nodes, index)
-      context = ';'.join([ utils.strEncode(x) for x in context ])
+      context = '. '.join(context)
+      context = utils.strEncode(context)
+      
+      section = htmlHelper.getSection(nodes, index)
+      section = utils.strEncode(section)
 
       primary_tags = set()
       secondary_tags = set()
@@ -102,7 +102,6 @@ class Generator:
           if attr['type'] == 'other':
             other_tags.add(attr['value'])
         mysqlHelper.saveCell(cell)
-      
       primary_tags = ';'.join([utils.strEncode(x) for x in primary_tags])
       secondary_tags = ';'.join([utils.strEncode(x) for x in secondary_tags])
       other_tags = ';'.join([utils.strEncode(x) for x in other_tags])
@@ -115,4 +114,6 @@ class Generator:
         'filing_date': report['_source']['filling_date']
       })
 
-Generator().start(['0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'])
+Generator().start([
+  '0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'
+])
