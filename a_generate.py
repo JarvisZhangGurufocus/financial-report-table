@@ -15,13 +15,12 @@ printable = set(string.printable)
 
 class Generator:
   def __init__(self):
-    
     self.handled_stocks = utils.readFile('logs/stocks').split('\n')
     self.handled_reports = utils.readFile('logs/reports').split('\n')
     self.handled_tables = utils.readFile('logs/tables').split('\n')
-    self.handled_stocks = [x for x in set(self.handled_stocks)]
-    self.handled_reports = [x for x in set(self.handled_reports)]
-    self.handled_tables = [x for x in set(self.handled_tables)]
+    self.handled_stocks = [x for x in set(self.handled_stocks) if x]
+    self.handled_reports = [x for x in set(self.handled_reports) if x]
+    self.handled_tables = [x for x in set(self.handled_tables) if x]
 
   def log(self, file, content):
     file = 'logs/%s' % file
