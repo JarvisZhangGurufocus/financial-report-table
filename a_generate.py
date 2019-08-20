@@ -89,6 +89,7 @@ class Generator:
       other_tags = set()
 
       cells = htmlHelper.getTableCells(table)
+
       self.log('     %s CELLS IN TABLE %s' % (len(cells), table_id))
       for cell in cells:
         cell['table_id'] = table_id
@@ -115,6 +116,6 @@ class Generator:
       })
 
 Generator().start([
-  # '0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'
+  '0C000006U3','0C000009HV','0C000009L0','0C00000ADA','0C00000XW0','0C00000ZJQ','0C00001OH5','0C00008K5V'
   '0C000006SM', '0C000006SM', '0C000006SO', '0C000006SP', '0C000006SQ', '0C000006SR', '0C000006SS', '0C000006ST'
 ])

@@ -106,7 +106,8 @@ class HtmlHelper:
 
     cells = []
     attr = None
-    for row in body:
+    for y in range(len(body)):
+      row = body[y]
       rowAttr = self.isAttrRow(row)
       if rowAttr and rowAttr != '':
         attr = { 'value': rowAttr, 'type': 'secondary' }
@@ -122,10 +123,15 @@ class HtmlHelper:
           continue
         if header[len(header) - 1][i] == '':
           continue
-        cell = { 'value': row[i], 'attrs':[
-          { 'type': 'primary', 'value': row[0] },
-          { 'type': 'primary', 'value': header[len(header) - 1][i] }
-        ]}
+        cell = { 
+          'x': str(i),
+          'y': str(y),
+          'value': row[i], 
+          'attrs':[
+            { 'type': 'primary', 'value': row[0] },
+            { 'type': 'primary', 'value': header[len(header) - 1][i] }
+          ]
+        }
         if attr is not None:
           cell['attrs'].append(attr)
         for h in range(len(header) - 1):

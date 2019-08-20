@@ -128,8 +128,8 @@ class MySqlHelper:
     saved = self.searchCell(cell)
     if len(saved) > 0:
       return saved[0]
-    SQL = "INSERT INTO %s (value, date, table_id) VALUES ('%s','%s','%s')" % (
-      self.cellTable, cell['value'], parse(cell['date']).strftime("%Y-%m-%d"), cell['table_id'])
+    SQL = "INSERT INTO %s (value, date, table_id, x, y) VALUES ('%s','%s','%s', '%s', '%s')" % (
+      self.cellTable, cell['value'], parse(cell['date']).strftime("%Y-%m-%d"), cell['table_id'], cell['x'], cell['y'])
     cellId = self.execute(SQL)
     if 'attrs' in cell.keys():
       for attr in cell['attrs']:
