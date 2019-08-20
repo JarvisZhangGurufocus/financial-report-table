@@ -1,5 +1,5 @@
 # coding: utf8
-
+import os
 import re
 import time
 import string
@@ -167,6 +167,8 @@ class Utils:
     file.close()
 
   def readFile(self, path):
+    if not os.path.exists(path)
+      return ''
     file = open(path, "r+")
     content = file.read()
     file.close()
