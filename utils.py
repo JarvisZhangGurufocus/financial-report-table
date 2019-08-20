@@ -167,12 +167,12 @@ class Utils:
     file.close()
 
   def readFile(self, path):
-    file = open(path, "r")
+    file = open(path, "r+")
     content = file.read()
     file.close()
     return content
   
   def appendFile(self, path, content):
-    file = open(path, 'a')
+    file = open(path, 'a+')
     file.write(content + '\n')
     file.close()
