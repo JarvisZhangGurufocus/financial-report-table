@@ -96,9 +96,12 @@ class HtmlHelper:
     if len(body) == 0:
       return []
 
-    while len(body) > 0 and ( body[0][0] == '' or self.isHeader(body[0])):
+    while len(body) > 0 and ( body[0][0] == '' or self.isHeader(body[0]) ):
       header.append(body.pop(0))
     
+    if ken(body) == 0:
+      return []
+
     countEmptyHeader = 0
     while self.isEmptyHeader(header[len(header) - 1]) and countEmptyHeader < len(header):
       header = [header[len(header) - 1]] + header[0:-1]
@@ -324,7 +327,7 @@ class HtmlHelper:
         for y in range(len(table)):
           table[y] = table[y][1:]
 
-    return table
+    return [x for x in table if len(x) > 0]
 
   def pluckNode(self, node):
     if node.name == None or node.name == 'table':
