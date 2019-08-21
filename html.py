@@ -99,7 +99,7 @@ class HtmlHelper:
     while len(body) > 0 and ( body[0][0] == '' or self.isHeader(body[0]) ):
       header.append(body.pop(0))
     
-    if ken(body) == 0:
+    if len(body) == 0:
       return []
 
     countEmptyHeader = 0
