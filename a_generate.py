@@ -58,6 +58,8 @@ class Generator:
       table_id = str(report['_source']['document_id']) + ':' + table.attrs['id']
       if table_id in self.handled_tables:
         continue
+      if not table in nodes:
+        continue
 
       index = nodes.index(table)
 
