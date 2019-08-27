@@ -52,7 +52,7 @@ class Generator:
     soup = htmlHelper.htmlSoup(report['_source']['content'])
     nodes = htmlHelper.pluckNode(soup)
     tables = [x for x in soup.find_all("table") if 'id' in x.attrs.keys()]
-    tableIdxs = [ nodes.index(table) for table in tables ]
+    tableIdxs = [ nodes.index(table) for table in tables if table in nodes ]
 
     for table in tables:
       table_id = str(report['_source']['document_id']) + ':' + table.attrs['id']
