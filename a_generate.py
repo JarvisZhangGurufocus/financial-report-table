@@ -13,6 +13,8 @@ logging.basicConfig(level = logging.DEBUG, filename = 'logs/logs', format = '%(m
 
 class Generator:
   def __init__(self):
+    print('INIT GENERATOR')
+
     self.elasticHelper = ElasticHelper()
     self.htmlHelper = HtmlHelper()
     self.mysqlHelper = MySqlHelper()
@@ -25,13 +27,13 @@ class Generator:
     self.handled_reports = [x for x in set(self.handled_reports) if x]
     self.handled_tables = [x for x in set(self.handled_tables) if x]
 
-    self.log = self.utils.setupLogger('logs', 'logs/logs', logging.DEBUG)
+    self.log = self.utils.setupLogger('generator', 'logs/logs', logging.DEBUG)
     self.stockLog = self.utils.setupLogger('stocks', 'logs/stocks', logging.DEBUG)
     self.reportLog = self.utils.setupLogger('reports', 'logs/reports', logging.DEBUG)
     self.tableLog = self.utils.setupLogger('tables', 'logs/tables', logging.DEBUG)
 
   def start(self, morn_comp_ids):
-    self.log.info('STARTED %s' % time.ctime())
+    self.log.info('GENERATOR STARTED %s' % time.ctime())
     self.log.info('%s STOCKS FINISHED' % str(len(self.handled_stocks)))
     self.log.info('%s REPORTS FINISHED' % str(len(self.handled_reports)))
     self.log.info('%s TABLES FINISHED' % str(len(self.handled_tables)))

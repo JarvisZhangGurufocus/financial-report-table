@@ -37,3 +37,5 @@ while len(ids) > 0:
 # truncate gurufocu_data.filing_cells;
 # truncate gurufocu_data.filing_tables;
 # truncate gurufocu_data.filing_tags;
+
+# 20368
