@@ -17,7 +17,7 @@ class GenerarteThread (threading.Thread):
 env = env()
 connection = pymysql.connect(host=env['DB_HOST'], port=int(env['DB_PORT']), user=env['DB_USER'],password=env['DB_PWD'],db='gurufocu_main')
 cur = connection.cursor(pymysql.cursors.DictCursor)
-cur.execute('SELECT distinct morn_comp_id from stock_list where morn_comp_id not null;')
+cur.execute('SELECT distinct morn_comp_id from stock_list where morn_comp_id is not null;')
 
 ids = []
 for row in cur:
@@ -38,4 +38,5 @@ while len(ids) > 0:
 # truncate gurufocu_data.filing_tables;
 # truncate gurufocu_data.filing_tags;
 
-# 20368
+# nohup python -u index.py > logs/nohup.log 2>&1 &
+# 3555
