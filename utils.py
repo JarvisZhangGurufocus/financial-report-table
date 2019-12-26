@@ -3,7 +3,10 @@ import os
 import re
 import time
 import string
+import logging
 import nltk
+
+nltk.download("stopwords")
 
 from datetime import datetime
 from nltk.corpus import stopwords
@@ -178,3 +181,17 @@ class Utils:
     file = open(path, 'a+')
     file.write(content + '\n')
     file.close()
+
+  def setupLogger(self, name, filename, level=logging.info):
+    l = logging.getLogger(name)
+    formatter = logging.Formatter('%(message)s')
+    fileHandler = logging.FileHandler(filename, mode='w')
+    fileHandler.setFormatter(formatter)
+    streamHandler = logging.StreamHandler()
+    streamHandler.setFormatter(formatter)
+
+    l.setLevel(level)
+    l.addHandler(fileHandler)
+    l.addHandler(streamHandler)
+    
+    return logging.getLogger(name)

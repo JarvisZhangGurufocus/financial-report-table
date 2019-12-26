@@ -1,5 +1,4 @@
 clusters/*
-logs/*
 words/*
 *.pyc
 .env
