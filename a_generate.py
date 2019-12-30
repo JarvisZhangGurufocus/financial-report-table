@@ -48,7 +48,7 @@ class Generator:
     for report_id in report_ids:
       self.handleReport(report_id)
       self.reportLog.info(report_id)
-      self.log.info('Generator %s handle %s' % (self.workerId, report_id))
+      self.log.info('Generator %s finish report %s' % (self.workerId, report_id))
   
   def handleReport(self, report_id):
     if report_id in self.handled_reports:
