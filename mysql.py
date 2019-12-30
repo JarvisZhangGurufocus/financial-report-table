@@ -116,7 +116,10 @@ class MySqlHelper:
     WHERES = '1 '
     for key in cell.keys():
       if key == 'date':
-        cell[key] = parse(cell[key]).strftime("%Y-%m-%d")
+        try:
+          cell[key] = parse(cell[key]).strftime("%Y-%m-%d")
+        except:
+          cell[key] = parse('01 %s' % cell[key]).strftime("%Y-%m-%d")
       if type(cell[key]) is not list and type(cell[key]) is not dict:
         WHERES += "AND %s = '%s' " % (key, cell[key])
     SQL = 'SELECT * FROM %s WHERE %s' % (self.cellTable, WHERES)

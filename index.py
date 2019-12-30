@@ -7,12 +7,13 @@ from mysql import MySqlHelper
 from env import env
 
 class GenerarteThread (threading.Thread):
-  def __init__(self, ids):
+  def __init__(self, workerId, ids):
     threading.Thread.__init__(self)
     self.ids = ids
+    self.workerId = workerId
   
   def run (self):
-    Generator().start(self.ids)
+    Generator(self.workerId).start(self.ids)
 
 env = env()
 connection = pymysql.connect(host=env['DB_HOST'], port=int(env['DB_PORT']), user=env['DB_USER'],password=env['DB_PWD'],db='gurufocu_main')
@@ -24,11 +25,17 @@ for row in cur:
   ids.append(row['morn_comp_id'])
 offset = int(len(ids) / 20)
 
+worker = 1
+threads = []
 while len(ids) > 0:
   fragment = ids[:offset]
-  thread = GenerarteThread(fragment)
-  thread.start()
+  thread = GenerarteThread(worker, fragment)
+  threads.append(thread)
   ids = ids[offset + 1:]
+  worker += 1
+
+for thread in threads:
+  thread.start()
 
 
 # truncate gurufocu_data.filing_attrs;
@@ -38,5 +45,5 @@ while len(ids) > 0:
 # truncate gurufocu_data.filing_tables;
 # truncate gurufocu_data.filing_tags;
 
-# nohup python -u index.py > logs/nohup.log 2>&1 &
+# nohup python -u index.py > logs/nohup 2>&1 &
 # 3555

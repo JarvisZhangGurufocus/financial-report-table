@@ -17,7 +17,7 @@ class ElasticHelper:
     self.client = Elasticsearch([env['ELASTIC_URL']])
   
   def getReportSections(self, report):
-    print(report['_source']['document_id'])
+    # print(report['_source']['document_id'])
     page = self.client.search(index=self.tableIndex, scroll = '2m', size = 100, body={
       "query": {
         "bool": {
