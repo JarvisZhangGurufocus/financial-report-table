@@ -28,10 +28,10 @@ SLOVER = 'lbfgs'
 
 def LoadData(morn_comp_ids):
   for morn_comp_id in morn_comp_ids:
-    print 'STOCK %s' % morn_comp_id
+    # print 'STOCK %s' % morn_comp_id
     tableIds = elasticHelper.getStockTables(morn_comp_id)
     for tableId in tableIds:
-      print ' TABLE %s (%s)' % (tableId, morn_comp_id)
+      # print ' TABLE %s (%s)' % (tableId, morn_comp_id)
       if os.path.exists("tables/%s" % tableId):
         continue
       table = elasticHelper.getTable(tableId)
@@ -43,7 +43,7 @@ def GetK():
   corpus = []
   i = 0
   for tableId in os.listdir('tables'):
-    print '  COLLECT %s %s' % (tableId, i)
+    # print '  COLLECT %s %s' % (tableId, i)
     i += 1
     content = utils.readFile('tables/%s' % tableId)
     content = cleanData(content)
@@ -54,7 +54,7 @@ def GetK():
   weight = tfidf.toarray()
   SSE = []
   for i in range(1, 400):
-    print '  CLUSTER %s' % i
+    # print '  CLUSTER %s' % i
     model = KMeans(n_clusters=i)
     model.fit(weight)
     SSE.append(model.inertia_)
@@ -65,10 +65,10 @@ def GetK():
   plt.show()
 
 def TfIdf():
-  print 'TFIDF'
+  # print 'TFIDF'
   corpus = []
   for tableId in os.listdir('tables'):
-    print '  COLLECT %s' % tableId
+    # print '  COLLECT %s' % tableId
     content = utils.readFile('tables/%s' % tableId)
     content = cleanData(content)
     corpus.append(content)
@@ -89,7 +89,7 @@ def TfIdf():
     tableClusters[label] += corpus[idx] + '\n'
   
   for label, content in tableClusters.items():
-    print '   %s' % label
+    # print '   %s' % label
     utils.saveFile('clusters/%s' % label, content)
   
   knn = LogisticRegression(solver=SLOVER)

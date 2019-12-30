@@ -85,7 +85,7 @@ def crossTest():
       entries.append((model_name, fold_idx, accuracy))
   cv_df = pandas.DataFrame(entries, columns=['model_name', 'fold_idx', 'accuracy'])
 
-  print cv_df.groupby('model_name').accuracy.mean()
+  # print cv_df.groupby('model_name').accuracy.mean()
 
   seaborn.boxplot(x='model_name', y='accuracy', data=cv_df)
   seaborn.stripplot(x='model_name', y='accuracy', data=cv_df, size=8, jitter=True, edgecolor="gray", linewidth=2)

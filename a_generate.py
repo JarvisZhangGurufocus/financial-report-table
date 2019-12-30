@@ -40,7 +40,8 @@ class Generator:
     for morn_comp_id in morn_comp_ids:
       self.handleStock(morn_comp_id)
       self.stockLog.info(morn_comp_id)
-    self.log.info('DONE')
+      self.log.info('Generator %s finish stock %s' % (self.workerId, morn_comp_id))
+    self.log.info('DONE %s' % self.workerId)
 
   def handleStock(self, morn_comp_id):
     report_ids = self.elasticHelper.getStockReports(morn_comp_id)
@@ -108,3 +109,4 @@ class Generator:
       })
 
       self.tableLog.info(table_id)
+      self.log.info('Generator %s finish table %s' % (self.workerId, table_id))
