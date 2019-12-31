@@ -202,5 +202,3 @@ class Utils:
       if word in tagStopWords:
         return 1
     return 0
-
-print(Utils().cleanData('month dollar thousand year table january february march april may june july august september october november december'))
