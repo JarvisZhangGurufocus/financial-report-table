@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 57056,
+        "weight": 0.5593106155267362,
+        "label": "Cost Of Operations",
+        "value": "cost oper"
+    },
+    {
+        "id": 57415,
+        "weight": 0.5449951268669837,
+        "label": "Thirteen Weeks Ended",
+        "value": "thirteen week end"
+    },
+    {
+        "id": 299,
+        "weight": 0.2822927413886801,
+        "label": "Revenue",
+        "value": "revenu"
+    },
+    {
+        "id": 11445,
+        "weight": 0.2612949479588679,
+        "label": "Fiscal Year",
+        "value": "fiscal year"
+    },
+    {
+        "id": 58591,
+        "weight": 0.2533170454245266,
+        "label": "Thirty- Nine Weeks Ended",
+        "value": "thirti nine week end"
+    },
+    {
+        "id": 57416,
+        "weight": 0.24067915309208882,
+        "label": "Twenty- Six Weeks Ended",
+        "value": "twenti six week end"
+    },
+    {
+        "id": 467,
+        "weight": 0.15012215747342197,
+        "label": "Cash Flow From Operating Activities",
+        "value": "cash flow oper activ"
+    },
+    {
+        "id": 236,
+        "weight": 0.11931774239173328,
+        "label": "Increase Decrease",
+        "value": "increas decreas"
+    },
+    {
+        "id": 57091,
+        "weight": 0.10680696617237215,
+        "label": "Company-operated Restaurant Activity",
+        "value": "compani oper restaur activ"
+    },
+    {
+        "id": 57085,
+        "weight": 0.0914849197162308,
+        "label": "Non- Adjustments",
+        "value": "non adjust"
+    },
+    {
+        "id": 153,
+        "weight": 0.06991930888567323,
+        "label": "Assets",
+        "value": "asset"
+    },
+    {
+        "id": 43480,
+        "weight": 0.05662607494311629,
+        "label": "Statement Of Income Data",
+        "value": "statement incom data"
+    },
+    {
+        "id": 1253,
+        "weight": 0.053992402986486804,
+        "label": "Statement Of Operations Data",
+        "value": "statement oper data"
+    },
+    {
+        "id": 23524,
+        "weight": 0.051829932879654796,
+        "label": "Fiscal Year Ended ",
+        "value": "fiscal year end"
+    },
+    {
+        "id": 57118,
+        "weight": 0.050327889819442376,
+        "label": " 52- Weeks",
+        "value": "52 week"
+    },
+    {
+        "id": 57049,
+        "weight": 0.04730821643027583,
+        "label": "Company-operated Restaurant Revenue",
+        "value": "compani oper restaur revenu"
+    },
+    {
+        "id": 57051,
+        "weight": 0.04406486353080065,
+        "label": "Franchise Revenue",
+        "value": "franchis revenu"
+    },
+    {
+        "id": 57069,
+        "weight": 0.04037415161070821,
+        "label": "Asset Impairment And Close-store Reserves",
+        "value": "asset impair close store reserv"
+    },
+    {
+        "id": 109356,
+        "weight": 0.04037415161070821,
+        "label": "Studio Ii Brands Inc. And Subsidiaries",
+        "value": "studio Ii brand inc subsidiari"
+    },
+    {
+        "id": 57060,
+        "weight": 0.04015047210039958,
+        "label": "Company Restaurant Expenses",
+        "value": "compani restaur expens"
+    },
+    {
+        "id": 57063,
+        "weight": 0.03858471552823915,
+        "label": "Franchise Expenses",
+        "value": "franchis expens"
+    },
+    {
+        "id": 1788,
+        "weight": 0.03519821483375499,
+        "label": "Incorporated By Reference",
+        "value": "incorpor refer"
+    },
+    {
+        "id": 57055,
+        "weight": 0.03500584336330102,
+        "label": "Food And Paper Costs",
+        "value": "food paper cost"
+    },
+    {
+        "id": 57057,
+        "weight": 0.03500584336330102,
+        "label": "Labor And Related Expenses",
+        "value": "labor relat expens"
+    },
+    {
+        "id": 57058,
+        "weight": 0.03467032409783808,
+        "label": "Occupancy And Other Operating Expenses",
+        "value": "occup oper expens"
+    },
+    {
+        "id": 57097,
+        "weight": 0.03332824703598628,
+        "label": "Franchised Restaurant Activity",
+        "value": "franchis restaur activ"
+    },
+    {
+        "id": 4188,
+        "weight": 0.03198616997413448,
+        "label": "Net Revenues",
+        "value": "net revenu"
+    },
+    {
+        "id": 58493,
+        "weight": 0.031091451932899954,
+        "label": "Adjustments To Reconcile Net Income To Net Cash Flows Provided By Operating Activities",
+        "value": "adjust reconcil net incom net cash flow provid oper activ"
+    },
+    {
+        "id": 471,
+        "weight": 0.029870231918514494,
+        "label": "Change In Operating Assets And Liabilities",
+        "value": "chang oper asset liabil"
+    },
+    {
+        "id": 57471,
+        "weight": 0.029302015850430893,
+        "label": "System-wide Restaurant Activity",
+        "value": "system wide restaur activ"
+    },
+    {
+        "id": 4873,
+        "weight": 0.028048577445648502,
+        "label": "Loss On Disposal Of Assets",
+        "value": "loss dispos asset"
+    },
+    {
+        "id": 57096,
+        "weight": 0.027624419523116145,
+        "label": "Restaurants At End Of Period",
+        "value": "restaur end period"
+    },
+    {
+        "id": 164,
+        "weight": 0.02622834799951032,
+        "label": "Current Liabilities",
+        "value": "current liabil"
+    },
+    {
+        "id": 1006,
+        "weight": 0.025663408381632266,
+        "label": "Numerator",
+        "value": "numer"
+    },
+    {
+        "id": 113540,
+        "weight": 0.025648583848723223,
+        "label": "Studio Ii Brands Inc.",
+        "value": "studio Ii brand inc"
+    },
+    {
+        "id": 5993,
+        "weight": 0.02471658588910392,
+        "label": "Cost Of Sales",
+        "value": "cost sale"
+    },
+    {
+        "id": 571,
+        "weight": 0.02436508523924009,
+        "label": "Operating Expenses",
+        "value": "oper expens"
+    },
+    {
+        "id": 2508,
+        "weight": 0.022585765884173284,
+        "label": "Franchise",
+        "value": "franchis"
+    },
+    {
+        "id": 8293,
+        "weight": 0.021766902566786546,
+        "label": "Amounts In Thousands",
+        "value": "amount thousand"
+    },
+    {
+        "id": 300,
+        "weight": 0.021404410338142724,
+        "label": "Total Revenue",
+        "value": "total revenu"
+    },
+    {
+        "id": 819,
+        "weight": 0.02123664329090399,
+        "label": "Depreciation And Amortization",
+        "value": "depreci amort"
+    },
+    {
+        "id": 626,
+        "weight": 0.021104526865819272,
+        "label": "Net Income",
+        "value": "net incom"
+    },
+    {
+        "id": 454,
+        "weight": 0.020759629948382916,
+        "label": "Cash Flows From Financing Activities",
+        "value": "cash flow financ activ"
+    },
+    {
+        "id": 57282,
+        "weight": 0.019571957152005364,
+        "label": "Deferred Assets",
+        "value": "defer asset"
+    },
+    {
+        "id": 58349,
+        "weight": 0.019571957152005364,
+        "label": "Impact Of Changes In Accounting Policies",
+        "value": "impact chang account polici"
+    },
+    {
+        "id": 13628,
+        "weight": 0.01918689852477086,
+        "label": "Net Cash Provided Used By",
+        "value": "net cash provid use"
+    },
+    {
+        "id": 57556,
+        "weight": 0.019012758376233785,
+        "label": "Expenses Related To Fire Loss",
+        "value": "expens relat fire loss"
+    },
+    {
+        "id": 28287,
+        "weight": 0.019007241938888683,
+        "label": "Openings",
+        "value": "open"
+    },
+    {
+        "id": 1008,
+        "weight": 0.018832402128146273,
+        "label": "Denominator",
+        "value": "denomin"
+    },
+    {
+        "id": 190,
+        "weight": 0.018798257011841586,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 57336,
+        "weight": 0.018789078865925152,
+        "label": "Selected Financial Data",
+        "value": "select financi data"
+    },
+    {
+        "id": 57093,
+        "weight": 0.018697436827710377,
+        "label": "Closures",
+        "value": "closur"
+    },
+    {
+        "id": 57431,
+        "weight": 0.018677239110770835,
+        "label": "Weighted-average Shares Used In Computing Net Income Per Share",
+        "value": "weight averag share use comput net incom per share"
+    },
+    {
+        "id": 57074,
+        "weight": 0.01856539935561652,
+        "label": "Income Tax Receivable Agreement Expense",
+        "value": "incom tax receiv agreement expens"
+    },
+    {
+        "id": 687,
+        "weight": 0.01855137873644924,
+        "label": "Three Months Ended ",
+        "value": "three month end"
+    },
+    {
+        "id": 93,
+        "weight": 0.018069884904501933,
+        "label": "General And Administrative Expenses",
+        "value": "gener administr expens"
+    },
+    {
+        "id": 2793,
+        "weight": 0.01771368493912279,
+        "label": "Beginning Of Period",
+        "value": "begin period"
+    },
+    {
+        "id": 617,
+        "weight": 0.01760882797857745,
+        "label": "Income From Operations",
+        "value": "incom oper"
+    },
+    {
+        "id": 58074,
+        "weight": 0.01733516204891904,
+        "label": "Add Less",
+        "value": "add less"
+    },
+    {
+        "id": 303,
+        "weight": 0.016902622706430143,
+        "label": "Total Expenses",
+        "value": "total expens"
+    },
+    {
+        "id": 623,
+        "weight": 0.01664801391977115,
+        "label": "Balance ",
+        "value": "balanc"
+    },
+    {
+        "id": 110277,
+        "weight": 0.016365884170914963,
+        "label": "Subfranchise",
+        "value": "subfranchis"
+    },
+    {
+        "id": 57081,
+        "weight": 0.01632860425253019,
+        "label": "Dollar Amounts In Thousands",
+        "value": "dollar amount thousand"
+    },
+    {
+        "id": 302,
+        "weight": 0.01620126164548488,
+        "label": "Expenses",
+        "value": "expens"
+    },
+    {
+        "id": 709,
+        "weight": 0.015550305690275542,
+        "label": "Income Before Provision For Income Taxes",
+        "value": "incom provis incom tax"
+    },
+    {
+        "id": 57341,
+        "weight": 0.015545725966449977,
+        "label": "Comparable Restaurant Sales Growth",
+        "value": "compar restaur sale growth"
+    },
+    {
+        "id": 57338,
+        "weight": 0.015322046456141344,
+        "label": "Number Of Restaurants At Period End",
+        "value": "number restaur period end"
+    },
+    {
+        "id": 57558,
+        "weight": 0.015322046456141344,
+        "label": "Recovery Of Securities Lawsuits Related Legal Expenses",
+        "value": "recoveri secur lawsuit relat legal expens"
+    },
+    {
+        "id": 57883,
+        "weight": 0.015322046456141344,
+        "label": "Franchise Advertising Fee Revenue",
+        "value": "franchis advertis fee revenu"
+    },
+    {
+        "id": 59178,
+        "weight": 0.015098366945832711,
+        "label": "Core Market",
+        "value": "core market"
+    },
+    {
+        "id": 511,
+        "weight": 0.014966513380145402,
+        "label": "Provision For Income Taxes",
+        "value": "provis incom tax"
+    },
+    {
+        "id": 8335,
+        "weight": 0.014607417415997786,
+        "label": "Payments Due By Period",
+        "value": "payment due period"
+    },
+    {
+        "id": 566,
+        "weight": 0.014363696538416649,
+        "label": "Diluted",
+        "value": "dilut"
+    },
+    {
+        "id": 183,
+        "weight": 0.014241714775417873,
+        "label": "December ",
+        "value": "decemb"
+    },
+    {
+        "id": 350,
+        "weight": 0.014204025404041589,
+        "label": "Common Stock",
+        "value": "common stock"
+    },
+    {
+        "id": 57561,
+        "weight": 0.01420364890459818,
+        "label": "Income Tax Receivable Agreement Income Expense",
+        "value": "incom tax receiv agreement incom expens"
+    },
+    {
+        "id": 8,
+        "weight": 0.013808071138411543,
+        "label": "Page",
+        "value": "page"
+    },
+    {
+        "id": 245,
+        "weight": 0.013792943538683712,
+        "label": "For The Year Ended ",
+        "value": "year end"
+    },
+    {
+        "id": 783,
+        "weight": 0.01370492751769347,
+        "label": "Preferred Stock .01 Par Value Shares Authorized None Issued Or Outstanding As Of And ",
+        "value": "prefer stock 01 par valu share author none issu outstand"
+    },
+    {
+        "id": 113718,
+        "weight": 0.013346210781748422,
+        "label": "Balance At Date Of Inception",
+        "value": "balanc date incept"
+    },
+    {
+        "id": 507,
+        "weight": 0.013033724636711402,
+        "label": "Other Income Expenses",
+        "value": "incom expens"
+    },
+    {
+        "id": 564,
+        "weight": 0.012852687364889454,
+        "label": "Basic",
+        "value": "basic"
+    },
+    {
+        "id": 48270,
+        "weight": 0.012787012005976841,
+        "label": "Trig Acquisition Inc.",
+        "value": "trig acquisit inc"
+    },
+    {
+        "id": 349,
+        "weight": 0.012423232126687942,
+        "label": "Shares",
+        "value": "share"
+    },
+    {
+        "id": 21702,
+        "weight": 0.0123023730669748,
+        "label": "Current Portion Of Obligations Under Capital Leases",
+        "value": "current portion oblig capit leas"
+    },
+    {
+        "id": 1795,
+        "weight": 0.012200011834641162,
+        "label": "Operating Leases",
+        "value": "oper leas"
+    },
+    {
+        "id": 574,
+        "weight": 0.01188108232190019,
+        "label": "Interest Expense Net",
+        "value": "interest expens net"
+    },
+    {
+        "id": 119159,
+        "weight": 0.011855014046357536,
+        "label": "Hippo Lace Limited",
+        "value": "hippo lace limit"
+    },
+    {
+        "id": 2070,
+        "weight": 0.011844973068863642,
+        "label": "Amount",
+        "value": "amount"
+    },
+    {
+        "id": 532,
+        "weight": 0.011690823659207917,
+        "label": "Nine Months Ended",
+        "value": "nine month end"
+    },
+    {
+        "id": 152,
+        "weight": 0.011570070402325036,
+        "label": "Unaudited",
+        "value": "unaudit"
+    },
+    {
+        "id": 8555,
+        "weight": 0.011094465133370904,
+        "label": "Period Ended",
+        "value": "period end"
+    },
+    {
+        "id": 9665,
+        "weight": 0.010794236162825672,
+        "label": "Three Months Ended Unaudited",
+        "value": "three month end unaudit"
+    },
+    {
+        "id": 57083,
+        "weight": 0.010624776739660056,
+        "label": "Restaurant Contribution Margin",
+        "value": "restaur contribut margin"
+    },
+    {
+        "id": 1391,
+        "weight": 0.010373780833300913,
+        "label": "10.1",
+        "value": "10"
+    },
+    {
+        "id": 57016,
+        "weight": 0.010289257474197106,
+        "label": "Company- Operated",
+        "value": "compani oper"
+    },
+    {
+        "id": 400,
+        "weight": 0.010222411025684218,
+        "label": "September ",
+        "value": "septemb"
+    },
+    {
+        "id": 48544,
+        "weight": 0.010214697637427562,
+        "label": "Gsp -1 Inc.",
+        "value": "gsp inc"
+    },
+    {
+        "id": 57560,
+        "weight": 0.010065577963888475,
+        "label": "Expenses Related To Selling Shareholders",
+        "value": "expens relat sell sharehold"
+    },
+    {
+        "id": 110885,
+        "weight": 0.010028298045503701,
+        "label": "Pro Forma Comparisons",
+        "value": "pro forma comparison"
+    },
+    {
+        "id": 57117,
+        "weight": 0.009841898453579842,
+        "label": " 53- Weeks",
+        "value": "53 week"
+    },
+    {
+        "id": 57156,
+        "weight": 0.009841898453579842,
+        "label": "Property And Equipment Owned Net",
+        "value": "properti equip own net"
+    },
+    {
+        "id": 57159,
+        "weight": 0.009618218943271209,
+        "label": "Accrued Salaries And Vacation",
+        "value": "accru salari vacat"
+    },
+    {
+        "id": 57160,
+        "weight": 0.009618218943271209,
+        "label": "Accrued Insurance",
+        "value": "accru insur"
+    },
+    {
+        "id": 25111,
+        "weight": 0.009558160167703318,
+        "label": "Interest Expense Net Of Interest Income",
+        "value": "interest expens net interest incom"
+    },
+    {
+        "id": 57078,
+        "weight": 0.009506379188116892,
+        "label": "Balance Sheet Data Consolidated At Period End",
+        "value": "balanc sheet data consolid period end"
+    },
+    {
+        "id": 8612,
+        "weight": 0.009495556922973334,
+        "label": "Consolidated Statements Of Cash Flows Data",
+        "value": "consolid statement cash flow data"
+    },
+    {
+        "id": 57072,
+        "weight": 0.009394539432962576,
+        "label": "Gain On Disposition Of Restaurants",
+        "value": "gain disposit restaur"
+    },
+    {
+        "id": 1791,
+        "weight": 0.009238064509630021,
+        "label": "Capital Leases",
+        "value": "capit leas"
+    },
+    {
+        "id": 57082,
+        "weight": 0.009170859922653943,
+        "label": "Restaurant Contribution",
+        "value": "restaur contribut"
+    },
+    {
+        "id": 20002,
+        "weight": 0.00877031688229586,
+        "label": "Twelve Months Ended ",
+        "value": "twelv month end"
+    },
+    {
+        "id": 982,
+        "weight": 0.008551722973253269,
+        "label": "Year Ended December ",
+        "value": "year end decemb"
+    },
+    {
+        "id": 1266,
+        "weight": 0.0085109946176684,
+        "label": "Supplemental Cash Flow Information",
+        "value": "supplement cash flow inform"
+    },
+    {
+        "id": 7643,
+        "weight": 0.008506327410922405,
+        "label": " Vs ",
+        "value": "Vs"
+    },
+    {
+        "id": 2200,
+        "weight": 0.008499821391728045,
+        "label": "Weighted-average Shares Used To Compute Net Income Loss Per Share",
+        "value": "weight averag share use comput net incom loss per share"
+    },
+    {
+        "id": 257,
+        "weight": 0.008405422418777151,
+        "label": "June ",
+        "value": "june"
+    },
+    {
+        "id": 59180,
+        "weight": 0.008387981636573729,
+        "label": "Non- Core Market",
+        "value": "non core market"
+    },
+    {
+        "id": 9232,
+        "weight": 0.00835335006253063,
+        "label": "Current Income Taxes",
+        "value": "current incom tax"
+    },
+    {
+        "id": 7022,
+        "weight": 0.0083183281150085,
+        "label": "Net Income Per Share",
+        "value": "net incom per share"
+    },
+    {
+        "id": 267,
+        "weight": 0.008293348681694818,
+        "label": "Total Stockholders Equity",
+        "value": "total stockhold equiti"
+    },
+    {
+        "id": 57339,
+        "weight": 0.008276141881419412,
+        "label": "System-wide",
+        "value": "system wide"
+    },
+    {
+        "id": 902,
+        "weight": 0.00824570171132539,
+        "label": "Weighted-average Shares Outstanding Basic",
+        "value": "weight averag share outstand basic"
+    },
+    {
+        "id": 903,
+        "weight": 0.00824570171132539,
+        "label": "Weighted-average Shares Outstanding Diluted",
+        "value": "weight averag share outstand dilut"
+    },
+    {
+        "id": 5996,
+        "weight": 0.008092433391399954,
+        "label": "Nine Months Ended December ",
+        "value": "nine month end decemb"
+    },
+    {
+        "id": 57088,
+        "weight": 0.008052462371110779,
+        "label": "Pre-opening Costs",
+        "value": "pre open cost"
+    },
+    {
+        "id": 695,
+        "weight": 0.007831387152967698,
+        "label": "For The Period From Inception To ",
+        "value": "period incept"
+    },
+    {
+        "id": 911,
+        "weight": 0.007737405030490264,
+        "label": "March ",
+        "value": "march"
+    },
+    {
+        "id": 29080,
+        "weight": 0.007635602474143505,
+        "label": "Forfeited/canceled/expired",
+        "value": "forfeit cancel expir"
+    },
+    {
+        "id": 57229,
+        "weight": 0.007493263595339197,
+        "label": "Adjustments To Reconcile Changes In Net Income Loss To Net Cash Provided By Operating Activities",
+        "value": "adjust reconcil chang net incom loss net cash provid oper activ"
+    },
+    {
+        "id": 478,
+        "weight": 0.007371865494839837,
+        "label": "Cash Flows From Investing Activities",
+        "value": "cash flow invest activ"
+    },
+    {
+        "id": 57312,
+        "weight": 0.007269584085030565,
+        "label": "Anti-dilutive Securities Not Considered In Diluted Eps Calculation",
+        "value": "anti dilut secur consid dilut ep calcul"
+    },
+    {
+        "id": 17065,
+        "weight": 0.006885094538650768,
+        "label": "Six Months Ended September ",
+        "value": "six month end septemb"
+    },
+    {
+        "id": 1348,
+        "weight": 0.00687465133471777,
+        "label": "Decrease",
+        "value": "decreas"
+    },
+    {
+        "id": 1133,
+        "weight": 0.006754571419434639,
+        "label": "Fiscal ",
+        "value": "fiscal"
+    },
+    {
+        "id": 32433,
+        "weight": 0.0067476652276437545,
+        "label": "Successor",
+        "value": "successor"
+    },
+    {
+        "id": 721,
+        "weight": 0.00672081166882001,
+        "label": "Stock-based Compensation And Expense",
+        "value": "stock base compens expens"
+    },
+    {
+        "id": 7332,
+        "weight": 0.006710385309258982,
+        "label": "Early Extinguishment Of Debt",
+        "value": "earli extinguish debt"
+    },
+    {
+        "id": 59475,
+        "weight": 0.006710385309258982,
+        "label": "Property Leases",
+        "value": "properti leas"
+    },
+    {
+        "id": 57024,
+        "weight": 0.006598545554104666,
+        "label": "Supercomposite Restaurants Index",
+        "value": "supercomposit restaur index"
+    },
+    {
+        "id": 57102,
+        "weight": 0.006598545554104666,
+        "label": "Total Restaurant Activity",
+        "value": "total restaur activ"
+    },
+    {
+        "id": 22372,
+        "weight": 0.006586295241610689,
+        "label": "Finance Lease Cost",
+        "value": "financ leas cost"
+    },
+    {
+        "id": 568,
+        "weight": 0.00656119471507921,
+        "label": "For The Six Months Ended",
+        "value": "six month end"
+    },
+    {
+        "id": 57092,
+        "weight": 0.006486705798950349,
+        "label": "Restaurant Sale To Franchisee",
+        "value": "restaur sale franchise"
+    },
+    {
+        "id": 57287,
+        "weight": 0.006486705798950349,
+        "label": "Deferred Liabilities",
+        "value": "defer liabil"
+    },
+    {
+        "id": 1351,
+        "weight": 0.006415322576131959,
+        "label": "Increase",
+        "value": "increas"
+    },
+    {
+        "id": 57022,
+        "weight": 0.0063748660437960335,
+        "label": "Loco",
+        "value": "loco"
+    },
+    {
+        "id": 1852,
+        "weight": 0.006368220425541412,
+        "label": "Net Income Loss Per Share",
+        "value": "net incom loss per share"
+    },
+    {
+        "id": 49148,
+        "weight": 0.006263026288641717,
+        "label": "The Grilled Cheese Truck Inc. And Subsidiaries",
+        "value": "grill chees truck inc subsidiari"
+    },
+    {
+        "id": 177,
+        "weight": 0.006237732341787554,
+        "label": "Additional Paid-in Capital",
+        "value": "addit paid in capit"
+    },
+    {
+        "id": 89,
+        "weight": 0.006193689184990991,
+        "label": "For The Three Months",
+        "value": "three month"
+    },
+    {
+        "id": 3961,
+        "weight": 0.0061904708742579,
+        "label": "Provision Benefit For Income Taxes",
+        "value": "provis benefit incom tax"
+    },
+    {
+        "id": 6856,
+        "weight": 0.00612139017648942,
+        "label": "Three Months Ended December ",
+        "value": "three month end decemb"
+    },
+    {
+        "id": 255,
+        "weight": 0.006094556447325361,
+        "label": "Current Assets",
+        "value": "current asset"
+    },
+    {
+        "id": 703,
+        "weight": 0.006005431155052055,
+        "label": "Three Months Ended September ",
+        "value": "three month end septemb"
+    },
+    {
+        "id": 57199,
+        "weight": 0.005815667268024452,
+        "label": "Excess Income Tax Benefit Related To Share-based Compensation Plans",
+        "value": "excess incom tax benefit relat share base compens plan"
+    },
+    {
+        "id": 35323,
+        "weight": 0.005775648025313677,
+        "label": "Dilutive Effect Of Stock Options And Restricted Shares",
+        "value": "dilut effect stock option restrict share"
+    },
+    {
+        "id": 1940,
+        "weight": 0.005773790318518763,
+        "label": "Other Noncurrent Liabilities",
+        "value": "noncurr liabil"
+    },
+    {
+        "id": 262,
+        "weight": 0.005740197612183701,
+        "label": "Inventory",
+        "value": "inventori"
+    },
+    {
+        "id": 180,
+        "weight": 0.005717680328186498,
+        "label": "Accumulated Deficit",
+        "value": "accumul deficit"
+    },
+    {
+        "id": 482,
+        "weight": 0.005621347904540837,
+        "label": "Depreciation",
+        "value": "depreci"
+    },
+    {
+        "id": 559,
+        "weight": 0.005505903832094571,
+        "label": "Income Tax Expense",
+        "value": "incom tax expens"
+    },
+    {
+        "id": 6872,
+        "weight": 0.005431639781125058,
+        "label": "Corporates",
+        "value": "corpor"
+    },
+    {
+        "id": 544,
+        "weight": 0.00541832533718197,
+        "label": "Net Income Loss",
+        "value": "net incom loss"
+    },
+    {
+        "id": 146,
+        "weight": 0.00537295581258519,
+        "label": "Net Loss",
+        "value": "net loss"
+    },
+    {
+        "id": 57335,
+        "weight": 0.005368308247407186,
+        "label": "Dollar Amounts In Thousands Except Share Data",
+        "value": "dollar amount thousand except share data"
+    },
+    {
+        "id": 57557,
+        "weight": 0.005368308247407186,
+        "label": "Gain On Recovery Of Insurance Proceeds Property Equipment And Expenses",
+        "value": "gain recoveri insur proce properti equip expens"
+    },
+    {
+        "id": 268,
+        "weight": 0.005367785917926898,
+        "label": "Deferred Tax Asset",
+        "value": "defer tax asset"
+    },
+    {
+        "id": 2337,
+        "weight": 0.005367785917926898,
+        "label": "Issuance Of Common Stock Upon Exercise Of Stock Options",
+        "value": "issuanc common stock upon exercis stock option"
+    },
+    {
+        "id": 57232,
+        "weight": 0.00525646849225287,
+        "label": "Amortization Of Favorable And Unfavorable Leases Net",
+        "value": "amort favor unfavor leas net"
+    },
+    {
+        "id": 258,
+        "weight": 0.005254874781999074,
+        "label": "Stockholders Equity",
+        "value": "stockhold equiti"
+    },
+    {
+        "id": 2072,
+        "weight": 0.005233573232302417,
+        "label": "Number Of",
+        "value": "number"
+    },
+    {
+        "id": 2962,
+        "weight": 0.0051331286100393825,
+        "label": "Total Other Income Net",
+        "value": "total incom net"
+    },
+    {
+        "id": 48373,
+        "weight": 0.0049955090635594645,
+        "label": "Consulting Expense Related Parties",
+        "value": "consult expens relat parti"
+    },
+    {
+        "id": 48371,
+        "weight": 0.004958229145174693,
+        "label": "Food Truck Expenses",
+        "value": "food truck expens"
+    },
+    {
+        "id": 219,
+        "weight": 0.004953639921884477,
+        "label": "Prepaid Expenses And Other Current Assets",
+        "value": "prepaid expens current asset"
+    },
+    {
+        "id": 3490,
+        "weight": 0.004920949226789921,
+        "label": "Total Noncurrent Liabilities",
+        "value": "total noncurr liabil"
+    },
+    {
+        "id": 57260,
+        "weight": 0.004920949226789921,
+        "label": "Accrued Sales And Property Taxes",
+        "value": "accru sale properti tax"
+    },
+    {
+        "id": 57305,
+        "weight": 0.004920949226789921,
+        "label": "Unvested Shares At ",
+        "value": "unvest share"
+    },
+    {
+        "id": 59223,
+        "weight": 0.004920949226789921,
+        "label": "Income Tax Receivable Agreement Expense Income",
+        "value": "incom tax receiv agreement expens incom"
+    },
+    {
+        "id": 110303,
+        "weight": 0.004920949226789921,
+        "label": "Total Assets Excluding Goodwill",
+        "value": "total asset exclud goodwil"
+    },
+    {
+        "id": 110017,
+        "weight": 0.004846389390020377,
+        "label": "Professional And Audit Fee",
+        "value": "profession audit fee"
+    },
+    {
+        "id": 57554,
+        "weight": 0.0048091094716356045,
+        "label": "Gain On Recovery Of Insurance Proceeds Lost Profits",
+        "value": "gain recoveri insur proce lost profit"
+    },
+    {
+        "id": 2053,
+        "weight": 0.004796724631192715,
+        "label": "Other Operating Activities",
+        "value": "oper activ"
+    },
+    {
+        "id": 2055,
+        "weight": 0.004796724631192715,
+        "label": "Other Investing Activities",
+        "value": "invest activ"
+    },
+    {
+        "id": 163,
+        "weight": 0.00473500591399328,
+        "label": "Accounts Payable",
+        "value": "account payabl"
+    },
+    {
+        "id": 594,
+        "weight": 0.0046992340526918665,
+        "label": "Accounts Receivable Net",
+        "value": "account receiv net"
+    },
+    {
+        "id": 57244,
+        "weight": 0.004698832291780618,
+        "label": "Unpaid Purchase Of Property And Equipment",
+        "value": "unpaid purchas properti equip"
+    },
+    {
+        "id": 48366,
+        "weight": 0.004697269716481288,
+        "label": "Catering And Special Events",
+        "value": "cater special event"
+    },
+    {
+        "id": 57239,
+        "weight": 0.004697269716481288,
+        "label": "Payment Of Obligations Under Capital Leases",
+        "value": "payment oblig capit leas"
+    },
+    {
+        "id": 109368,
+        "weight": 0.004697269716481288,
+        "label": "Payable To Stockholder",
+        "value": "payabl stockhold"
+    },
+    {
+        "id": 996,
+        "weight": 0.004683185480576331,
+        "label": "Adjusted Ebitda",
+        "value": "adjust ebitda"
+    },
+    {
+        "id": 1111,
+        "weight": 0.004683185480576331,
+        "label": "Ebitda",
+        "value": "ebitda"
+    },
+    {
+        "id": 6426,
+        "weight": 0.004665091707082662,
+        "label": "Less Than",
+        "value": "less"
+    },
+    {
+        "id": 6437,
+        "weight": 0.004663813994264353,
+        "label": "Income Loss Before Provision Benefit For Income Taxes",
+        "value": "incom loss provis benefit incom tax"
+    },
+    {
+        "id": 3789,
+        "weight": 0.004640416663402118,
+        "label": "Amortization Of Deferred Financing Costs",
+        "value": "amort defer financ cost"
+    },
+    {
+        "id": 8062,
+        "weight": 0.004600939952368522,
+        "label": "For The Nine Month Period Ended September ",
+        "value": "nine month period end septemb"
+    },
+    {
+        "id": 26491,
+        "weight": 0.004600939952368522,
+        "label": "For The Six Months Ended Unaudited",
+        "value": "six month end unaudit"
+    },
+    {
+        "id": 7925,
+        "weight": 0.004575817503806536,
+        "label": "Net Loss Income Per Share",
+        "value": "net loss incom per share"
+    },
+    {
+        "id": 6639,
+        "weight": 0.004497957725978032,
+        "label": "Net Income Per Share Diluted",
+        "value": "net incom per share dilut"
+    },
+    {
+        "id": 1861,
+        "weight": 0.004476348364213549,
+        "label": "Weighted- Average Exercise Price",
+        "value": "weight averag exercis price"
+    }
+]

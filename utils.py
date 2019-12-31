@@ -195,3 +195,12 @@ class Utils:
     l.addHandler(streamHandler)
     
     return logging.getLogger(name)
+  
+  def isTagStopWords(self, content):
+    tagStopWords = [ 'month', 'dollar', 'thousand', 'year', 'tabl', 'januari', 'februari', 'march', 'april', 'may', 'june', 'juli', 'august', 'septemb', 'octob', 'novemb', 'decemb' ]
+    for word in content.split(' '):
+      if word in tagStopWords:
+        return 1
+    return 0
+
+print(Utils().cleanData('month dollar thousand year table january february march april may june july august september october november december'))

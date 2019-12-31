@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 244,
+        "weight": 0.46917288144739,
+        "label": "U.s. Dollars In Thousands",
+        "value": "dollar thousand"
+    },
+    {
+        "id": 607,
+        "weight": 0.32375813909541157,
+        "label": "In Thousands",
+        "value": "thousand"
+    },
+    {
+        "id": 527,
+        "weight": 0.22075576578860612,
+        "label": "Three Months Ended",
+        "value": "three month end"
+    },
+    {
+        "id": 7721,
+        "weight": 0.21659925182647144,
+        "label": "Other Interest-earning Assets",
+        "value": "interest earn asset"
+    },
+    {
+        "id": 827,
+        "weight": 0.20830117788455718,
+        "label": "Three Months Ended June ",
+        "value": "three month end june"
+    },
+    {
+        "id": 1361,
+        "weight": 0.17731584349332236,
+        "label": "December ",
+        "value": "decemb"
+    },
+    {
+        "id": 3223,
+        "weight": 0.17541599055644713,
+        "label": "Three Months Ended September ",
+        "value": "three month end septemb"
+    },
+    {
+        "id": 982,
+        "weight": 0.1634781029182014,
+        "label": "Year Ended December ",
+        "value": "year end decemb"
+    },
+    {
+        "id": 153,
+        "weight": 0.16164338407590073,
+        "label": "Assets",
+        "value": "asset"
+    },
+    {
+        "id": 190,
+        "weight": 0.16159835958382227,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 20840,
+        "weight": 0.13066635998456624,
+        "label": "Interest-bearing Liabilities",
+        "value": "interest bear liabil"
+    },
+    {
+        "id": 1406,
+        "weight": 0.12306009174086704,
+        "label": "Interest Income",
+        "value": "interest incom"
+    },
+    {
+        "id": 2852,
+        "weight": 0.12299192235566407,
+        "label": "Consumables",
+        "value": "consum"
+    },
+    {
+        "id": 84807,
+        "weight": 0.11906680091292497,
+        "label": "Table",
+        "value": "tabl"
+    },
+    {
+        "id": 3697,
+        "weight": 0.11890893496824442,
+        "label": "Commercial",
+        "value": "commerci"
+    },
+    {
+        "id": 517,
+        "weight": 0.11854552686319372,
+        "label": "Six Months Ended June ",
+        "value": "six month end june"
+    },
+    {
+        "id": 704,
+        "weight": 0.11705032168943222,
+        "label": "Nine Months Ended September ",
+        "value": "nine month end septemb"
+    },
+    {
+        "id": 20963,
+        "weight": 0.11618215956012584,
+        "label": "Noninterest Expense",
+        "value": "noninterest expens"
+    },
+    {
+        "id": 1337,
+        "weight": 0.10687494265571656,
+        "label": "Fair Value",
+        "value": "fair valu"
+    },
+    {
+        "id": 245,
+        "weight": 0.1030223758562616,
+        "label": "For The Year Ended ",
+        "value": "year end"
+    },
+    {
+        "id": 2070,
+        "weight": 0.10252541956605916,
+        "label": "Amount",
+        "value": "amount"
+    },
+    {
+        "id": 3696,
+        "weight": 0.09153713287806468,
+        "label": "Commercial Real Estate",
+        "value": "commerci real estat"
+    },
+    {
+        "id": 20950,
+        "weight": 0.08787751325137924,
+        "label": "Interest And Dividend Income",
+        "value": "interest dividend incom"
+    },
+    {
+        "id": 2797,
+        "weight": 0.08624336668897978,
+        "label": "For The Three Months Ended March ",
+        "value": "three month end march"
+    },
+    {
+        "id": 3876,
+        "weight": 0.0839093374600909,
+        "label": "Allowance For Loan Losses",
+        "value": "allow loan loss"
+    },
+    {
+        "id": 257,
+        "weight": 0.07891334611017801,
+        "label": "June ",
+        "value": "june"
+    },
+    {
+        "id": 532,
+        "weight": 0.07467403813045499,
+        "label": "Nine Months Ended",
+        "value": "nine month end"
+    },
+    {
+        "id": 6978,
+        "weight": 0.07092845137249484,
+        "label": "Commercial Loans",
+        "value": "commerci loan"
+    },
+    {
+        "id": 568,
+        "weight": 0.07092114905068357,
+        "label": "For The Six Months Ended",
+        "value": "six month end"
+    },
+    {
+        "id": 20957,
+        "weight": 0.06730829823197952,
+        "label": "Noninterest Income",
+        "value": "noninterest incom"
+    },
+    {
+        "id": 20761,
+        "weight": 0.06581215961989341,
+        "label": "Average Balance",
+        "value": "averag balanc"
+    },
+    {
+        "id": 765,
+        "weight": 0.06467480724571764,
+        "label": "Investment Securities",
+        "value": "invest secur"
+    },
+    {
+        "id": 20835,
+        "weight": 0.0637814295133209,
+        "label": "Yield/ Rate",
+        "value": "yield rate"
+    },
+    {
+        "id": 84421,
+        "weight": 0.06293110612947339,
+        "label": "Residential Mortgages",
+        "value": "residenti mortgag"
+    },
+    {
+        "id": 400,
+        "weight": 0.06257110049339472,
+        "label": "September ",
+        "value": "septemb"
+    },
+    {
+        "id": 4186,
+        "weight": 0.06110322812193504,
+        "label": "Average",
+        "value": "averag"
+    },
+    {
+        "id": 88,
+        "weight": 0.061019221367748115,
+        "label": "Revenue",
+        "value": "revenu"
+    },
+    {
+        "id": 1396,
+        "weight": 0.05752914172079826,
+        "label": "Change",
+        "value": "chang"
+    },
+    {
+        "id": 4003,
+        "weight": 0.05736991944186314,
+        "label": "Rate At",
+        "value": "rate"
+    },
+    {
+        "id": 4091,
+        "weight": 0.05711231938632907,
+        "label": "In Thousands Except Per Share Amounts",
+        "value": "thousand except per share amount"
+    },
+    {
+        "id": 6322,
+        "weight": 0.05639402087474702,
+        "label": "Real Estate Loans",
+        "value": "real estat loan"
+    },
+    {
+        "id": 3540,
+        "weight": 0.056297148590511235,
+        "label": "Mortgage-backed Securities",
+        "value": "mortgag back secur"
+    },
+    {
+        "id": 84972,
+        "weight": 0.05211728891885579,
+        "label": "Average Balance Sheet Interest And Yield/ Rate Analysis",
+        "value": "averag balanc sheet interest yield rate analysi"
+    },
+    {
+        "id": 84423,
+        "weight": 0.05199888946034538,
+        "label": "Commercial And Commercial Real Estate",
+        "value": "commerci commerci real estat"
+    },
+    {
+        "id": 5761,
+        "weight": 0.05061756244439057,
+        "label": "Securities Available For Sale",
+        "value": "secur avail sale"
+    },
+    {
+        "id": 777,
+        "weight": 0.05059962313249505,
+        "label": "Deposits",
+        "value": "deposit"
+    },
+    {
+        "id": 19013,
+        "weight": 0.04792666566006303,
+        "label": "Maturity",
+        "value": "matur"
+    },
+    {
+        "id": 13633,
+        "weight": 0.0476203275280778,
+        "label": "For The Three Month Period Ended ",
+        "value": "three month period end"
+    },
+    {
+        "id": 46505,
+        "weight": 0.04720550532186325,
+        "label": "Retail Consumer Loans",
+        "value": "retail consum loan"
+    },
+    {
+        "id": 715,
+        "weight": 0.0467406207111309,
+        "label": "Operating Activities",
+        "value": "oper activ"
+    },
+    {
+        "id": 13778,
+        "weight": 0.04673908993191944,
+        "label": "Financial Assets",
+        "value": "financi asset"
+    },
+    {
+        "id": 1540,
+        "weight": 0.04591452656765932,
+        "label": "Consolidated",
+        "value": "consolid"
+    },
+    {
+        "id": 447,
+        "weight": 0.04561337834915824,
+        "label": "Cash Flows From Operating Activities",
+        "value": "cash flow oper activ"
+    },
+    {
+        "id": 1896,
+        "weight": 0.04436522079709273,
+        "label": "Loans",
+        "value": "loan"
+    },
+    {
+        "id": 3703,
+        "weight": 0.04330191105339877,
+        "label": "Residential",
+        "value": "residenti"
+    },
+    {
+        "id": 3711,
+        "weight": 0.04324450525533311,
+        "label": "Total Loans",
+        "value": "total loan"
+    },
+    {
+        "id": 620,
+        "weight": 0.043098723245136576,
+        "label": "Description",
+        "value": "descript"
+    },
+    {
+        "id": 20076,
+        "weight": 0.042232728064425955,
+        "label": "Commercial And Industrial",
+        "value": "commerci industri"
+    },
+    {
+        "id": 1068,
+        "weight": 0.04085986781727919,
+        "label": "Level",
+        "value": "level"
+    },
+    {
+        "id": 623,
+        "weight": 0.04078494363891382,
+        "label": "Balance ",
+        "value": "balanc"
+    },
+    {
+        "id": 609,
+        "weight": 0.03920528616244127,
+        "label": "Year Ended June ",
+        "value": "year end june"
+    },
+    {
+        "id": 97753,
+        "weight": 0.03866280499721809,
+        "label": "Primary Modification Types",
+        "value": "primari modif type"
+    },
+    {
+        "id": 35961,
+        "weight": 0.03828966730979134,
+        "label": "Agency Rmbs",
+        "value": "agenc rmb"
+    },
+    {
+        "id": 5879,
+        "weight": 0.036410074875145956,
+        "label": "Amortized Cost",
+        "value": "amort cost"
+    },
+    {
+        "id": 7715,
+        "weight": 0.03571716998397421,
+        "label": "Increase Decrease Due To",
+        "value": "increas decreas due"
+    },
+    {
+        "id": 781,
+        "weight": 0.0352134094630356,
+        "label": "Other Liabilities",
+        "value": "liabil"
+    },
+    {
+        "id": 20072,
+        "weight": 0.03435623763447445,
+        "label": "Percent",
+        "value": "percent"
+    },
+    {
+        "id": 3381,
+        "weight": 0.03428561289471196,
+        "label": "Unrealized",
+        "value": "unreal"
+    },
+    {
+        "id": 152,
+        "weight": 0.03322112221261873,
+        "label": "Unaudited",
+        "value": "unaudit"
+    },
+    {
+        "id": 34519,
+        "weight": 0.032972455263960115,
+        "label": "Service Revenue",
+        "value": "servic revenu"
+    },
+    {
+        "id": 4578,
+        "weight": 0.03279306214500495,
+        "label": "Days",
+        "value": "day"
+    },
+    {
+        "id": 20833,
+        "weight": 0.03221900416434841,
+        "label": "Average Outstanding Balance",
+        "value": "averag outstand balanc"
+    },
+    {
+        "id": 4920,
+        "weight": 0.03216518622866186,
+        "label": "Recorded Investment",
+        "value": "record invest"
+    },
+    {
+        "id": 1422,
+        "weight": 0.03209513241538655,
+        "label": "Net Interest Income",
+        "value": "net interest incom"
+    },
+    {
+        "id": 7849,
+        "weight": 0.03144402589046208,
+        "label": "Nine Month Period Ended",
+        "value": "nine month period end"
+    },
+    {
+        "id": 5131,
+        "weight": 0.03137154307961405,
+        "label": "Other Real Estate",
+        "value": "real estat"
+    },
+    {
+        "id": 613,
+        "weight": 0.031075220496110507,
+        "label": "Cost And Expenses",
+        "value": "cost expens"
+    },
+    {
+        "id": 86244,
+        "weight": 0.0306224054056474,
+        "label": "Commercial Banking",
+        "value": "commerci bank"
+    },
+    {
+        "id": 44649,
+        "weight": 0.030512358762025023,
+        "label": "Cash Flows From Operating Activities Attributable To Continuing Operations",
+        "value": "cash flow oper activ attribut continu oper"
+    },
+    {
+        "id": 911,
+        "weight": 0.030445773061850437,
+        "label": "March ",
+        "value": "march"
+    },
+    {
+        "id": 1467,
+        "weight": 0.030188274057775893,
+        "label": "Other Income Expense Net",
+        "value": "incom expens net"
+    },
+    {
+        "id": 89753,
+        "weight": 0.02995147514075507,
+        "label": "Financial Derivatives- Assets At Fair Value-",
+        "value": "financi deriv asset fair valu"
+    },
+    {
+        "id": 5765,
+        "weight": 0.02980437278321183,
+        "label": "Loans Held For Sale",
+        "value": "loan held sale"
+    },
+    {
+        "id": 252,
+        "weight": 0.029658031136420505,
+        "label": "Liabilities And Stockholders Equity",
+        "value": "liabil stockhold equiti"
+    },
+    {
+        "id": 3801,
+        "weight": 0.029384946576396474,
+        "label": "Recoveries",
+        "value": "recoveri"
+    },
+    {
+        "id": 3705,
+        "weight": 0.028961225124122532,
+        "label": "Home Equity Lines Of Credit",
+        "value": "home equiti line credit"
+    },
+    {
+        "id": 507,
+        "weight": 0.02894632806450679,
+        "label": "Other Income Expenses",
+        "value": "incom expens"
+    },
+    {
+        "id": 86242,
+        "weight": 0.028900231463677775,
+        "label": "Consumer Banking",
+        "value": "consum bank"
+    },
+    {
+        "id": 7025,
+        "weight": 0.028351288519674955,
+        "label": "Outstanding As Of And ",
+        "value": "outstand"
+    },
+    {
+        "id": 88935,
+        "weight": 0.027798757713293036,
+        "label": "Credit Default Swaps On Corporate Bonds",
+        "value": "credit default swap corpor bond"
+    },
+    {
+        "id": 3543,
+        "weight": 0.02770481978165755,
+        "label": "Borrowings",
+        "value": "borrow"
+    },
+    {
+        "id": 26955,
+        "weight": 0.027292869117839458,
+        "label": "Held To Maturity",
+        "value": "held matur"
+    },
+    {
+        "id": 841,
+        "weight": 0.026714042402790208,
+        "label": "Interest",
+        "value": "interest"
+    },
+    {
+        "id": 4938,
+        "weight": 0.02658606022915609,
+        "label": "Related Allowance",
+        "value": "relat allow"
+    },
+    {
+        "id": 35128,
+        "weight": 0.02655018160536506,
+        "label": "Construction And Development",
+        "value": "construct develop"
+    },
+    {
+        "id": 19592,
+        "weight": 0.026222539693588814,
+        "label": "Dollars In Thousands Except Per Share Data",
+        "value": "dollar thousand except per share data"
+    },
+    {
+        "id": 25384,
+        "weight": 0.025610161662039967,
+        "label": " Days Past Due",
+        "value": "day past due"
+    },
+    {
+        "id": 85182,
+        "weight": 0.0252190846627177,
+        "label": "Analysis Of Change In Net Interest Income",
+        "value": "analysi chang net interest incom"
+    },
+    {
+        "id": 20880,
+        "weight": 0.025060582844890867,
+        "label": " Vs. ",
+        "value": "Vs"
+    },
+    {
+        "id": 27111,
+        "weight": 0.024935643534768535,
+        "label": "Number Of Contracts",
+        "value": "number contract"
+    },
+    {
+        "id": 58877,
+        "weight": 0.02490694063573571,
+        "label": "Years Ended September ",
+        "value": "year end septemb"
+    },
+    {
+        "id": 13786,
+        "weight": 0.024700911140651,
+        "label": "Financial Liabilities",
+        "value": "financi liabil"
+    },
+    {
+        "id": 25307,
+        "weight": 0.024580445159237296,
+        "label": "Home Equity Loans And Lines Of Credit",
+        "value": "home equiti loan line credit"
+    },
+    {
+        "id": 508,
+        "weight": 0.024360530399500886,
+        "label": "Interest Expense",
+        "value": "interest expens"
+    },
+    {
+        "id": 17276,
+        "weight": 0.024164253123261304,
+        "label": "Ratios",
+        "value": "ratio"
+    },
+    {
+        "id": 35630,
+        "weight": 0.024142725948986688,
+        "label": " Compared To ",
+        "value": "compar"
+    },
+    {
+        "id": 935,
+        "weight": 0.023771351899493972,
+        "label": "Other Expenses",
+        "value": "expens"
+    },
+    {
+        "id": 3537,
+        "weight": 0.023600285724229935,
+        "label": "Less Than Months",
+        "value": "less month"
+    },
+    {
+        "id": 3706,
+        "weight": 0.023145300207595945,
+        "label": "Consumer Loans",
+        "value": "consum loan"
+    },
+    {
+        "id": 3800,
+        "weight": 0.023091537049935155,
+        "label": "Charge-offs",
+        "value": "charg off"
+    },
+    {
+        "id": 89023,
+        "weight": 0.02230215254850665,
+        "label": "Primary Risk Exposure",
+        "value": "primari risk exposur"
+    },
+    {
+        "id": 8123,
+        "weight": 0.022036093340193786,
+        "label": "Quarter",
+        "value": "quarter"
+    },
+    {
+        "id": 4582,
+        "weight": 0.0220332141904454,
+        "label": "Investment",
+        "value": "invest"
+    },
+    {
+        "id": 1553,
+        "weight": 0.02170032925541302,
+        "label": "Operating Data",
+        "value": "oper data"
+    },
+    {
+        "id": 40426,
+        "weight": 0.02152717427462032,
+        "label": "Change In Net Unrealized Gains Losses",
+        "value": "chang net unreal gain loss"
+    },
+    {
+        "id": 4581,
+        "weight": 0.021426714128005425,
+        "label": "Recorded",
+        "value": "record"
+    },
+    {
+        "id": 3383,
+        "weight": 0.02129521457032644,
+        "label": "Fair",
+        "value": "fair"
+    },
+    {
+        "id": 44567,
+        "weight": 0.021125333688160736,
+        "label": "In Thousands Except Par Value And Share Amounts",
+        "value": "thousand except par valu share amount"
+    },
+    {
+        "id": 6364,
+        "weight": 0.021060752165336878,
+        "label": "Total Interest-bearing Liabilities",
+        "value": "total interest bear liabil"
+    },
+    {
+        "id": 626,
+        "weight": 0.020886005158301923,
+        "label": "Net Income",
+        "value": "net incom"
+    },
+    {
+        "id": 34181,
+        "weight": 0.020463002232745473,
+        "label": "Derivatives Not Designated As Hedging Instruments",
+        "value": "deriv design hedg instrument"
+    },
+    {
+        "id": 4613,
+        "weight": 0.02041852479947737,
+        "label": "Carry-",
+        "value": "carri"
+    },
+    {
+        "id": 2440,
+        "weight": 0.020155240689036288,
+        "label": "Income",
+        "value": "incom"
+    },
+    {
+        "id": 2260,
+        "weight": 0.02001309635063869,
+        "label": "Mortgage",
+        "value": "mortgag"
+    },
+    {
+        "id": 915,
+        "weight": 0.019960788016091777,
+        "label": "Value",
+        "value": "valu"
+    },
+    {
+        "id": 6308,
+        "weight": 0.019925989743212098,
+        "label": "Yield",
+        "value": "yield"
+    },
+    {
+        "id": 85302,
+        "weight": 0.01988034544261186,
+        "label": "Business Segments Selected Financial Information",
+        "value": "busi segment select financi inform"
+    },
+    {
+        "id": 3988,
+        "weight": 0.01985618981285469,
+        "label": "Actual",
+        "value": "actual"
+    },
+    {
+        "id": 88734,
+        "weight": 0.019761945984101453,
+        "label": "Credit Default Swaps On Asset Backed Securities",
+        "value": "credit default swap asset back secur"
+    },
+    {
+        "id": 9241,
+        "weight": 0.019532322791838835,
+        "label": "Construction",
+        "value": "construct"
+    },
+    {
+        "id": 6353,
+        "weight": 0.019381632571916493,
+        "label": "Total Interest Earning Assets",
+        "value": "total interest earn asset"
+    },
+    {
+        "id": 1593,
+        "weight": 0.01872501055930639,
+        "label": "Weighted Average",
+        "value": "weight averag"
+    },
+    {
+        "id": 3140,
+        "weight": 0.018364943383169637,
+        "label": "Ending Balance ",
+        "value": "end balanc"
+    },
+    {
+        "id": 46080,
+        "weight": 0.01829809813342727,
+        "label": "Lending Tree Loans",
+        "value": "lend tree loan"
+    },
+    {
+        "id": 88588,
+        "weight": 0.018168935087779545,
+        "label": "Expressed In U.s. Dollars",
+        "value": "express dollar"
+    },
+    {
+        "id": 34521,
+        "weight": 0.017953663345033344,
+        "label": "Reimbursable Expenses",
+        "value": "reimburs expens"
+    },
+    {
+        "id": 4933,
+        "weight": 0.0175877013823648,
+        "label": "Total Impaired Loans",
+        "value": "total impair loan"
+    },
+    {
+        "id": 730,
+        "weight": 0.017540200488679724,
+        "label": "Financing Activities",
+        "value": "financ activ"
+    },
+    {
+        "id": 89486,
+        "weight": 0.01752311985954094,
+        "label": "Range Of Expiration Dates",
+        "value": "rang expir date"
+    },
+    {
+        "id": 84251,
+        "weight": 0.017393956813893215,
+        "label": "Loans And Leases Held For Investment",
+        "value": "loan leas held invest"
+    },
+    {
+        "id": 3702,
+        "weight": 0.017329375291069354,
+        "label": "Residential Real Estate",
+        "value": "residenti real estat"
+    },
+    {
+        "id": 60574,
+        "weight": 0.017286320942520115,
+        "label": "Return On Average Tangible Common Equity",
+        "value": "return averag tangibl common equiti"
+    },
+    {
+        "id": 61925,
+        "weight": 0.0171643336216306,
+        "label": "Total-return Swap",
+        "value": "total return swap"
+    },
+    {
+        "id": 9239,
+        "weight": 0.016923946842230673,
+        "label": "Pass",
+        "value": "pass"
+    },
+    {
+        "id": 3881,
+        "weight": 0.016845013869890398,
+        "label": "Collectively Evaluated For Impairment",
+        "value": "collect evalu impair"
+    },
+    {
+        "id": 9240,
+        "weight": 0.01668714792520985,
+        "label": "Grade",
+        "value": "grade"
+    },
+    {
+        "id": 1434,
+        "weight": 0.016618978540006886,
+        "label": "Non-interest Expense",
+        "value": "non interest expens"
+    },
+    {
+        "id": 27230,
+        "weight": 0.01661180281524868,
+        "label": "Selected Financial Ratios And Other Data",
+        "value": "select financi ratio data"
+    },
+    {
+        "id": 2139,
+        "weight": 0.01657233632907854,
+        "label": "Retail",
+        "value": "retail"
+    },
+    {
+        "id": 4924,
+        "weight": 0.016568748466699437,
+        "label": "Average Recorded Investment",
+        "value": "averag record invest"
+    },
+    {
+        "id": 96005,
+        "weight": 0.016532869842908405,
+        "label": "Return On Average Total Tangible Assets",
+        "value": "return averag total tangibl asset"
+    },
+    {
+        "id": 35631,
+        "weight": 0.01647546404484275,
+        "label": "In Thousands Except For Share Amounts",
+        "value": "thousand except share amount"
+    },
+    {
+        "id": 6497,
+        "weight": 0.01646237306993014,
+        "label": "Current",
+        "value": "current"
+    },
+    {
+        "id": 1493,
+        "weight": 0.016427278626302916,
+        "label": "Adjustments To Reconcile Net Income To Net Cash Provided By Operating Activities",
+        "value": "adjust reconcil net incom net cash provid oper activ"
+    },
+    {
+        "id": 46504,
+        "weight": 0.016410882522018888,
+        "label": "One-to-four Family",
+        "value": "one to four famili"
+    },
+    {
+        "id": 60218,
+        "weight": 0.016393012838387257,
+        "label": "Notional Value",
+        "value": "notion valu"
+    },
+    {
+        "id": 6656,
+        "weight": 0.01638935534774427,
+        "label": "Efficiency Ratio",
+        "value": "effici ratio"
+    },
+    {
+        "id": 341,
+        "weight": 0.016104488233888114,
+        "label": "Shareholders Equity",
+        "value": "sharehold equiti"
+    },
+    {
+        "id": 4005,
+        "weight": 0.01600904193555931,
+        "label": "Exchange",
+        "value": "exchang"
+    },
+    {
+        "id": 1546,
+        "weight": 0.01600336745786863,
+        "label": "Estimated",
+        "value": "estim"
+    },
+    {
+        "id": 5145,
+        "weight": 0.01586193957801607,
+        "label": "Money Market Accounts",
+        "value": "money market account"
+    },
+    {
+        "id": 4653,
+        "weight": 0.0158494881850756,
+        "label": "Range Of",
+        "value": "rang"
+    },
+    {
+        "id": 24262,
+        "weight": 0.01580094591757131,
+        "label": "Home Equity Lines Of",
+        "value": "home equiti line"
+    },
+    {
+        "id": 3382,
+        "weight": 0.01579247563764727,
+        "label": "Gross",
+        "value": "gross"
+    },
+    {
+        "id": 44919,
+        "weight": 0.01558567417482511,
+        "label": "Adjustments To Reconcile To Adjusted Ebitda",
+        "value": "adjust reconcil adjust ebitda"
+    },
+    {
+        "id": 4164,
+        "weight": 0.015506741202484835,
+        "label": "Substandard",
+        "value": "substandard"
+    },
+    {
+        "id": 24238,
+        "weight": 0.015474450441072906,
+        "label": "Home Equity",
+        "value": "home equiti"
+    },
+    {
+        "id": 770,
+        "weight": 0.015388341743974424,
+        "label": "Allowance For Loan And Lease Losses",
+        "value": "allow loan leas loss"
+    },
+    {
+        "id": 27112,
+        "weight": 0.01538475388159532,
+        "label": "Pre- Modification Outstanding Recorded Investment",
+        "value": "pre modif outstand record invest"
+    },
+    {
+        "id": 795,
+        "weight": 0.015364208257825026,
+        "label": "Investing Activities",
+        "value": "invest activ"
+    },
+    {
+        "id": 1657,
+        "weight": 0.015266574565558926,
+        "label": "Lease",
+        "value": "leas"
+    },
+    {
+        "id": 27113,
+        "weight": 0.015187421450744634,
+        "label": "Post- Modification Outstanding Recorded Investment",
+        "value": "post modif outstand record invest"
+    },
+    {
+        "id": 7121,
+        "weight": 0.015143124120058115,
+        "label": "Six Month Period Ended",
+        "value": "six month period end"
+    },
+    {
+        "id": 17699,
+        "weight": 0.015137191377437187,
+        "label": "Key Metrics",
+        "value": "key metric"
+    },
+    {
+        "id": 31594,
+        "weight": 0.01511925206554167,
+        "label": "Net Realized Gains Losses",
+        "value": "net realiz gain loss"
+    },
+    {
+        "id": 826,
+        "weight": 0.01504030365139279,
+        "label": "Increase Decrease In",
+        "value": "increas decreas"
+    },
+    {
+        "id": 3380,
+        "weight": 0.014947034671344709,
+        "label": "Investment Securities Available-for- Sale",
+        "value": "invest secur avail for sale"
+    },
+    {
+        "id": 9128,
+        "weight": 0.014720999341461193,
+        "label": "Allowance For Credit Losses",
+        "value": "allow credit loss"
+    },
+    {
+        "id": 3879,
+        "weight": 0.014627714919604505,
+        "label": "Individually Evaluated For Impairment",
+        "value": "individu evalu impair"
+    },
+    {
+        "id": 1102,
+        "weight": 0.014452230858670147,
+        "label": "In Thousands Except Share And Per Share Data",
+        "value": "thousand except share per share data"
+    },
+    {
+        "id": 4155,
+        "weight": 0.014437558213512027,
+        "label": "Originated Loans",
+        "value": "origin loan"
+    },
+    {
+        "id": 35278,
+        "weight": 0.014437558213512027,
+        "label": "Financial Derivatives Liabilities At Fair Value",
+        "value": "financi deriv liabil fair valu"
+    },
+    {
+        "id": 5498,
+        "weight": 0.014344273791655338,
+        "label": "Mortgage Servicing Rights",
+        "value": "mortgag servic right"
+    },
+    {
+        "id": 566,
+        "weight": 0.014308473232287301,
+        "label": "Diluted",
+        "value": "dilut"
+    },
+    {
+        "id": 5621,
+        "weight": 0.014297631580726992,
+        "label": "Other Real Estate Owned",
+        "value": "real estat own"
+    },
+    {
+        "id": 454,
+        "weight": 0.014141987495962507,
+        "label": "Cash Flows From Financing Activities",
+        "value": "cash flow financ activ"
+    },
+    {
+        "id": 6872,
+        "weight": 0.014130641108895524,
+        "label": "Corporates",
+        "value": "corpor"
+    },
+    {
+        "id": 17637,
+        "weight": 0.01412541418653003,
+        "label": "Past Due",
+        "value": "past due"
+    },
+    {
+        "id": 1146,
+        "weight": 0.014113065075806962,
+        "label": "Derivative Financial Instruments",
+        "value": "deriv financi instrument"
+    },
+    {
+        "id": 564,
+        "weight": 0.014057506229261694,
+        "label": "Basic",
+        "value": "basic"
+    },
+    {
+        "id": 88896,
+        "weight": 0.01405006907656886,
+        "label": "Financial Derivatives-assets-",
+        "value": "financi deriv asset"
+    },
+    {
+        "id": 88735,
+        "weight": 0.01400701472801962,
+        "label": "Short Swaps",
+        "value": "short swap"
+    },
+    {
+        "id": 95965,
+        "weight": 0.013874392858236573,
+        "label": "Provision For Credit Losses",
+        "value": "provis credit loss"
+    },
+    {
+        "id": 60104,
+        "weight": 0.01380609443478983,
+        "label": "With No Related Allowance Recorded",
+        "value": "relat allow record"
+    },
+    {
+        "id": 5146,
+        "weight": 0.013658992077246591,
+        "label": "Savings Accounts",
+        "value": "save account"
+    },
+    {
+        "id": 28582,
+        "weight": 0.013601586279180938,
+        "label": "Below Market Interest Rate",
+        "value": "market interest rate"
+    },
+    {
+        "id": 9056,
+        "weight": 0.013578443724175007,
+        "label": "Issuers",
+        "value": "issuer"
+    },
+    {
+        "id": 46514,
+        "weight": 0.013504713994945147,
+        "label": "Construction And Land/lots",
+        "value": "construct land lot"
+    },
+    {
+        "id": 147,
+        "weight": 0.013452733716212324,
+        "label": "Total Assets",
+        "value": "total asset"
+    },
+    {
+        "id": 77099,
+        "weight": 0.013379138811676527,
+        "label": "First Mortgages",
+        "value": "first mortgag"
+    }
+]

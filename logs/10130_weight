@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 161,
+        "weight": 0.3900609327582494,
+        "label": "Other Assets",
+        "value": "asset"
+    },
+    {
+        "id": 982,
+        "weight": 0.38673671984096875,
+        "label": "Year Ended December ",
+        "value": "year end decemb"
+    },
+    {
+        "id": 6587,
+        "weight": 0.2832949430823399,
+        "label": "Successor",
+        "value": "successor"
+    },
+    {
+        "id": 61011,
+        "weight": 0.2571684116081758,
+        "label": "Adjusted Profitability Performance Measures",
+        "value": "adjust profit perform measur"
+    },
+    {
+        "id": 80028,
+        "weight": 0.21250131868288286,
+        "label": "Performance Coatings",
+        "value": "perform coat"
+    },
+    {
+        "id": 704,
+        "weight": 0.21245988580342243,
+        "label": "Nine Months Ended September ",
+        "value": "nine month end septemb"
+    },
+    {
+        "id": 5992,
+        "weight": 0.21135311815541763,
+        "label": "Net Sales",
+        "value": "net sale"
+    },
+    {
+        "id": 715,
+        "weight": 0.18489647922924096,
+        "label": "Operating Activities",
+        "value": "oper activ"
+    },
+    {
+        "id": 60958,
+        "weight": 0.18012559600937272,
+        "label": "Adjusted Ebit",
+        "value": "adjust ebit"
+    },
+    {
+        "id": 517,
+        "weight": 0.17868444143973136,
+        "label": "Six Months Ended June ",
+        "value": "six month end june"
+    },
+    {
+        "id": 2797,
+        "weight": 0.17547462290887195,
+        "label": "For The Three Months Ended March ",
+        "value": "three month end march"
+    },
+    {
+        "id": 703,
+        "weight": 0.1751706136528954,
+        "label": "Three Months Ended September ",
+        "value": "three month end septemb"
+    },
+    {
+        "id": 516,
+        "weight": 0.15290176029680755,
+        "label": "Three Months Ended June ",
+        "value": "three month end june"
+    },
+    {
+        "id": 80034,
+        "weight": 0.14610257629180914,
+        "label": "Transportation Coatings",
+        "value": "transport coat"
+    },
+    {
+        "id": 190,
+        "weight": 0.131790772471108,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 1396,
+        "weight": 0.10859988040397084,
+        "label": "Change",
+        "value": "chang"
+    },
+    {
+        "id": 60900,
+        "weight": 0.09342074967141051,
+        "label": "Specialty Construction Chemicals",
+        "value": "specialti construct chemic"
+    },
+    {
+        "id": 60903,
+        "weight": 0.08714834938828427,
+        "label": "Specialty Building Materials",
+        "value": "specialti build materi"
+    },
+    {
+        "id": 245,
+        "weight": 0.0870960171386912,
+        "label": "For The Year Ended ",
+        "value": "year end"
+    },
+    {
+        "id": 2477,
+        "weight": 0.08299842798884215,
+        "label": "Net Cash Provided By Used In",
+        "value": "net cash provid use"
+    },
+    {
+        "id": 204,
+        "weight": 0.07835758033924446,
+        "label": "Predecessor",
+        "value": "predecessor"
+    },
+    {
+        "id": 13413,
+        "weight": 0.07431843971825332,
+        "label": "Depreciation And Amortization",
+        "value": "depreci amort"
+    },
+    {
+        "id": 562,
+        "weight": 0.06739112859842206,
+        "label": "Other Comprehensive Income Loss",
+        "value": "comprehens incom loss"
+    },
+    {
+        "id": 24659,
+        "weight": 0.06632576235364149,
+        "label": "Adjusted Ebitda",
+        "value": "adjust ebitda"
+    },
+    {
+        "id": 730,
+        "weight": 0.0646931471792063,
+        "label": "Financing Activities",
+        "value": "financ activ"
+    },
+    {
+        "id": 623,
+        "weight": 0.060754437666826124,
+        "label": "Balance ",
+        "value": "balanc"
+    },
+    {
+        "id": 30233,
+        "weight": 0.05767457595968826,
+        "label": "Other Comprehensive Income Loss Before Tax",
+        "value": "comprehens incom loss tax"
+    },
+    {
+        "id": 687,
+        "weight": 0.056298007256339176,
+        "label": "Three Months Ended ",
+        "value": "three month end"
+    },
+    {
+        "id": 20880,
+        "weight": 0.05545632303816178,
+        "label": " Vs. ",
+        "value": "Vs"
+    },
+    {
+        "id": 61651,
+        "weight": 0.04989409316123145,
+        "label": "Defined Benefit Pension And Other Postretirement Plans",
+        "value": "defin benefit pension postretir plan"
+    },
+    {
+        "id": 80101,
+        "weight": 0.049038765849896054,
+        "label": "Contractual Obligations Due In",
+        "value": "contractu oblig due"
+    },
+    {
+        "id": 80102,
+        "weight": 0.049038765849896054,
+        "label": "Debt Including Current Portion",
+        "value": "debt includ current portion"
+    },
+    {
+        "id": 1750,
+        "weight": 0.04688420055597817,
+        "label": "Defined Benefit Pension Plans",
+        "value": "defin benefit pension plan"
+    },
+    {
+        "id": 183,
+        "weight": 0.04624628839576504,
+        "label": "December ",
+        "value": "decemb"
+    },
+    {
+        "id": 6445,
+        "weight": 0.04608420444471244,
+        "label": "Gross Margin",
+        "value": "gross margin"
+    },
+    {
+        "id": 61102,
+        "weight": 0.04514227476492369,
+        "label": "By Region",
+        "value": "region"
+    },
+    {
+        "id": 164,
+        "weight": 0.04490644678512068,
+        "label": "Current Liabilities",
+        "value": "current liabil"
+    },
+    {
+        "id": 1253,
+        "weight": 0.041721000950388235,
+        "label": "Statement Of Operations Data",
+        "value": "statement oper data"
+    },
+    {
+        "id": 80001,
+        "weight": 0.040928995786864146,
+        "label": "Period From January Through January ",
+        "value": "period januari januari"
+    },
+    {
+        "id": 1108,
+        "weight": 0.04007366847552875,
+        "label": "Latin America",
+        "value": "latin america"
+    },
+    {
+        "id": 60950,
+        "weight": 0.0379195108025359,
+        "label": "Net Sales By Region",
+        "value": "net sale region"
+    },
+    {
+        "id": 62492,
+        "weight": 0.0379195108025359,
+        "label": "Four Quarters Ended",
+        "value": "four quarter end"
+    },
+    {
+        "id": 2443,
+        "weight": 0.03464168375335882,
+        "label": "Non-",
+        "value": "non"
+    },
+    {
+        "id": 9958,
+        "weight": 0.034105638668469496,
+        "label": "Pension",
+        "value": "pension"
+    },
+    {
+        "id": 80103,
+        "weight": 0.03370623182447635,
+        "label": "Senior Notes Consisting Of The Following",
+        "value": "senior note consist follow"
+    },
+    {
+        "id": 2885,
+        "weight": 0.03362402262095404,
+        "label": "Asia Pacific",
+        "value": "asia pacif"
+    },
+    {
+        "id": 76333,
+        "weight": 0.03332608635277173,
+        "label": "Components Of Net Periodic Benefit /cost",
+        "value": "compon net period benefit cost"
+    },
+    {
+        "id": 64307,
+        "weight": 0.033072656038301985,
+        "label": "Gcp Applied Technologies Inc. Consolidated Statements Of Cash Flows",
+        "value": "gcp appli technolog inc consolid statement cash flow"
+    },
+    {
+        "id": 61926,
+        "weight": 0.03259747419867121,
+        "label": "Repositioning Expenses",
+        "value": "reposit expens"
+    },
+    {
+        "id": 61025,
+        "weight": 0.0325657954093625,
+        "label": "Adjusted Ebit Margin",
+        "value": "adjust ebit margin"
+    },
+    {
+        "id": 689,
+        "weight": 0.03251917474317551,
+        "label": "Nine Months Ended ",
+        "value": "nine month end"
+    },
+    {
+        "id": 795,
+        "weight": 0.031850656783827834,
+        "label": "Investing Activities",
+        "value": "invest activ"
+    },
+    {
+        "id": 423,
+        "weight": 0.03143670136656286,
+        "label": "Noncontrolling Interests",
+        "value": "noncontrol interest"
+    },
+    {
+        "id": 61027,
+        "weight": 0.030791783208074262,
+        "label": "Adjusted Ebitda Margin",
+        "value": "adjust ebitda margin"
+    },
+    {
+        "id": 5512,
+        "weight": 0.030538352893604518,
+        "label": "Net Change",
+        "value": "net chang"
+    },
+    {
+        "id": 80313,
+        "weight": 0.03028492257913477,
+        "label": "Components Of Net Periodic Benefit Cost And Amounts Recognized In Other Comprehensive Income Loss",
+        "value": "compon net period benefit cost amount recogn comprehens incom loss"
+    },
+    {
+        "id": 341,
+        "weight": 0.029849258378094278,
+        "label": "Shareholders Equity",
+        "value": "sharehold equiti"
+    },
+    {
+        "id": 80522,
+        "weight": 0.028764340692316287,
+        "label": "Current Year Deferrals To Aoci",
+        "value": "current year deferr aoci"
+    },
+    {
+        "id": 60906,
+        "weight": 0.028225801274068076,
+        "label": "Darex Packaging Technologies",
+        "value": "darex packag technolog"
+    },
+    {
+        "id": 62528,
+        "weight": 0.028130764906141918,
+        "label": "After- Tax",
+        "value": "after tax"
+    },
+    {
+        "id": 15335,
+        "weight": 0.027916164073735008,
+        "label": "Unrealized Gain Loss On Derivatives",
+        "value": "unreal gain loss deriv"
+    },
+    {
+        "id": 6264,
+        "weight": 0.026990328491028056,
+        "label": "U.s. Defined Benefit",
+        "value": "defin benefit"
+    },
+    {
+        "id": 46212,
+        "weight": 0.02684438277447554,
+        "label": "Invested Capital",
+        "value": "invest capit"
+    },
+    {
+        "id": 43607,
+        "weight": 0.026420110283471125,
+        "label": "Investment In Unconsolidated Affiliate",
+        "value": "invest unconsolid affili"
+    },
+    {
+        "id": 533,
+        "weight": 0.026296029551598602,
+        "label": "Research And Development Expense",
+        "value": "research develop expens"
+    },
+    {
+        "id": 626,
+        "weight": 0.025984747251502592,
+        "label": "Net Income",
+        "value": "net incom"
+    },
+    {
+        "id": 80077,
+        "weight": 0.025849892075914198,
+        "label": " Euro Senior Notes",
+        "value": "euro senior note"
+    },
+    {
+        "id": 574,
+        "weight": 0.02549618393832644,
+        "label": "Interest Expense Net",
+        "value": "interest expens net"
+    },
+    {
+        "id": 80518,
+        "weight": 0.024709455660800336,
+        "label": "Unrealized Currency Translation Adjustments",
+        "value": "unreal currenc translat adjust"
+    },
+    {
+        "id": 25475,
+        "weight": 0.024519382924948027,
+        "label": "Percentage Increase Decrease",
+        "value": "percentag increas decreas"
+    },
+    {
+        "id": 1006,
+        "weight": 0.02441225957229827,
+        "label": "Numerator",
+        "value": "numer"
+    },
+    {
+        "id": 80062,
+        "weight": 0.024329310189095715,
+        "label": "Segment Adjusted Ebitda",
+        "value": "segment adjust ebitda"
+    },
+    {
+        "id": 34402,
+        "weight": 0.02429802435046089,
+        "label": "Asset Category",
+        "value": "asset categori"
+    },
+    {
+        "id": 62527,
+        "weight": 0.024139237453243406,
+        "label": "Pre- Tax",
+        "value": "pre tax"
+    },
+    {
+        "id": 80240,
+        "weight": 0.024075879874625967,
+        "label": "Weighted Averageamortization Periods Years",
+        "value": "weight averageamort period year"
+    },
+    {
+        "id": 28706,
+        "weight": 0.023949164717391096,
+        "label": "Amortization Of Acquired Intangibles",
+        "value": "amort acquir intang"
+    },
+    {
+        "id": 1486,
+        "weight": 0.02375200133134941,
+        "label": "June ",
+        "value": "june"
+    },
+    {
+        "id": 781,
+        "weight": 0.02362295478412238,
+        "label": "Other Liabilities",
+        "value": "liabil"
+    },
+    {
+        "id": 80682,
+        "weight": 0.023569019245686475,
+        "label": "Total Axalta",
+        "value": "total axalta"
+    },
+    {
+        "id": 61537,
+        "weight": 0.023378946509834166,
+        "label": "Net Periodic Benefit Cost Income",
+        "value": "net period benefit cost incom"
+    },
+    {
+        "id": 61649,
+        "weight": 0.02290376467020339,
+        "label": "Pre- Tax Amount",
+        "value": "pre tax amount"
+    },
+    {
+        "id": 61092,
+        "weight": 0.02280872830227723,
+        "label": "Net Sales Variance Analysis",
+        "value": "net sale varianc analysi"
+    },
+    {
+        "id": 62001,
+        "weight": 0.02280872830227723,
+        "label": "Changes In Assets And Liabilities Excluding Effect Of Currency Translation",
+        "value": "chang asset liabil exclud effect currenc translat"
+    },
+    {
+        "id": 62493,
+        "weight": 0.02280872830227723,
+        "label": "Analysis Of Operations In Millions",
+        "value": "analysi oper million"
+    },
+    {
+        "id": 80027,
+        "weight": 0.022555297987807484,
+        "label": "Refinish",
+        "value": "refinish"
+    },
+    {
+        "id": 80032,
+        "weight": 0.022555297987807484,
+        "label": "Total Net Sales Performance Coatings",
+        "value": "total net sale perform coat"
+    },
+    {
+        "id": 80033,
+        "weight": 0.022555297987807484,
+        "label": "Light Vehicle",
+        "value": "light vehicl"
+    },
+    {
+        "id": 80035,
+        "weight": 0.022555297987807484,
+        "label": "Commercial Vehicle",
+        "value": "commerci vehicl"
+    },
+    {
+        "id": 80036,
+        "weight": 0.022555297987807484,
+        "label": "Total Net Sales Transportation Coatings",
+        "value": "total net sale transport coat"
+    },
+    {
+        "id": 79958,
+        "weight": 0.022175152516102865,
+        "label": "Manufacturing Facilities",
+        "value": "manufactur facil"
+    },
+    {
+        "id": 3170,
+        "weight": 0.021909173641848162,
+        "label": "Per Share",
+        "value": "per share"
+    },
+    {
+        "id": 62215,
+        "weight": 0.02185836462301568,
+        "label": "Amortization Of Acquired Inventory Fair Value Adjustment",
+        "value": "amort acquir inventori fair valu adjust"
+    },
+    {
+        "id": 34350,
+        "weight": 0.021610102010650223,
+        "label": "Change In Projected Benefit Obligation",
+        "value": "chang project benefit oblig"
+    },
+    {
+        "id": 61653,
+        "weight": 0.021573255519237215,
+        "label": "After- Tax Amount",
+        "value": "after tax amount"
+    },
+    {
+        "id": 447,
+        "weight": 0.021412575281537748,
+        "label": "Cash Flows From Operating Activities",
+        "value": "cash flow oper activ"
+    },
+    {
+        "id": 64158,
+        "weight": 0.021383182783384906,
+        "label": "Gcp Applied Technologies Inc. Consolidated Statements Of Operations",
+        "value": "gcp appli technolog inc consolid statement oper"
+    },
+    {
+        "id": 10021,
+        "weight": 0.02126114995972854,
+        "label": "Pension Benefits",
+        "value": "pension benefit"
+    },
+    {
+        "id": 80244,
+        "weight": 0.021161431258223874,
+        "label": "Trademarks Definite-lived",
+        "value": "trademark definit live"
+    },
+    {
+        "id": 42254,
+        "weight": 0.020962490108425155,
+        "label": "Interest Rate Contracts",
+        "value": "interest rate contract"
+    },
+    {
+        "id": 80344,
+        "weight": 0.02090800094375413,
+        "label": "Other Long- Term Employee Benefits",
+        "value": "long term employe benefit"
+    },
+    {
+        "id": 12178,
+        "weight": 0.02062975217019618,
+        "label": "Net Income Loss Attributable To Controlling Interest",
+        "value": "net incom loss attribut control interest"
+    },
+    {
+        "id": 3227,
+        "weight": 0.020563023071133734,
+        "label": "Deferred Tax Assets",
+        "value": "defer tax asset"
+    },
+    {
+        "id": 6426,
+        "weight": 0.02047113025585432,
+        "label": "Less Than",
+        "value": "less"
+    },
+    {
+        "id": 2728,
+        "weight": 0.020352084121705433,
+        "label": "Gross Carrying Amount",
+        "value": "gross carri amount"
+    },
+    {
+        "id": 1569,
+        "weight": 0.020235796807215184,
+        "label": "Outstanding At ",
+        "value": "outstand"
+    },
+    {
+        "id": 39031,
+        "weight": 0.02015651247528279,
+        "label": "Currency Translation Adjustments",
+        "value": "currenc translat adjust"
+    },
+    {
+        "id": 2638,
+        "weight": 0.020079511566504022,
+        "label": "Fair Value Measurements At ",
+        "value": "fair valu measur"
+    },
+    {
+        "id": 14608,
+        "weight": 0.019862600896566423,
+        "label": "Income From Discontinued Operations Net Of Income Tax",
+        "value": "incom discontinu oper net incom tax"
+    },
+    {
+        "id": 61928,
+        "weight": 0.019862600896566423,
+        "label": "Net Income Attributable To Gcp Shareholders",
+        "value": "net incom attribut gcp sharehold"
+    },
+    {
+        "id": 568,
+        "weight": 0.01964954128580241,
+        "label": "For The Six Months Ended",
+        "value": "six month end"
+    },
+    {
+        "id": 80403,
+        "weight": 0.019640849371405394,
+        "label": "Awards In Millions",
+        "value": "award million"
+    },
+    {
+        "id": 62212,
+        "weight": 0.019292382689009492,
+        "label": "Third-party And Other Acquisition-related Costs",
+        "value": "third parti acquisit relat cost"
+    },
+    {
+        "id": 60841,
+        "weight": 0.019197346321083338,
+        "label": "Europe Middle East Africa Emea",
+        "value": "europ middl east africa emea"
+    },
+    {
+        "id": 5410,
+        "weight": 0.019160998770829163,
+        "label": "Pro Forma",
+        "value": "pro forma"
+    },
+    {
+        "id": 19770,
+        "weight": 0.019102581091649803,
+        "label": "Change In Plan Assets",
+        "value": "chang plan asset"
+    },
+    {
+        "id": 61997,
+        "weight": 0.01910230995315718,
+        "label": "Gain On Termination And Curtailment Of Pension And Other Postretirement Plans",
+        "value": "gain termin curtail pension postretir plan"
+    },
+    {
+        "id": 51516,
+        "weight": 0.019007273585231025,
+        "label": "Diluted Earnings Per Share",
+        "value": "dilut earn per share"
+    },
+    {
+        "id": 60969,
+        "weight": 0.01891223721730487,
+        "label": "Restructuring Expenses And Asset Impairments",
+        "value": "restructur expens asset impair"
+    },
+    {
+        "id": 511,
+        "weight": 0.018908827884723502,
+        "label": "Provision For Income Taxes",
+        "value": "provis incom tax"
+    },
+    {
+        "id": 569,
+        "weight": 0.018728893547731412,
+        "label": "Cost Of Goods Sold",
+        "value": "cost good sold"
+    },
+    {
+        "id": 60957,
+        "weight": 0.018627128113526407,
+        "label": "Specialty Construction Chemicals Segment Operating Income",
+        "value": "specialti construct chemic segment oper incom"
+    },
+    {
+        "id": 60961,
+        "weight": 0.018627128113526407,
+        "label": "Specialty Building Materials Segment Operating Income",
+        "value": "specialti build materi segment oper incom"
+    },
+    {
+        "id": 64197,
+        "weight": 0.018532091745600252,
+        "label": "Gcp Applied Technologies Inc. Consolidated Balance Sheets",
+        "value": "gcp appli technolog inc consolid balanc sheet"
+    },
+    {
+        "id": 80009,
+        "weight": 0.01837369779905666,
+        "label": "Cash Flows From",
+        "value": "cash flow"
+    },
+    {
+        "id": 5162,
+        "weight": 0.018362623822044614,
+        "label": "Less Net Income Attributable To Noncontrolling Interests",
+        "value": "less net incom attribut noncontrol interest"
+    },
+    {
+        "id": 69507,
+        "weight": 0.018246982641821785,
+        "label": "Equity Earnings In Unconsolidated Affiliate",
+        "value": "equiti earn unconsolid affili"
+    },
+    {
+        "id": 80523,
+        "weight": 0.018120267484586915,
+        "label": "Reclassifications From Aoci To Net Income",
+        "value": "reclassif aoci net incom"
+    },
+    {
+        "id": 60968,
+        "weight": 0.01796187353804332,
+        "label": "Pension Mtm Adjustment And Other Related Costs Net",
+        "value": "pension mtm adjust relat cost net"
+    },
+    {
+        "id": 544,
+        "weight": 0.017959110679942075,
+        "label": "Net Income Loss",
+        "value": "net incom loss"
+    },
+    {
+        "id": 88,
+        "weight": 0.017841301290176418,
+        "label": "Revenue",
+        "value": "revenu"
+    },
+    {
+        "id": 14313,
+        "weight": 0.01767749524373419,
+        "label": "Tax Effect",
+        "value": "tax effect"
+    },
+    {
+        "id": 2881,
+        "weight": 0.017662701577051503,
+        "label": "North America",
+        "value": "north america"
+    },
+    {
+        "id": 2747,
+        "weight": 0.017602703206245754,
+        "label": "Net Book Value",
+        "value": "net book valu"
+    },
+    {
+        "id": 51513,
+        "weight": 0.017486691698412545,
+        "label": "Basic Earnings Per Share",
+        "value": "basic earn per share"
+    },
+    {
+        "id": 49,
+        "weight": 0.01727924927885826,
+        "label": "Part",
+        "value": "part"
+    },
+    {
+        "id": 6947,
+        "weight": 0.017233261383942797,
+        "label": "Capital In Excess Of Par",
+        "value": "capit excess par"
+    },
+    {
+        "id": 1981,
+        "weight": 0.017172070977688962,
+        "label": "Common Stock",
+        "value": "common stock"
+    },
+    {
+        "id": 9961,
+        "weight": 0.017148500788151506,
+        "label": "Change In Benefit Obligation",
+        "value": "chang benefit oblig"
+    },
+    {
+        "id": 6097,
+        "weight": 0.017123575641657098,
+        "label": "Statements Of Operations",
+        "value": "statement oper"
+    },
+    {
+        "id": 27186,
+        "weight": 0.01694741111345317,
+        "label": "Short-term Borrowings",
+        "value": "short term borrow"
+    },
+    {
+        "id": 14156,
+        "weight": 0.01690546207604363,
+        "label": "Technology",
+        "value": "technolog"
+    },
+    {
+        "id": 80044,
+        "weight": 0.016853115912238176,
+        "label": "Termination Benefits And Other Employee Related Costs",
+        "value": "termin benefit employe relat cost"
+    },
+    {
+        "id": 80202,
+        "weight": 0.01664999785826338,
+        "label": "Adjustment To Reconcile Net Income To Cash Provided By Operating Activities",
+        "value": "adjust reconcil net incom cash provid oper activ"
+    },
+    {
+        "id": 1544,
+        "weight": 0.016636896911448536,
+        "label": "Balance Sheet Data",
+        "value": "balanc sheet data"
+    },
+    {
+        "id": 80319,
+        "weight": 0.01659968559776843,
+        "label": "Changes In Plan Assets And Benefit Obligations Recognized In Other Comprehensive Income Loss",
+        "value": "chang plan asset benefit oblig recogn comprehens incom loss"
+    },
+    {
+        "id": 42686,
+        "weight": 0.01649825610385313,
+        "label": "Income Loss Before Income Taxes",
+        "value": "incom loss incom tax"
+    },
+    {
+        "id": 80391,
+        "weight": 0.016346255283298684,
+        "label": "Level Assets",
+        "value": "level asset"
+    },
+    {
+        "id": 1864,
+        "weight": 0.0163259709538361,
+        "label": "Exercisable At",
+        "value": "exercis"
+    },
+    {
+        "id": 15136,
+        "weight": 0.016304158973219567,
+        "label": "Diluted Net Income Loss Per Share",
+        "value": "dilut net incom loss per share"
+    },
+    {
+        "id": 80042,
+        "weight": 0.01621954012606381,
+        "label": "Long-term Employee Benefit Plan Adjustments",
+        "value": "long term employe benefit plan adjust"
+    },
+    {
+        "id": 241,
+        "weight": 0.016198682900307262,
+        "label": "Industrial",
+        "value": "industri"
+    },
+    {
+        "id": 80948,
+        "weight": 0.015966109811594062,
+        "label": "Derivatives In Cash Flow And Net Investment Hedges",
+        "value": "deriv cash flow net invest hedg"
+    },
+    {
+        "id": 80074,
+        "weight": 0.01586050838891427,
+        "label": " Dollar Term Loans",
+        "value": "dollar term loan"
+    },
+    {
+        "id": 80039,
+        "weight": 0.015712679497124314,
+        "label": "Debt Extinguishment And Refinancing Related Costs",
+        "value": "debt extinguish refinanc relat cost"
+    },
+    {
+        "id": 80241,
+        "weight": 0.015712679497124314,
+        "label": "Trademarks Indefinite-lived",
+        "value": "trademark indefinit live"
+    },
+    {
+        "id": 890,
+        "weight": 0.015586079975940493,
+        "label": "Selling General And Administrative Expenses",
+        "value": "sell gener administr expens"
+    },
+    {
+        "id": 471,
+        "weight": 0.015479994755518625,
+        "label": "Change In Operating Assets And Liabilities",
+        "value": "chang oper asset liabil"
+    },
+    {
+        "id": 736,
+        "weight": 0.015415429465255015,
+        "label": "Comprehensive Income",
+        "value": "comprehens incom"
+    },
+    {
+        "id": 2883,
+        "weight": 0.015395891604037131,
+        "label": "Europe Middle East And Africa",
+        "value": "europ middl east africa"
+    },
+    {
+        "id": 6570,
+        "weight": 0.015363849624170945,
+        "label": "Total Net Sales",
+        "value": "total net sale"
+    },
+    {
+        "id": 1494,
+        "weight": 0.015363044724357825,
+        "label": "Deferred Income Taxes",
+        "value": "defer incom tax"
+    },
+    {
+        "id": 1060,
+        "weight": 0.0153094317137736,
+        "label": "Accumulated Amortization",
+        "value": "accumul amort"
+    },
+    {
+        "id": 179,
+        "weight": 0.015249981377656196,
+        "label": "Accumulated Other Comprehensive Loss",
+        "value": "accumul comprehens loss"
+    },
+    {
+        "id": 2918,
+        "weight": 0.01522276067397541,
+        "label": "Number Of Shares In Thousands",
+        "value": "number share thousand"
+    },
+    {
+        "id": 1068,
+        "weight": 0.015147988980184837,
+        "label": "Level",
+        "value": "level"
+    },
+    {
+        "id": 77132,
+        "weight": 0.014952388553715074,
+        "label": "Unrealized Gain Loss On Securities",
+        "value": "unreal gain loss secur"
+    },
+    {
+        "id": 1741,
+        "weight": 0.014909498805890277,
+        "label": "Adjustment",
+        "value": "adjust"
+    },
+    {
+        "id": 163,
+        "weight": 0.014853566952182465,
+        "label": "Accounts Payable",
+        "value": "account payabl"
+    },
+    {
+        "id": 250,
+        "weight": 0.01484995924297629,
+        "label": "Current Assets",
+        "value": "current asset"
+    },
+    {
+        "id": 61412,
+        "weight": 0.014730637028554046,
+        "label": "Change In Provision Resulting From",
+        "value": "chang provis result"
+    },
+    {
+        "id": 15132,
+        "weight": 0.01465598613871088,
+        "label": "Basic Net Income Loss Per Share",
+        "value": "basic net incom loss per share"
+    },
+    {
+        "id": 50563,
+        "weight": 0.01465598613871088,
+        "label": "Interest Rate Caps",
+        "value": "interest rate cap"
+    },
+    {
+        "id": 80839,
+        "weight": 0.014572243082010454,
+        "label": "Adjustment To Reconcile Net Income To Cash Used For Operating Activities",
+        "value": "adjust reconcil net incom cash use oper activ"
+    },
+    {
+        "id": 274,
+        "weight": 0.014519514284156244,
+        "label": "Accrued Liabilities",
+        "value": "accru liabil"
+    },
+    {
+        "id": 2341,
+        "weight": 0.014331803958668964,
+        "label": "Service Cost",
+        "value": "servic cost"
+    },
+    {
+        "id": 1687,
+        "weight": 0.014195496040583799,
+        "label": "September ",
+        "value": "septemb"
+    },
+    {
+        "id": 18122,
+        "weight": 0.014192097610305834,
+        "label": "Other Activities",
+        "value": "activ"
+    },
+    {
+        "id": 62097,
+        "weight": 0.014160418820997117,
+        "label": "Severance And Other Employee Costs",
+        "value": "sever employe cost"
+    },
+    {
+        "id": 2757,
+        "weight": 0.013969029457376003,
+        "label": " Plan",
+        "value": "plan"
+    },
+    {
+        "id": 8488,
+        "weight": 0.013942566659492525,
+        "label": "Location",
+        "value": "locat"
+    },
+    {
+        "id": 61094,
+        "weight": 0.013685236981366339,
+        "label": "Scc",
+        "value": "scc"
+    },
+    {
+        "id": 61120,
+        "weight": 0.013495164245514028,
+        "label": "Maximum Borrowing Amount",
+        "value": "maximum borrow amount"
+    },
+    {
+        "id": 61121,
+        "weight": 0.013495164245514028,
+        "label": "Available Liquidity",
+        "value": "avail liquid"
+    },
+    {
+        "id": 21665,
+        "weight": 0.013368449088279156,
+        "label": "Date Of Sale",
+        "value": "date sale"
+    },
+    {
+        "id": 80468,
+        "weight": 0.013305091509661719,
+        "label": "Prepaid And Other Assets",
+        "value": "prepaid asset"
+    },
+    {
+        "id": 80050,
+        "weight": 0.013178376352426845,
+        "label": "Dividends In Respect Of Noncontrolling Interest",
+        "value": "dividend respect noncontrol interest"
+    },
+    {
+        "id": 262,
+        "weight": 0.013068984943329665,
+        "label": "Inventory",
+        "value": "inventori"
+    },
+    {
+        "id": 81104,
+        "weight": 0.013051661195191971,
+        "label": "Favorable Unfavorable Impact",
+        "value": "favor unfavor impact"
+    },
+    {
+        "id": 300,
+        "weight": 0.01304054319154875,
+        "label": "Total Revenue",
+        "value": "total revenu"
+    },
+    {
+        "id": 2342,
+        "weight": 0.013028968138627499,
+        "label": "Interest Cost",
+        "value": "interest cost"
+    },
+    {
+        "id": 62443,
+        "weight": 0.013019982405883253,
+        "label": "Corporate And Certain Pension Costs",
+        "value": "corpor certain pension cost"
+    },
+    {
+        "id": 61771,
+        "weight": 0.012924946037957099,
+        "label": "Valuation And Qualifying Accounts Deducted From Assets",
+        "value": "valuat qualifi account deduct asset"
+    },
+    {
+        "id": 1788,
+        "weight": 0.01267663638192051,
+        "label": "Incorporated By Reference",
+        "value": "incorpor refer"
+    },
+    {
+        "id": 80175,
+        "weight": 0.012671515723487351,
+        "label": "Recognition Of Stock-based Compensation",
+        "value": "recognit stock base compens"
+    },
+    {
+        "id": 81770,
+        "weight": 0.012544800566252477,
+        "label": "Segment Adjusted Ebit",
+        "value": "segment adjust ebit"
+    },
+    {
+        "id": 147,
+        "weight": 0.012491139787165527,
+        "label": "Total Assets",
+        "value": "total asset"
+    },
+    {
+        "id": 27765,
+        "weight": 0.012481910784655988,
+        "label": "Expected Return On Plan Assets",
+        "value": "expect return plan asset"
+    },
+    {
+        "id": 1768,
+        "weight": 0.012467525603045475,
+        "label": "March ",
+        "value": "march"
+    },
+    {
+        "id": 873,
+        "weight": 0.012461787303189104,
+        "label": "Income Before Income Taxes",
+        "value": "incom incom tax"
+    },
+    {
+        "id": 32514,
+        "weight": 0.012449764198326323,
+        "label": "Basic Loss Earnings Per Share",
+        "value": "basic loss earn per share"
+    }
+]

@@ -5,7 +5,7 @@ import random
 from utils import Utils
 from elastic import ElasticHelper
 from mysql import MySqlHelper
-from html import HtmlHelper
+from htm import HtmlHelper
 
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer

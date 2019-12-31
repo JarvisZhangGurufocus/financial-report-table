@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 5540,
+        "weight": 0.6792861557022981,
+        "label": "In Thousands",
+        "value": "thousand"
+    },
+    {
+        "id": 14292,
+        "weight": 0.26862373482116547,
+        "label": "In Thousands Except Per Share Data And Performance Metrics",
+        "value": "thousand except per share data perform metric"
+    },
+    {
+        "id": 88,
+        "weight": 0.2527271509016926,
+        "label": "Revenue",
+        "value": "revenu"
+    },
+    {
+        "id": 56450,
+        "weight": 0.23801593295248696,
+        "label": "In Millions Except Percentages Trading Days And As Noted Below",
+        "value": "million except percentag trade day note"
+    },
+    {
+        "id": 15361,
+        "weight": 0.17377982245177348,
+        "label": "In Thousands Except Performance Metrics",
+        "value": "thousand except perform metric"
+    },
+    {
+        "id": 3196,
+        "weight": 0.15959875817032457,
+        "label": "Three Months Ended March ",
+        "value": "three month end march"
+    },
+    {
+        "id": 527,
+        "weight": 0.1426808562407023,
+        "label": "Three Months Ended",
+        "value": "three month end"
+    },
+    {
+        "id": 56032,
+        "weight": 0.1407556151724098,
+        "label": "In Millions Except Trading Days Percentages And As Noted Below",
+        "value": "million except trade day percentag note"
+    },
+    {
+        "id": 447,
+        "weight": 0.12293928299500567,
+        "label": "Cash Flows From Operating Activities",
+        "value": "cash flow oper activ"
+    },
+    {
+        "id": 523,
+        "weight": 0.120734565816314,
+        "label": "Cost Of Revenues",
+        "value": "cost revenu"
+    },
+    {
+        "id": 3223,
+        "weight": 0.1204916400843801,
+        "label": "Three Months Ended September ",
+        "value": "three month end septemb"
+    },
+    {
+        "id": 1667,
+        "weight": 0.11923639967114807,
+        "label": "Change",
+        "value": "chang"
+    },
+    {
+        "id": 517,
+        "weight": 0.10312365862474583,
+        "label": "Six Months Ended June ",
+        "value": "six month end june"
+    },
+    {
+        "id": 153,
+        "weight": 0.09715467756282405,
+        "label": "Assets",
+        "value": "asset"
+    },
+    {
+        "id": 516,
+        "weight": 0.09652673349296217,
+        "label": "Three Months Ended June ",
+        "value": "three month end june"
+    },
+    {
+        "id": 13778,
+        "weight": 0.09429035784958084,
+        "label": "Financial Assets",
+        "value": "financi asset"
+    },
+    {
+        "id": 14297,
+        "weight": 0.0903306058114758,
+        "label": "Performance Metrics",
+        "value": "perform metric"
+    },
+    {
+        "id": 14060,
+        "weight": 0.08336598666863757,
+        "label": "Commitments At Market",
+        "value": "commit market"
+    },
+    {
+        "id": 56349,
+        "weight": 0.07893591008238147,
+        "label": "Percentage Of Total Revenues",
+        "value": "percentag total revenu"
+    },
+    {
+        "id": 5257,
+        "weight": 0.07363883943147863,
+        "label": "Percent",
+        "value": "percent"
+    },
+    {
+        "id": 532,
+        "weight": 0.07171503339826962,
+        "label": "Nine Months Ended",
+        "value": "nine month end"
+    },
+    {
+        "id": 56248,
+        "weight": 0.0608079200096764,
+        "label": "In Millions Except Percentages",
+        "value": "million except percentag"
+    },
+    {
+        "id": 13786,
+        "weight": 0.060206210693049884,
+        "label": "Financial Liabilities",
+        "value": "financi liabil"
+    },
+    {
+        "id": 6057,
+        "weight": 0.05933480501196627,
+        "label": "Identical",
+        "value": "ident"
+    },
+    {
+        "id": 704,
+        "weight": 0.05477961156061832,
+        "label": "Nine Months Ended September ",
+        "value": "nine month end septemb"
+    },
+    {
+        "id": 2851,
+        "weight": 0.05315574654610062,
+        "label": "Instruments",
+        "value": "instrument"
+    },
+    {
+        "id": 12200,
+        "weight": 0.05315574654610062,
+        "label": "Active Markets",
+        "value": "activ market"
+    },
+    {
+        "id": 568,
+        "weight": 0.052130662072482924,
+        "label": "For The Six Months Ended",
+        "value": "six month end"
+    },
+    {
+        "id": 11860,
+        "weight": 0.05185203277095211,
+        "label": "Description Of Exhibit",
+        "value": "descript exhibit"
+    },
+    {
+        "id": 190,
+        "weight": 0.05107560191874178,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 6056,
+        "weight": 0.048519041500819586,
+        "label": "Quoted Prices",
+        "value": "quot price"
+    },
+    {
+        "id": 935,
+        "weight": 0.04750543792861002,
+        "label": "Other Expenses",
+        "value": "expens"
+    },
+    {
+        "id": 187,
+        "weight": 0.04530270225425428,
+        "label": "Liabilities",
+        "value": "liabil"
+    },
+    {
+        "id": 56801,
+        "weight": 0.043898031627446835,
+        "label": "In Millions Except Percentages And As Noted Below",
+        "value": "million except percentag note"
+    },
+    {
+        "id": 13713,
+        "weight": 0.043092563157218454,
+        "label": "Customer Concentrations",
+        "value": "custom concentr"
+    },
+    {
+        "id": 400,
+        "weight": 0.04123423756539998,
+        "label": "September ",
+        "value": "septemb"
+    },
+    {
+        "id": 18211,
+        "weight": 0.04024309872640703,
+        "label": "Decrease",
+        "value": "decreas"
+    },
+    {
+        "id": 1337,
+        "weight": 0.03984631221341828,
+        "label": "Fair Value",
+        "value": "fair valu"
+    },
+    {
+        "id": 55859,
+        "weight": 0.03886385368851944,
+        "label": "Global Fx",
+        "value": "global Fx"
+    },
+    {
+        "id": 123054,
+        "weight": 0.03881351190913017,
+        "label": "Ebitda Adjustments",
+        "value": "ebitda adjust"
+    },
+    {
+        "id": 571,
+        "weight": 0.03673331907174498,
+        "label": "Operating Expenses",
+        "value": "oper expens"
+    },
+    {
+        "id": 13516,
+        "weight": 0.034836511337377536,
+        "label": "Index To Condensed Consolidated Financial Statements",
+        "value": "index condens consolid financi statement"
+    },
+    {
+        "id": 56063,
+        "weight": 0.034836511337377536,
+        "label": "Normalized Ebitda",
+        "value": "normal ebitda"
+    },
+    {
+        "id": 529,
+        "weight": 0.034531205979331805,
+        "label": "Total Cost Of Revenues",
+        "value": "total cost revenu"
+    },
+    {
+        "id": 1288,
+        "weight": 0.03439576043525658,
+        "label": "Changes In Assets And Liabilities",
+        "value": "chang asset liabil"
+    },
+    {
+        "id": 362,
+        "weight": 0.03436265506385531,
+        "label": "Equity",
+        "value": "equiti"
+    },
+    {
+        "id": 13976,
+        "weight": 0.03423240998470625,
+        "label": "Dollar Amounts In Thousands",
+        "value": "dollar amount thousand"
+    },
+    {
+        "id": 14056,
+        "weight": 0.03352762507325641,
+        "label": "Less Unhedgable Inventory",
+        "value": "less unhedg inventori"
+    },
+    {
+        "id": 152,
+        "weight": 0.03248074587560087,
+        "label": "Unaudited",
+        "value": "unaudit"
+    },
+    {
+        "id": 623,
+        "weight": 0.032315334271304764,
+        "label": "Balance ",
+        "value": "balanc"
+    },
+    {
+        "id": 890,
+        "weight": 0.03213556420759046,
+        "label": "Selling General And Administrative Expenses",
+        "value": "sell gener administr expens"
+    },
+    {
+        "id": 262,
+        "weight": 0.03181918031243836,
+        "label": "Inventory",
+        "value": "inventori"
+    },
+    {
+        "id": 1032,
+        "weight": 0.030836701705813915,
+        "label": "Options",
+        "value": "option"
+    },
+    {
+        "id": 2888,
+        "weight": 0.030794686001475904,
+        "label": "Carrying Amount",
+        "value": "carri amount"
+    },
+    {
+        "id": 508,
+        "weight": 0.030301296032048827,
+        "label": "Interest Expense",
+        "value": "interest expens"
+    },
+    {
+        "id": 1351,
+        "weight": 0.02956996494444022,
+        "label": "Increase",
+        "value": "increas"
+    },
+    {
+        "id": 13614,
+        "weight": 0.029399599163335954,
+        "label": "Liability On Borrowed Metals",
+        "value": "liabil borrow metal"
+    },
+    {
+        "id": 8,
+        "weight": 0.028619949351019105,
+        "label": "Page",
+        "value": "page"
+    },
+    {
+        "id": 55764,
+        "weight": 0.028392763575550477,
+        "label": "Revenues Less Cost Of Revenues",
+        "value": "revenu less cost revenu"
+    },
+    {
+        "id": 14089,
+        "weight": 0.02809071289921483,
+        "label": "Open Sale And Purchase Commitments",
+        "value": "open sale purchas commit"
+    },
+    {
+        "id": 1624,
+        "weight": 0.027528497652414257,
+        "label": "Significant",
+        "value": "signific"
+    },
+    {
+        "id": 4185,
+        "weight": 0.027528497652414257,
+        "label": "Inputs",
+        "value": "input"
+    },
+    {
+        "id": 14069,
+        "weight": 0.027385927987765,
+        "label": "Inventory Subject To Derivative Financial Instruments",
+        "value": "inventori subject deriv financi instrument"
+    },
+    {
+        "id": 122770,
+        "weight": 0.027335586208375725,
+        "label": "Securities Owned Trading",
+        "value": "secur own trade"
+    },
+    {
+        "id": 15344,
+        "weight": 0.027184560870207902,
+        "label": "Gold Ounces Sold",
+        "value": "gold ounc sold"
+    },
+    {
+        "id": 15345,
+        "weight": 0.027184560870207902,
+        "label": "Silver Ounces Sold",
+        "value": "silver ounc sold"
+    },
+    {
+        "id": 15752,
+        "weight": 0.027083877311429354,
+        "label": "Nettable Derivative Liabilities",
+        "value": "nettabl deriv liabil"
+    },
+    {
+        "id": 183,
+        "weight": 0.02689263108792731,
+        "label": "December ",
+        "value": "decemb"
+    },
+    {
+        "id": 56071,
+        "weight": 0.026781826635093712,
+        "label": "Average Daily Volume Adv",
+        "value": "averag daili volum adv"
+    },
+    {
+        "id": 16526,
+        "weight": 0.02647977595875807,
+        "label": "Direct Sales",
+        "value": "direct sale"
+    },
+    {
+        "id": 9413,
+        "weight": 0.02630060782906916,
+        "label": "Net Income Before Provision For Income Taxes",
+        "value": "net incom provis incom tax"
+    },
+    {
+        "id": 705,
+        "weight": 0.025690951190011795,
+        "label": "Gross Profit",
+        "value": "gross profit"
+    },
+    {
+        "id": 13615,
+        "weight": 0.025674307488529686,
+        "label": "Product Financing Arrangement",
+        "value": "product financ arrang"
+    },
+    {
+        "id": 13618,
+        "weight": 0.02547294037097259,
+        "label": "Preferred Stock 0.01 Par Value Authorized Shares Issued And Outstanding None As Of And ",
+        "value": "prefer stock 01 par valu author share issu outstand none"
+    },
+    {
+        "id": 56130,
+        "weight": 0.02496952257707985,
+        "label": "Market Share",
+        "value": "market share"
+    },
+    {
+        "id": 56528,
+        "weight": 0.02496952257707985,
+        "label": "Adv In Billions",
+        "value": "adv billion"
+    },
+    {
+        "id": 15879,
+        "weight": 0.024667471900744208,
+        "label": "Summary Compensation Table Fiscal And ",
+        "value": "summari compens tabl fiscal"
+    },
+    {
+        "id": 56124,
+        "weight": 0.02456678834196566,
+        "label": "Adnv In Billions",
+        "value": "adnv billion"
+    },
+    {
+        "id": 145,
+        "weight": 0.024427461787224332,
+        "label": "Interest Income",
+        "value": "interest incom"
+    },
+    {
+        "id": 454,
+        "weight": 0.02405959193921961,
+        "label": "Cash Flows From Financing Activities",
+        "value": "cash flow financ activ"
+    },
+    {
+        "id": 14171,
+        "weight": 0.023962686989294376,
+        "label": "Revenue By Geographic Region",
+        "value": "revenu geograph region"
+    },
+    {
+        "id": 14022,
+        "weight": 0.023862003430515828,
+        "label": "Related Party Company",
+        "value": "relat parti compani"
+    },
+    {
+        "id": 56140,
+        "weight": 0.023559952754180182,
+        "label": "European Equities",
+        "value": "european equiti"
+    },
+    {
+        "id": 626,
+        "weight": 0.02344596466440386,
+        "label": "Net Income",
+        "value": "net incom"
+    },
+    {
+        "id": 122049,
+        "weight": 0.023408927416012363,
+        "label": "Securities Sold Not Yet Purchased",
+        "value": "secur sold yet purchas"
+    },
+    {
+        "id": 351,
+        "weight": 0.023001299817320343,
+        "label": "Amount",
+        "value": "amount"
+    },
+    {
+        "id": 122898,
+        "weight": 0.022653800725173253,
+        "label": "Senior Secured Term Loans",
+        "value": "senior secur term loan"
+    },
+    {
+        "id": 41297,
+        "weight": 0.022384364757185225,
+        "label": "Transaction Fees",
+        "value": "transact fee"
+    },
+    {
+        "id": 14296,
+        "weight": 0.022251066490059063,
+        "label": "Inventory Turnover Ratio",
+        "value": "inventori turnov ratio"
+    },
+    {
+        "id": 14179,
+        "weight": 0.022150382931280514,
+        "label": "Inventories By Geographic Region",
+        "value": "inventori geograph region"
+    },
+    {
+        "id": 16524,
+        "weight": 0.02184833225494487,
+        "label": "Wholesale Trading Ancillary Services",
+        "value": "wholesal trade ancillari servic"
+    },
+    {
+        "id": 1111,
+        "weight": 0.021830950681637505,
+        "label": "Ebitda",
+        "value": "ebitda"
+    },
+    {
+        "id": 15751,
+        "weight": 0.02174764869616632,
+        "label": "Nettable Derivative Assets",
+        "value": "nettabl deriv asset"
+    },
+    {
+        "id": 982,
+        "weight": 0.021694895667571615,
+        "label": "Year Ended December ",
+        "value": "year end decemb"
+    },
+    {
+        "id": 300,
+        "weight": 0.021559302569649292,
+        "label": "Total Revenue",
+        "value": "total revenu"
+    },
+    {
+        "id": 164,
+        "weight": 0.021356063131569743,
+        "label": "Current Liabilities",
+        "value": "current liabil"
+    },
+    {
+        "id": 56081,
+        "weight": 0.021344914461052134,
+        "label": "Trading Days",
+        "value": "trade day"
+    },
+    {
+        "id": 15349,
+        "weight": 0.02094218022593794,
+        "label": "Number Of Secured Loans At Period End",
+        "value": "number secur loan period end"
+    },
+    {
+        "id": 56256,
+        "weight": 0.020740813108380843,
+        "label": "Connectivity Fees And Other",
+        "value": "connect fee"
+    },
+    {
+        "id": 511,
+        "weight": 0.020642540630767436,
+        "label": "Provision For Income Taxes",
+        "value": "provis incom tax"
+    },
+    {
+        "id": 25112,
+        "weight": 0.020338078873266656,
+        "label": "Non-operating Expense Income",
+        "value": "non oper expens incom"
+    },
+    {
+        "id": 56115,
+        "weight": 0.019935344638152462,
+        "label": "Routed Contracts",
+        "value": "rout contract"
+    },
+    {
+        "id": 56147,
+        "weight": 0.019331243285481175,
+        "label": "Net Capture",
+        "value": "net captur"
+    },
+    {
+        "id": 14300,
+        "weight": 0.019029192609145533,
+        "label": "Not Meaningful.",
+        "value": "meaning"
+    },
+    {
+        "id": 3177,
+        "weight": 0.018978850829756255,
+        "label": "As Of June ",
+        "value": "june"
+    },
+    {
+        "id": 15934,
+        "weight": 0.018928509050366985,
+        "label": "Regulation S-k Exhibit Table Item No.",
+        "value": "regul exhibit tabl item No"
+    },
+    {
+        "id": 16263,
+        "weight": 0.018865504425001737,
+        "label": "Identifiable Intangible Assets",
+        "value": "identifi intang asset"
+    },
+    {
+        "id": 14062,
+        "weight": 0.01872714193280989,
+        "label": "Margin Sale Commitments",
+        "value": "margin sale commit"
+    },
+    {
+        "id": 56253,
+        "weight": 0.018324407697695697,
+        "label": "Market Data Fees",
+        "value": "market data fee"
+    },
+    {
+        "id": 6578,
+        "weight": 0.017977993741991282,
+        "label": "Corporate",
+        "value": "corpor"
+    },
+    {
+        "id": 14453,
+        "weight": 0.01782098990380296,
+        "label": "/s/ Gregory N. Roberts",
+        "value": "gregori robert"
+    },
+    {
+        "id": 478,
+        "weight": 0.01759313274487395,
+        "label": "Cash Flows From Investing Activities",
+        "value": "cash flow invest activ"
+    },
+    {
+        "id": 18090,
+        "weight": 0.01721688855113167,
+        "label": "Basic And Diluted Income Per Share Attributable To A- Mark Precious Metals Inc.",
+        "value": "basic dilut incom per share attribut mark preciou metal inc"
+    },
+    {
+        "id": 1569,
+        "weight": 0.017139808651219376,
+        "label": "Outstanding At ",
+        "value": "outstand"
+    },
+    {
+        "id": 1068,
+        "weight": 0.017130317774864574,
+        "label": "Level",
+        "value": "level"
+    },
+    {
+        "id": 15844,
+        "weight": 0.017116204992353126,
+        "label": "Assets By Geographic Region",
+        "value": "asset geograph region"
+    },
+    {
+        "id": 56274,
+        "weight": 0.017116204992353126,
+        "label": "Liquidity Payments",
+        "value": "liquid payment"
+    },
+    {
+        "id": 245,
+        "weight": 0.016921874470158173,
+        "label": "For The Year Ended ",
+        "value": "year end"
+    },
+    {
+        "id": 117806,
+        "weight": 0.0160086858457891,
+        "label": "Noncash Items",
+        "value": "noncash item"
+    },
+    {
+        "id": 6169,
+        "weight": 0.015706635169453455,
+        "label": "In Thousands Unaudited",
+        "value": "thousand unaudit"
+    },
+    {
+        "id": 33967,
+        "weight": 0.015555609831285634,
+        "label": "Basis",
+        "value": "basi"
+    },
+    {
+        "id": 123352,
+        "weight": 0.015555609831285634,
+        "label": "Annual Impact Of An Interest Rate Increase Of",
+        "value": "annual impact interest rate increas"
+    },
+    {
+        "id": 3450,
+        "weight": 0.015102533816782168,
+        "label": "Options Exercisable",
+        "value": "option exercis"
+    },
+    {
+        "id": 13977,
+        "weight": 0.015102533816782168,
+        "label": "Existing Customer Relationships",
+        "value": "exist custom relationship"
+    },
+    {
+        "id": 122486,
+        "weight": 0.015102533816782168,
+        "label": "Securities Owned",
+        "value": "secur own"
+    },
+    {
+        "id": 1519,
+        "weight": 0.014960438470762925,
+        "label": "Exercised",
+        "value": "exercis"
+    },
+    {
+        "id": 3191,
+        "weight": 0.014901166699225072,
+        "label": "Year Ending June ",
+        "value": "year end june"
+    },
+    {
+        "id": 8150,
+        "weight": 0.014787099831471842,
+        "label": "Line Of Credit",
+        "value": "line credit"
+    },
+    {
+        "id": 6061,
+        "weight": 0.01459911602288943,
+        "label": "Nine Months Ended March ",
+        "value": "nine month end march"
+    },
+    {
+        "id": 14174,
+        "weight": 0.014498432464110882,
+        "label": "North America Excluding United States",
+        "value": "north america exclud unit state"
+    },
+    {
+        "id": 55758,
+        "weight": 0.014297065346553785,
+        "label": "Section Fees",
+        "value": "section fee"
+    },
+    {
+        "id": 14095,
+        "weight": 0.013894331111439595,
+        "label": "Margin Accounts",
+        "value": "margin account"
+    },
+    {
+        "id": 56094,
+        "weight": 0.013894331111439595,
+        "label": "Average Daily Notional Value Adnv",
+        "value": "averag daili notion valu adnv"
+    },
+    {
+        "id": 14132,
+        "weight": 0.01384398933205032,
+        "label": "Weighted Average Exercise Price",
+        "value": "weight averag exercis price"
+    },
+    {
+        "id": 6825,
+        "weight": 0.013747877567405099,
+        "label": "Definite-lived Intangible Assets",
+        "value": "definit live intang asset"
+    },
+    {
+        "id": 123845,
+        "weight": 0.013743305773271774,
+        "label": "Business Metrics",
+        "value": "busi metric"
+    },
+    {
+        "id": 1625,
+        "weight": 0.013427569358515731,
+        "label": "Observable",
+        "value": "observ"
+    },
+    {
+        "id": 349,
+        "weight": 0.013360157451009443,
+        "label": "Shares",
+        "value": "share"
+    },
+    {
+        "id": 55858,
+        "weight": 0.013088862641211212,
+        "label": "European",
+        "value": "european"
+    },
+    {
+        "id": 27794,
+        "weight": 0.013038520861821938,
+        "label": "In Thousands Except Per Share Data",
+        "value": "thousand except per share data"
+    },
+    {
+        "id": 4033,
+        "weight": 0.012934787938714679,
+        "label": "Average",
+        "value": "averag"
+    },
+    {
+        "id": 1655,
+        "weight": 0.012870923080694317,
+        "label": "Unobservable",
+        "value": "unobserv"
+    },
+    {
+        "id": 14123,
+        "weight": 0.012754210423132937,
+        "label": "10.01",
+        "value": "10 01"
+    },
+    {
+        "id": 13834,
+        "weight": 0.01268612840609702,
+        "label": "Derivative Liabilities Open Sales And Purchase Commitments Net",
+        "value": "deriv liabil open sale purchas commit net"
+    },
+    {
+        "id": 125849,
+        "weight": 0.01268612840609702,
+        "label": "Sales-based",
+        "value": "sale base"
+    },
+    {
+        "id": 7639,
+        "weight": 0.012653997410794976,
+        "label": "Per Share Data",
+        "value": "per share data"
+    },
+    {
+        "id": 4032,
+        "weight": 0.012606796170120883,
+        "label": "Weighted",
+        "value": "weight"
+    },
+    {
+        "id": 13712,
+        "weight": 0.012484761288539925,
+        "label": "Hsbc Bank Usa",
+        "value": "hsbc bank usa"
+    },
+    {
+        "id": 218,
+        "weight": 0.012429367309546236,
+        "label": "Other Receivables",
+        "value": "receiv"
+    },
+    {
+        "id": 1060,
+        "weight": 0.01240586185691442,
+        "label": "Accumulated Amortization",
+        "value": "accumul amort"
+    },
+    {
+        "id": 566,
+        "weight": 0.01228434985906465,
+        "label": "Diluted",
+        "value": "dilut"
+    },
+    {
+        "id": 56251,
+        "weight": 0.01228339417098283,
+        "label": "Regulatory Transaction Fees",
+        "value": "regulatori transact fee"
+    },
+    {
+        "id": 56278,
+        "weight": 0.01228339417098283,
+        "label": "Routing And Clearing",
+        "value": "rout clear"
+    },
+    {
+        "id": 1103,
+        "weight": 0.012199248444435751,
+        "label": "Europe",
+        "value": "europ"
+    },
+    {
+        "id": 13826,
+        "weight": 0.012182710612204281,
+        "label": "Derivative Assets Open Sale And Purchase Commitments Net",
+        "value": "deriv asset open sale purchas commit net"
+    },
+    {
+        "id": 3448,
+        "weight": 0.012147837514363177,
+        "label": "Options Outstanding",
+        "value": "option outstand"
+    },
+    {
+        "id": 819,
+        "weight": 0.012022293105311034,
+        "label": "Depreciation And Amortization",
+        "value": "depreci amort"
+    },
+    {
+        "id": 14291,
+        "weight": 0.011779976377090091,
+        "label": "Three Months Ended December ",
+        "value": "three month end decemb"
+    },
+    {
+        "id": 123345,
+        "weight": 0.011779976377090091,
+        "label": "Variable Interest Payments",
+        "value": "variabl interest payment"
+    },
+    {
+        "id": 267,
+        "weight": 0.01156284241338832,
+        "label": "Total Stockholders Equity",
+        "value": "total stockhold equiti"
+    },
+    {
+        "id": 8198,
+        "weight": 0.011407492552367348,
+        "label": "Months Ended",
+        "value": "month end"
+    },
+    {
+        "id": 14129,
+        "weight": 0.011276558583197352,
+        "label": "Weighted Average Remaining Contractual Life Years",
+        "value": "weight averag remain contractu life year"
+    },
+    {
+        "id": 15782,
+        "weight": 0.011276558583197352,
+        "label": "Basis Of Payment",
+        "value": "basi payment"
+    },
+    {
+        "id": 15992,
+        "weight": 0.011276558583197352,
+        "label": "Total A- Mark Precious Metals Inc. Stockholders Equity",
+        "value": "total mark preciou metal inc stockhold equiti"
+    },
+    {
+        "id": 564,
+        "weight": 0.011231628277899055,
+        "label": "Basic",
+        "value": "basic"
+    },
+    {
+        "id": 14093,
+        "weight": 0.011175875024418804,
+        "label": "Nettable Derivative Payables",
+        "value": "nettabl deriv payabl"
+    },
+    {
+        "id": 5901,
+        "weight": 0.01116983645752636,
+        "label": "Other Payables",
+        "value": "payabl"
+    },
+    {
+        "id": 10771,
+        "weight": 0.011104054958288733,
+        "label": "Customer",
+        "value": "custom"
+    },
+    {
+        "id": 56065,
+        "weight": 0.011075191465640257,
+        "label": "Normalized Ebitda Margin",
+        "value": "normal ebitda margin"
+    },
+    {
+        "id": 14092,
+        "weight": 0.011015927537984855,
+        "label": "Forward Contracts",
+        "value": "forward contract"
+    },
+    {
+        "id": 12610,
+        "weight": 0.010974507906861709,
+        "label": "15.01",
+        "value": "15 01"
+    },
+    {
+        "id": 471,
+        "weight": 0.010873666375504248,
+        "label": "Change In Operating Assets And Liabilities",
+        "value": "chang oper asset liabil"
+    },
+    {
+        "id": 13828,
+        "weight": 0.010751545277073218,
+        "label": "Derivative Assets Forward Contracts",
+        "value": "deriv asset forward contract"
+    },
+    {
+        "id": 15853,
+        "weight": 0.010672457230526067,
+        "label": "Jeffrey D. Benjamin",
+        "value": "jeffrey benjamin"
+    },
+    {
+        "id": 15896,
+        "weight": 0.010672457230526067,
+        "label": "Outstanding Equity Awards At Fiscal Year- End Fiscal ",
+        "value": "outstand equiti award fiscal year end fiscal"
+    },
+    {
+        "id": 13919,
+        "weight": 0.010487163016161581,
+        "label": "Secured Loans",
+        "value": "secur loan"
+    },
+    {
+        "id": 1981,
+        "weight": 0.01042456771967082,
+        "label": "Common Stock",
+        "value": "common stock"
+    },
+    {
+        "id": 1908,
+        "weight": 0.010372114011518614,
+        "label": "Payments Due By Period",
+        "value": "payment due period"
+    },
+    {
+        "id": 15480,
+        "weight": 0.010370406554190421,
+        "label": "Secured Loans Receivable",
+        "value": "secur loan receiv"
+    },
+    {
+        "id": 1034,
+        "weight": 0.010144953999560797,
+        "label": "Share-based Compensation",
+        "value": "share base compens"
+    },
+    {
+        "id": 2728,
+        "weight": 0.009991413936304996,
+        "label": "Gross Carrying Amount",
+        "value": "gross carri amount"
+    },
+    {
+        "id": 2747,
+        "weight": 0.00987442189290584,
+        "label": "Net Book Value",
+        "value": "net book valu"
+    },
+    {
+        "id": 4574,
+        "weight": 0.009840341063424084,
+        "label": "Basic Earnings Per Share",
+        "value": "basic earn per share"
+    },
+    {
+        "id": 544,
+        "weight": 0.009823050712845066,
+        "label": "Net Income Loss",
+        "value": "net incom loss"
+    },
+    {
+        "id": 13827,
+        "weight": 0.009766305201519136,
+        "label": "Derivative Assets Futures Contracts",
+        "value": "deriv asset futur contract"
+    },
+    {
+        "id": 15777,
+        "weight": 0.009766305201519136,
+        "label": "Equity Method Investee",
+        "value": "equiti method investe"
+    },
+    {
+        "id": 15846,
+        "weight": 0.009766305201519136,
+        "label": "Long-term Assets By Geographic Region",
+        "value": "long term asset geograph region"
+    },
+    {
+        "id": 868,
+        "weight": 0.00976198965789987,
+        "label": "Operating Income",
+        "value": "oper incom"
+    },
+    {
+        "id": 56061,
+        "weight": 0.009694016233426674,
+        "label": "Ebitda Margin",
+        "value": "ebitda margin"
+    },
+    {
+        "id": 13978,
+        "weight": 0.009665621642740587,
+        "label": "Employment Agreement",
+        "value": "employ agreement"
+    },
+    {
+        "id": 16322,
+        "weight": 0.009665621642740587,
+        "label": "Precious Metal Subject To Derivative Financial Instruments",
+        "value": "preciou metal subject deriv financi instrument"
+    },
+    {
+        "id": 56118,
+        "weight": 0.009665621642740587,
+        "label": "Market Adv",
+        "value": "market adv"
+    },
+    {
+        "id": 56879,
+        "weight": 0.009665621642740587,
+        "label": "Foreign Denominated Of",
+        "value": "foreign denomin"
+    },
+    {
+        "id": 261,
+        "weight": 0.009469007438389214,
+        "label": "Receivables Net",
+        "value": "receiv net"
+    },
+    {
+        "id": 8390,
+        "weight": 0.009464254525183492,
+        "label": "Acquisition Related Costs",
+        "value": "acquisit relat cost"
+    },
+    {
+        "id": 14075,
+        "weight": 0.009464254525183492,
+        "label": "Sales Commitments",
+        "value": "sale commit"
+    },
+    {
+        "id": 14076,
+        "weight": 0.009464254525183492,
+        "label": "Open Forward Contracts",
+        "value": "open forward contract"
+    },
+    {
+        "id": 14077,
+        "weight": 0.009464254525183492,
+        "label": "Open Futures Contracts",
+        "value": "open futur contract"
+    },
+    {
+        "id": 696,
+        "weight": 0.009386871627199499,
+        "label": "Other Income",
+        "value": "incom"
+    },
+    {
+        "id": 19015,
+        "weight": 0.009385570262363096,
+        "label": "Measurement",
+        "value": "measur"
+    }
+]

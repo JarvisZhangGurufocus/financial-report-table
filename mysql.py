@@ -32,6 +32,21 @@ class MySqlHelper:
 
     self.connection = pymysql.connect(host=self.dbHost, port=self.dbPort, user=self.dbUser,password=self.dbPWD,db=self.db)
 
+  def setConnection(self, host=None, port=None, user=None, password=None, db=None):
+    if self.connection:
+      self.connection.close()
+    if not host:
+      host = self.dbHost
+    if not port:
+      port = self.dbPort
+    if not user:
+      user = self.dbUser
+    if not password:
+      password = self.dbPWD
+    if not db:
+      db = self.db
+    self.connection = pymysql.connect(host=host, port=port, user=user,password=password,db=db)
+
   def query(self, sql):
     # print '        %s' % sql
     cur = self.connection.cursor(pymysql.cursors.DictCursor)
@@ -195,7 +210,9 @@ class MySqlHelper:
     if len(saved) > 0:
       return saved[0]
     
-    SQL = "INSERT INTO %s (value, type, label) VALUES ('%s', '%s', '%s')" % (self.tagTable, tag['value'], tag['type'], tag['label'])
+    isTagStopWords = utils.isTagStopWords(tag['value'])
+
+    SQL = "INSERT INTO %s (value, type, label) VALUES ('%s', '%s', '%s', %s)" % (self.tagTable, tag['value'], tag['type'], tag['label'], isTagStopWords)
     tagId = self.execute(SQL)
 
     tag['id'] = tagId

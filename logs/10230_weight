@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "weight": 0.0,
+        "label": "Non-accelerated Filer",
+        "value": "non acceler filer"
+    },
+    {
+        "id": 2,
+        "weight": 0.0,
+        "label": "Non-accelerated Filer",
+        "value": "non acceler filer"
+    },
+    {
+        "id": 3,
+        "weight": 0.0,
+        "label": "Accelerated Filer",
+        "value": "acceler filer"
+    },
+    {
+        "id": 4,
+        "weight": 0.0,
+        "label": " Middlefield Road Redwood City Ca",
+        "value": "middlefield road redwood citi Ca"
+    },
+    {
+        "id": 5,
+        "weight": 0.0,
+        "label": "27-0111478",
+        "value": "27 0111478"
+    },
+    {
+        "id": 6,
+        "weight": 0.0,
+        "label": "Incorporation Or Organization",
+        "value": "incorpor organ"
+    },
+    {
+        "id": 7,
+        "weight": 0.0,
+        "label": "Item 1.",
+        "value": "item"
+    },
+    {
+        "id": 8,
+        "weight": 0.0,
+        "label": "Page",
+        "value": "page"
+    },
+    {
+        "id": 9,
+        "weight": 0.0,
+        "label": "Signatures",
+        "value": "signatur"
+    },
+    {
+        "id": 10,
+        "weight": 0.0,
+        "label": "Financial Information",
+        "value": "financi inform"
+    },
+    {
+        "id": 11,
+        "weight": 0.0,
+        "label": "Part Ii.",
+        "value": "part Ii"
+    },
+    {
+        "id": 12,
+        "weight": 0.0,
+        "label": "Part Financial Information",
+        "value": "part financi inform"
+    },
+    {
+        "id": 13,
+        "weight": 0.0,
+        "label": "Part Financial Information",
+        "value": "part financi inform"
+    },
+    {
+        "id": 14,
+        "weight": 0.0,
+        "label": "Part Ii Other Information",
+        "value": "part Ii inform"
+    },
+    {
+        "id": 15,
+        "weight": 0.0,
+        "label": "Ex-31.1",
+        "value": "Ex 31"
+    },
+    {
+        "id": 16,
+        "weight": 0.0,
+        "label": "Ex-32.1",
+        "value": "Ex 32"
+    },
+    {
+        "id": 17,
+        "weight": 0.0,
+        "label": "Forward Looking Statements",
+        "value": "forward look statement"
+    },
+    {
+        "id": 18,
+        "weight": 0.0,
+        "label": "High",
+        "value": "high"
+    },
+    {
+        "id": 19,
+        "weight": 0.0,
+        "label": "First Quarter ",
+        "value": "first quarter"
+    },
+    {
+        "id": 20,
+        "weight": 0.0,
+        "label": "Second Quarter ",
+        "value": "second quarter"
+    },
+    {
+        "id": 21,
+        "weight": 0.0,
+        "label": "Third Quarter ",
+        "value": "third quarter"
+    },
+    {
+        "id": 22,
+        "weight": 0.0,
+        "label": "Fourth Quarter ",
+        "value": "fourth quarter"
+    },
+    {
+        "id": 23,
+        "weight": 0.0,
+        "label": "Low",
+        "value": "low"
+    },
+    {
+        "id": 24,
+        "weight": 0.0,
+        "label": "Virtual Schools",
+        "value": "virtual school"
+    },
+    {
+        "id": 25,
+        "weight": 0.0,
+        "label": "Institutional",
+        "value": "institut"
+    },
+    {
+        "id": 26,
+        "weight": 0.0,
+        "label": "Private Pay Schools And Other",
+        "value": "privat pay school"
+    },
+    {
+        "id": 27,
+        "weight": 0.0,
+        "label": "Blended Schools",
+        "value": "blend school"
+    },
+    {
+        "id": 28,
+        "weight": 0.0,
+        "label": "Hybrid Schools",
+        "value": "hybrid school"
+    },
+    {
+        "id": 29,
+        "weight": 0.0,
+        "label": "Passport Schools",
+        "value": "passport school"
+    },
+    {
+        "id": 30,
+        "weight": 0.0,
+        "label": "Part Iii",
+        "value": "part iii"
+    },
+    {
+        "id": 31,
+        "weight": 0.0,
+        "label": "Item 10.",
+        "value": "item 10"
+    },
+    {
+        "id": 32,
+        "weight": 0.0,
+        "label": "Item 11.",
+        "value": "item 11"
+    },
+    {
+        "id": 33,
+        "weight": 0.0,
+        "label": "Item 12.",
+        "value": "item 12"
+    },
+    {
+        "id": 34,
+        "weight": 0.0,
+        "label": "Item 13.",
+        "value": "item 13"
+    },
+    {
+        "id": 35,
+        "weight": 0.0,
+        "label": "Item 14.",
+        "value": "item 14"
+    },
+    {
+        "id": 36,
+        "weight": 0.0,
+        "label": "Part Iv",
+        "value": "part Iv"
+    },
+    {
+        "id": 37,
+        "weight": 0.0,
+        "label": "Item 15.",
+        "value": "item 15"
+    },
+    {
+        "id": 38,
+        "weight": 0.0,
+        "label": "Part Ii Other Information",
+        "value": "part Ii inform"
+    },
+    {
+        "id": 39,
+        "weight": 0.0,
+        "label": "Qder",
+        "value": "qder"
+    },
+    {
+        "id": 40,
+        "weight": 0.0,
+        "label": "Gold Oz/t",
+        "value": "gold Oz"
+    },
+    {
+        "id": 41,
+        "weight": 0.0,
+        "label": "Silver Oz/t",
+        "value": "silver Oz"
+    },
+    {
+        "id": 42,
+        "weight": 0.0,
+        "label": "Pic",
+        "value": "pic"
+    },
+    {
+        "id": 43,
+        "weight": 0.0,
+        "label": "Sdw",
+        "value": "sdw"
+    },
+    {
+        "id": 44,
+        "weight": 0.0,
+        "label": "Wassami",
+        "value": "wassami"
+    },
+    {
+        "id": 45,
+        "weight": 0.0,
+        "label": "Bsoc",
+        "value": "bsoc"
+    },
+    {
+        "id": 46,
+        "weight": 0.0,
+        "label": "Wencrbs Duplicate",
+        "value": "wencrb duplic"
+    },
+    {
+        "id": 47,
+        "weight": 0.0,
+        "label": "Wcqz",
+        "value": "wcqz"
+    },
+    {
+        "id": 48,
+        "weight": 0.0,
+        "label": "Duplicate Wcqz",
+        "value": "duplic wcqz"
+    },
+    {
+        "id": 49,
+        "weight": 0.0,
+        "label": "Part",
+        "value": "part"
+    },
+    {
+        "id": 50,
+        "weight": 0.0,
+        "label": "Financial Statements Unaudited",
+        "value": "financi statement unaudit"
+    },
+    {
+        "id": 51,
+        "weight": 0.0,
+        "label": "Part Financial Information",
+        "value": "part financi inform"
+    },
+    {
+        "id": 52,
+        "weight": 0.0,
+        "label": "Consolidated Balance Sheets",
+        "value": "consolid balanc sheet"
+    },
+    {
+        "id": 53,
+        "weight": 0.0,
+        "label": "Business",
+        "value": "busi"
+    },
+    {
+        "id": 54,
+        "weight": 0.0,
+        "label": "Consolidated Statements Of Operations And Comprehensive Loss",
+        "value": "consolid statement oper comprehens loss"
+    },
+    {
+        "id": 55,
+        "weight": 0.0,
+        "label": "Risk Factors",
+        "value": "risk factor"
+    },
+    {
+        "id": 56,
+        "weight": 0.0,
+        "label": "Consolidated Statements Of Cash Flows",
+        "value": "consolid statement cash flow"
+    },
+    {
+        "id": 57,
+        "weight": 0.0,
+        "label": "Unresolved Staff Comments",
+        "value": "unresolv staff comment"
+    },
+    {
+        "id": 58,
+        "weight": 0.0,
+        "label": "Notes To Unaudited Consolidated Financial Statements",
+        "value": "note unaudit consolid financi statement"
+    },
+    {
+        "id": 59,
+        "weight": 0.0,
+        "label": "Properties",
+        "value": "properti"
+    },
+    {
+        "id": 60,
+        "weight": 0.0,
+        "label": "Management Discussion And Analysis Of Financial Condition And Results Of Operations",
+        "value": "manag discuss analysi financi condit result oper"
+    },
+    {
+        "id": 61,
+        "weight": 0.0,
+        "label": "Legal Proceedings",
+        "value": "legal proceed"
+    },
+    {
+        "id": 62,
+        "weight": 0.0,
+        "label": "Quantitative And Qualitative Disclosures About Market Risk",
+        "value": "quantit qualit disclosur market risk"
+    },
+    {
+        "id": 63,
+        "weight": 0.0,
+        "label": "Submission Of Matters To Vote Of Security Holders",
+        "value": "submiss matter vote secur holder"
+    },
+    {
+        "id": 64,
+        "weight": 0.0,
+        "label": "Controls And Procedures",
+        "value": "control procedur"
+    },
+    {
+        "id": 65,
+        "weight": 0.0,
+        "label": "Market For Registrant Common Equity Related Stockholder Matters And Issuer Purchases Of Equity Securities",
+        "value": "market registr common equiti relat stockhold matter issuer purchas equiti secur"
+    },
+    {
+        "id": 66,
+        "weight": 0.0,
+        "label": "Selected Financial Data",
+        "value": "select financi data"
+    },
+    {
+        "id": 67,
+        "weight": 0.0,
+        "label": "Unregistered Sales Of Equity Securities And Use Of Proceeds",
+        "value": "unregist sale equiti secur use proce"
+    },
+    {
+        "id": 68,
+        "weight": 0.0,
+        "label": "Other Information",
+        "value": "inform"
+    },
+    {
+        "id": 69,
+        "weight": 0.0,
+        "label": "Financial Statements And Supplementary Data",
+        "value": "financi statement supplementari data"
+    },
+    {
+        "id": 70,
+        "weight": 0.0,
+        "label": "Exhibits",
+        "value": "exhibit"
+    },
+    {
+        "id": 71,
+        "weight": 0.0,
+        "label": "Changes In And Disagreements With Accountants On Accounting And Financial Disclosure",
+        "value": "chang disagr account account financi disclosur"
+    },
+    {
+        "id": 72,
+        "weight": 0.0,
+        "label": "Directors Executive Officers And Corporate Governance",
+        "value": "director execut offic corpor govern"
+    },
+    {
+        "id": 73,
+        "weight": 0.0,
+        "label": "Executive Compensation",
+        "value": "execut compens"
+    },
+    {
+        "id": 74,
+        "weight": 0.0,
+        "label": "Security Ownership Of Certain Beneficial Owners And Management And Related Stockholder Matters",
+        "value": "secur ownership certain benefici owner manag relat stockhold matter"
+    },
+    {
+        "id": 75,
+        "weight": 0.0,
+        "label": "Certain Relationships And Related Transactions And Director Independence",
+        "value": "certain relationship relat transact director independ"
+    },
+    {
+        "id": 76,
+        "weight": 0.0,
+        "label": "Principal Accounting Fees And Services",
+        "value": "princip account fee servic"
+    },
+    {
+        "id": 77,
+        "weight": 0.0,
+        "label": "Exhibits Financial Statement Schedules",
+        "value": "exhibit financi statement schedul"
+    },
+    {
+        "id": 78,
+        "weight": 0.0,
+        "label": "Index To Exhibits",
+        "value": "index exhibit"
+    },
+    {
+        "id": 79,
+        "weight": 0.0,
+        "label": "Quarter Ended",
+        "value": "quarter end"
+    },
+    {
+        "id": 80,
+        "weight": 0.0,
+        "label": "Yu Me Inc.",
+        "value": "Yu inc"
+    },
+    {
+        "id": 81,
+        "weight": 0.0,
+        "label": "Nyse Composite",
+        "value": "nyse composit"
+    },
+    {
+        "id": 82,
+        "weight": 0.0,
+        "label": "Information Technology",
+        "value": "inform technolog"
+    },
+    {
+        "id": 83,
+        "weight": 0.0,
+        "label": "Ii",
+        "value": "Ii"
+    },
+    {
+        "id": 84,
+        "weight": 0.0,
+        "label": "Special Note Regarding Forward Looking Statements",
+        "value": "special note regard forward look statement"
+    },
+    {
+        "id": 85,
+        "weight": 0.0,
+        "label": "Internet Software Services",
+        "value": "internet softwar servic"
+    },
+    {
+        "id": 86,
+        "weight": 0.0,
+        "label": "Exhibit Index",
+        "value": "exhibit index"
+    },
+    {
+        "id": 87,
+        "weight": 0.0,
+        "label": "Quarter Ended ",
+        "value": "quarter end"
+    },
+    {
+        "id": 88,
+        "weight": 0.0,
+        "label": "Revenue",
+        "value": "revenu"
+    },
+    {
+        "id": 89,
+        "weight": 0.0,
+        "label": "For The Three Months",
+        "value": "three month"
+    },
+    {
+        "id": 90,
+        "weight": 0.0,
+        "label": "Ended",
+        "value": "end"
+    },
+    {
+        "id": 91,
+        "weight": 0.0,
+        "label": "For The Period From",
+        "value": "period"
+    },
+    {
+        "id": 92,
+        "weight": 0.0,
+        "label": " Inception",
+        "value": "incept"
+    },
+    {
+        "id": 93,
+        "weight": 0.0,
+        "label": "General And Administrative Expenses",
+        "value": "gener administr expens"
+    },
+    {
+        "id": 94,
+        "weight": 0.0,
+        "label": "State Franchise Taxes Other Than Income Tax",
+        "value": "state franchis tax incom tax"
+    },
+    {
+        "id": 95,
+        "weight": 0.0,
+        "label": "Net Loss Attributable To Common Shares",
+        "value": "net loss attribut common share"
+    },
+    {
+        "id": 96,
+        "weight": 0.0,
+        "label": "Net Loss Per Common Share Basic And Diluted",
+        "value": "net loss per common share basic dilut"
+    },
+    {
+        "id": 97,
+        "weight": 0.0,
+        "label": "Weighted Average Number Of Common Shares Outstanding Excluding Shares Subject To Possible Redemption Basic And Diluted",
+        "value": "weight averag number common share outstand exclud share subject possibl redempt basic dilut"
+    },
+    {
+        "id": 98,
+        "weight": 0.0,
+        "label": "Lrn",
+        "value": "lrn"
+    },
+    {
+        "id": 99,
+        "weight": 0.0,
+        "label": "30- Jun-11",
+        "value": "30 jun 11"
+    },
+    {
+        "id": 100,
+        "weight": 0.0,
+        "label": "30- Jun-12",
+        "value": "30 jun 12"
+    },
+    {
+        "id": 101,
+        "weight": 0.0,
+        "label": "30- Jun-13",
+        "value": "30 jun 13"
+    },
+    {
+        "id": 102,
+        "weight": 0.0,
+        "label": "30- Jun-14",
+        "value": "30 jun 14"
+    },
+    {
+        "id": 103,
+        "weight": 0.0,
+        "label": "30- Jun-15",
+        "value": "30 jun 15"
+    },
+    {
+        "id": 104,
+        "weight": 0.0,
+        "label": "30- Jun-16",
+        "value": "30 jun 16"
+    },
+    {
+        "id": 105,
+        "weight": 0.0,
+        "label": "Use Of The Gene As Tumor Marker",
+        "value": "use gene tumor marker"
+    },
+    {
+        "id": 106,
+        "weight": 0.0,
+        "label": "Peer Group Index",
+        "value": "peer group index"
+    },
+    {
+        "id": 107,
+        "weight": 0.0,
+        "label": "Product",
+        "value": "product"
+    },
+    {
+        "id": 108,
+        "weight": 0.0,
+        "label": "Expiration Dates",
+        "value": "expir date"
+    },
+    {
+        "id": 109,
+        "weight": 0.0,
+        "label": "Russell ",
+        "value": "russel"
+    },
+    {
+        "id": 110,
+        "weight": 0.0,
+        "label": "Methods And Compositions For Inducing Tumor-specific Cytotoxicity",
+        "value": "method composit induc tumor specif cytotox"
+    },
+    {
+        "id": 111,
+        "weight": 0.0,
+        "label": "Nasdaq Composite",
+        "value": "nasdaq composit"
+    },
+    {
+        "id": 112,
+        "weight": 0.0,
+        "label": "Nucleic Acid Agents For Down Regulating And Methods Of Using Same",
+        "value": "nucleic acid agent regul method use"
+    },
+    {
+        "id": 113,
+        "weight": 0.0,
+        "label": "Registration Or Exemption",
+        "value": "registr exempt"
+    },
+    {
+        "id": 114,
+        "weight": 0.0,
+        "label": "Nucleic Acid Constructs Pharmaceutical Compositions And Methods Of Using Same For Treating Cancer",
+        "value": "nucleic acid construct pharmaceut composit method use treat cancer"
+    },
+    {
+        "id": 115,
+        "weight": 0.0,
+        "label": "Registered Securities",
+        "value": "regist secur"
+    },
+    {
+        "id": 116,
+        "weight": 0.0,
+        "label": "Nucleic Acid Constructs And Methods For Specific Silencing Of ",
+        "value": "nucleic acid construct method specif silenc"
+    },
+    {
+        "id": 117,
+        "weight": 0.0,
+        "label": "Unregistered Securities",
+        "value": "unregist secur"
+    },
+    {
+        "id": 118,
+        "weight": 0.0,
+        "label": " Silencing Nucleic Acid Agents For Treating Rheumatoid Arthritis Si Ra",
+        "value": "silenc nucleic acid agent treat rheumatoid arthriti Si Ra"
+    },
+    {
+        "id": 119,
+        "weight": 0.0,
+        "label": "Common",
+        "value": "common"
+    },
+    {
+        "id": 120,
+        "weight": 0.0,
+        "label": "Constructs Containing Multiple Expression Cassettes For Cancer Therapy",
+        "value": "construct contain multipl express cassett cancer therapi"
+    },
+    {
+        "id": 121,
+        "weight": 0.0,
+        "label": "Warrants To Purchase Common",
+        "value": "warrant purchas common"
+    },
+    {
+        "id": 122,
+        "weight": 0.0,
+        "label": "Item 1. Financial Statements",
+        "value": "item financi statement"
+    },
+    {
+        "id": 123,
+        "weight": 0.0,
+        "label": "Condensed Consolidated Balance Sheets As Of January 2011 Unaudited And ",
+        "value": "condens consolid balanc sheet januari 2011 unaudit"
+    },
+    {
+        "id": 124,
+        "weight": 0.0,
+        "label": "Consolidated Statement Of Operations For The Three Months Ended And Ii The Cumulative Period From Inception March 2006 To Un-audited",
+        "value": "consolid statement oper three month end Ii cumul period incept march 2006 Un audit"
+    },
+    {
+        "id": 125,
+        "weight": 0.0,
+        "label": "Condensed Consolidated Statements Of Equity ",
+        "value": "condens consolid statement equiti"
+    },
+    {
+        "id": 126,
+        "weight": 0.0,
+        "label": "Consolidated Statements Of Cash Flows For The Three Months Ended Un-audited And Un-audited And Ii The Cumulative Period From Inception March 2006 To Un-audited",
+        "value": "consolid statement cash flow three month end Un audit Un audit Ii cumul period incept march 2006 Un audit"
+    },
+    {
+        "id": 127,
+        "weight": 0.0,
+        "label": "Notes To Condensed Consolidated Financial Statements Unaudited",
+        "value": "note condens consolid financi statement unaudit"
+    },
+    {
+        "id": 128,
+        "weight": 0.0,
+        "label": "Item 2. Management Discussion And Analysis Of Financial Condition And Results Of Operations",
+        "value": "item manag discuss analysi financi condit result oper"
+    },
+    {
+        "id": 129,
+        "weight": 0.0,
+        "label": "Item 3. Quantitative And Qualitative Disclosures About Market Risk",
+        "value": "item quantit qualit disclosur market risk"
+    },
+    {
+        "id": 130,
+        "weight": 0.0,
+        "label": "Item 4. Controls And Procedures",
+        "value": "item control procedur"
+    },
+    {
+        "id": 131,
+        "weight": 0.0,
+        "label": "Item 1. Legal Proceedings",
+        "value": "item legal proceed"
+    },
+    {
+        "id": 132,
+        "weight": 0.0,
+        "label": "Item A. Risk Factors",
+        "value": "item risk factor"
+    },
+    {
+        "id": 133,
+        "weight": 0.0,
+        "label": "Item 2. Unregistered Sales Of Equity Securities And Use Of Proceeds",
+        "value": "item unregist sale equiti secur use proce"
+    },
+    {
+        "id": 134,
+        "weight": 0.0,
+        "label": "Item 3. Defaults Upon Senior Securities",
+        "value": "item default upon senior secur"
+    },
+    {
+        "id": 135,
+        "weight": 0.0,
+        "label": "Item 4. Removed And Reserved",
+        "value": "item remov reserv"
+    },
+    {
+        "id": 136,
+        "weight": 0.0,
+        "label": "Item 5. Other Information",
+        "value": "item inform"
+    },
+    {
+        "id": 137,
+        "weight": 0.0,
+        "label": "Item 6. Exhibits",
+        "value": "item exhibit"
+    },
+    {
+        "id": 138,
+        "weight": 0.0,
+        "label": "Equity Compensation Plans Approved By Security Holders",
+        "value": "equiti compens plan approv secur holder"
+    },
+    {
+        "id": 139,
+        "weight": 0.0,
+        "label": "Number Of Securities To Be Issued Upon Exercise Of Outstanding Options",
+        "value": "number secur issu upon exercis outstand option"
+    },
+    {
+        "id": 140,
+        "weight": 0.0,
+        "label": "Weighted- Average Exercise Price Of Outstanding Options",
+        "value": "weight averag exercis price outstand option"
+    },
+    {
+        "id": 141,
+        "weight": 0.0,
+        "label": "Number Of Securities Remaining Available For Future Issuance Under Equity Compensation Plans Excluding Securities Reflected In First Column",
+        "value": "number secur remain avail futur issuanc equiti compens plan exclud secur reflect first column"
+    },
+    {
+        "id": 142,
+        "weight": 0.0,
+        "label": "Royalties",
+        "value": "royalti"
+    },
+    {
+        "id": 143,
+        "weight": 0.0,
+        "label": "Period From Date Of Formation Of The Trust Through ",
+        "value": "period date format trust"
+    },
+    {
+        "id": 144,
+        "weight": 0.0,
+        "label": "Changes In Net Assets Data",
+        "value": "chang net asset data"
+    },
+    {
+        "id": 145,
+        "weight": 0.0,
+        "label": "Interest Income",
+        "value": "interest incom"
+    },
+    {
+        "id": 146,
+        "weight": 0.0,
+        "label": "Net Loss",
+        "value": "net loss"
+    },
+    {
+        "id": 147,
+        "weight": 0.0,
+        "label": "Total Assets",
+        "value": "total asset"
+    },
+    {
+        "id": 148,
+        "weight": 0.0,
+        "label": "Net Assets Data",
+        "value": "net asset data"
+    },
+    {
+        "id": 149,
+        "weight": 0.0,
+        "label": "Total Liabilities",
+        "value": "total liabil"
+    },
+    {
+        "id": 150,
+        "weight": 0.0,
+        "label": "Net Assets In Liquidation",
+        "value": "net asset liquid"
+    },
+    {
+        "id": 151,
+        "weight": 0.0,
+        "label": "Cash And Cash Equivalents",
+        "value": "cash cash equival"
+    },
+    {
+        "id": 152,
+        "weight": 0.0,
+        "label": "Unaudited",
+        "value": "unaudit"
+    },
+    {
+        "id": 153,
+        "weight": 0.0,
+        "label": "Assets",
+        "value": "asset"
+    },
+    {
+        "id": 154,
+        "weight": 0.0,
+        "label": "Accounts Receivable Less Allowance For Doubtful Accounts Of And At And Respectively",
+        "value": "account receiv less allow doubt account respect"
+    },
+    {
+        "id": 155,
+        "weight": 0.0,
+        "label": "Inventories Net",
+        "value": "inventori net"
+    },
+    {
+        "id": 156,
+        "weight": 0.0,
+        "label": "Supplier Advances",
+        "value": "supplier advanc"
+    },
+    {
+        "id": 157,
+        "weight": 0.0,
+        "label": "Prepayments And Other Current Assets",
+        "value": "prepay current asset"
+    },
+    {
+        "id": 158,
+        "weight": 0.0,
+        "label": "Total Current Assets",
+        "value": "total current asset"
+    },
+    {
+        "id": 159,
+        "weight": 0.0,
+        "label": "Property And Equipment Net",
+        "value": "properti equip net"
+    },
+    {
+        "id": 160,
+        "weight": 0.0,
+        "label": "Licenses Net",
+        "value": "licens net"
+    },
+    {
+        "id": 161,
+        "weight": 0.0,
+        "label": "Other Assets",
+        "value": "asset"
+    },
+    {
+        "id": 162,
+        "weight": 0.0,
+        "label": "Other Net",
+        "value": "net"
+    },
+    {
+        "id": 163,
+        "weight": 0.0,
+        "label": "Accounts Payable",
+        "value": "account payabl"
+    },
+    {
+        "id": 164,
+        "weight": 0.0,
+        "label": "Current Liabilities",
+        "value": "current liabil"
+    },
+    {
+        "id": 165,
+        "weight": 0.0,
+        "label": "Bank Financings",
+        "value": "bank financ"
+    },
+    {
+        "id": 166,
+        "weight": 0.0,
+        "label": "Accrued Commissions",
+        "value": "accru commiss"
+    },
+    {
+        "id": 167,
+        "weight": 0.0,
+        "label": "Accrued Royalties",
+        "value": "accru royalti"
+    },
+    {
+        "id": 168,
+        "weight": 0.0,
+        "label": "Accrued Warranties",
+        "value": "accru warranti"
+    },
+    {
+        "id": 169,
+        "weight": 0.0,
+        "label": "Other Accrued Expenses And Current Liabilities",
+        "value": "accru expens current liabil"
+    },
+    {
+        "id": 170,
+        "weight": 0.0,
+        "label": "Kelly J. Mc Crann",
+        "value": "kelli Mc crann"
+    },
+    {
+        "id": 171,
+        "weight": 0.0,
+        "label": "Total Current Liabilities",
+        "value": "total current liabil"
+    },
+    {
+        "id": 172,
+        "weight": 0.0,
+        "label": "Number Of Units Of Beneficial Interests In The Trust",
+        "value": "number unit benefici interest trust"
+    },
+    {
+        "id": 173,
+        "weight": 0.0,
+        "label": "Common Stock 0.0001 Par Value Shares Authorized And 237997 Shares Issued And Outstanding At And Respectively",
+        "value": "common stock 0001 par valu share author 237997 share issu outstand respect"
+    },
+    {
+        "id": 174,
+        "weight": 0.0,
+        "label": "Percentage Of Total Number Of Units Of Beneficial Interests In The Trust",
+        "value": "percentag total number unit benefici interest trust"
+    },
+    {
+        "id": 175,
+        "weight": 0.0,
+        "label": "Stockholders Deficit",
+        "value": "stockhold deficit"
+    },
+    {
+        "id": 176,
+        "weight": 0.0,
+        "label": "Terren S. Peizer",
+        "value": "terren peizer"
+    },
+    {
+        "id": 177,
+        "weight": 0.0,
+        "label": "Additional Paid-in Capital",
+        "value": "addit paid in capit"
+    },
+    {
+        "id": 178,
+        "weight": 0.0,
+        "label": "Cede Co.",
+        "value": "cede Co"
+    },
+    {
+        "id": 179,
+        "weight": 0.0,
+        "label": "Accumulated Other Comprehensive Loss",
+        "value": "accumul comprehens loss"
+    },
+    {
+        "id": 180,
+        "weight": 0.0,
+        "label": "Accumulated Deficit",
+        "value": "accumul deficit"
+    },
+    {
+        "id": 181,
+        "weight": 0.0,
+        "label": "Total Stockholders Deficit",
+        "value": "total stockhold deficit"
+    },
+    {
+        "id": 182,
+        "weight": 0.0,
+        "label": "Total Liabilities And Stockholders Deficit",
+        "value": "total liabil stockhold deficit"
+    },
+    {
+        "id": 183,
+        "weight": 0.0,
+        "label": "December ",
+        "value": "decemb"
+    },
+    {
+        "id": 184,
+        "weight": 0.0,
+        "label": "Royalties Receivable",
+        "value": "royalti receiv"
+    },
+    {
+        "id": 185,
+        "weight": 0.0,
+        "label": "Non-current Assets",
+        "value": "non current asset"
+    },
+    {
+        "id": 186,
+        "weight": 0.0,
+        "label": "Total Non-current Assets",
+        "value": "total non current asset"
+    },
+    {
+        "id": 187,
+        "weight": 0.0,
+        "label": "Liabilities",
+        "value": "liabil"
+    },
+    {
+        "id": 188,
+        "weight": 0.0,
+        "label": "Commitments And Contingencies",
+        "value": "commit conting"
+    },
+    {
+        "id": 189,
+        "weight": 0.0,
+        "label": "Operating Region",
+        "value": "oper region"
+    },
+    {
+        "id": 190,
+        "weight": 0.0,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 191,
+        "weight": 0.0,
+        "label": "Proved Reserves By Operating Region As Of ",
+        "value": "prove reserv oper region"
+    },
+    {
+        "id": 192,
+        "weight": 0.0,
+        "label": "Proved",
+        "value": "prove"
+    },
+    {
+        "id": 193,
+        "weight": 0.0,
+        "label": "Oil",
+        "value": "oil"
+    },
+    {
+        "id": 194,
+        "weight": 0.0,
+        "label": "Permian Basin Region",
+        "value": "permian basin region"
+    },
+    {
+        "id": 195,
+        "weight": 0.0,
+        "label": "Mid- Continent Region",
+        "value": "mid contin region"
+    },
+    {
+        "id": 196,
+        "weight": 0.0,
+        "label": "Gulf Coast Region",
+        "value": "gulf coast region"
+    },
+    {
+        "id": 197,
+        "weight": 0.0,
+        "label": "All Regions",
+        "value": "region"
+    },
+    {
+        "id": 198,
+        "weight": 0.0,
+        "label": "Equity Compensation Plans Approved By Securityholders",
+        "value": "equiti compens plan approv securityhold"
+    },
+    {
+        "id": 199,
+        "weight": 0.0,
+        "label": "Number Of Shares To Be Issued Upon Exercise Of Outstanding Options Warrants And Rights",
+        "value": "number share issu upon exercis outstand option warrant right"
+    },
+    {
+        "id": 200,
+        "weight": 0.0,
+        "label": "Weighted- Average Exercise Price Of Outstanding Options Warrants And Rights",
+        "value": "weight averag exercis price outstand option warrant right"
+    }
+]

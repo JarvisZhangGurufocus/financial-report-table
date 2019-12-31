@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 447,
+        "weight": 0.3188056042075649,
+        "label": "Cash Flows From Operating Activities",
+        "value": "cash flow oper activ"
+    },
+    {
+        "id": 255,
+        "weight": 0.30875669092588637,
+        "label": "Current Assets",
+        "value": "current asset"
+    },
+    {
+        "id": 687,
+        "weight": 0.30418671679833525,
+        "label": "Three Months Ended ",
+        "value": "three month end"
+    },
+    {
+        "id": 694,
+        "weight": 0.2805082558944375,
+        "label": "For The Six Months Ended ",
+        "value": "six month end"
+    },
+    {
+        "id": 1664,
+        "weight": 0.27992642650153554,
+        "label": "Year Ended ",
+        "value": "year end"
+    },
+    {
+        "id": 1658,
+        "weight": 0.2513734235865159,
+        "label": "Operating",
+        "value": "oper"
+    },
+    {
+        "id": 71635,
+        "weight": 0.24308626944352646,
+        "label": "For The Three Monts Ended ",
+        "value": "three mont end"
+    },
+    {
+        "id": 88,
+        "weight": 0.2213468961855632,
+        "label": "Revenue",
+        "value": "revenu"
+    },
+    {
+        "id": 6466,
+        "weight": 0.18057837158661963,
+        "label": "Changes In Assets And Liabilities",
+        "value": "chang asset liabil"
+    },
+    {
+        "id": 71689,
+        "weight": 0.15974240563431735,
+        "label": "Fair Value Measurement Using Inputs",
+        "value": "fair valu measur use input"
+    },
+    {
+        "id": 40487,
+        "weight": 0.14208063072281332,
+        "label": "Financial Instruments",
+        "value": "financi instrument"
+    },
+    {
+        "id": 17459,
+        "weight": 0.1366159910796282,
+        "label": "Year Ended March ",
+        "value": "year end march"
+    },
+    {
+        "id": 71697,
+        "weight": 0.13196111769791435,
+        "label": "Underwriter Warrants",
+        "value": "underwrit warrant"
+    },
+    {
+        "id": 507,
+        "weight": 0.13049555819895142,
+        "label": "Other Income Expenses",
+        "value": "incom expens"
+    },
+    {
+        "id": 185,
+        "weight": 0.12766274512288697,
+        "label": "Non-current Assets",
+        "value": "non current asset"
+    },
+    {
+        "id": 1768,
+        "weight": 0.1197111935529792,
+        "label": "March ",
+        "value": "march"
+    },
+    {
+        "id": 153,
+        "weight": 0.11488960793111383,
+        "label": "Assets",
+        "value": "asset"
+    },
+    {
+        "id": 532,
+        "weight": 0.11047944779944298,
+        "label": "Nine Months Ended",
+        "value": "nine month end"
+    },
+    {
+        "id": 13764,
+        "weight": 0.10929279286370257,
+        "label": "Warrants",
+        "value": "warrant"
+    },
+    {
+        "id": 1556,
+        "weight": 0.09118767508777642,
+        "label": "Dividend Yield",
+        "value": "dividend yield"
+    },
+    {
+        "id": 2683,
+        "weight": 0.09016655411255463,
+        "label": "Number",
+        "value": "number"
+    },
+    {
+        "id": 884,
+        "weight": 0.08965327281210556,
+        "label": "Earnings Per Share",
+        "value": "earn per share"
+    },
+    {
+        "id": 164,
+        "weight": 0.08010479876332399,
+        "label": "Current Liabilities",
+        "value": "current liabil"
+    },
+    {
+        "id": 578,
+        "weight": 0.07650495500459178,
+        "label": "Other Comprehensive Income",
+        "value": "comprehens incom"
+    },
+    {
+        "id": 71616,
+        "weight": 0.07639854182510832,
+        "label": "Other Accrued Payables",
+        "value": "accru payabl"
+    },
+    {
+        "id": 71712,
+        "weight": 0.06945321984100755,
+        "label": "Cemetery",
+        "value": "cemeteri"
+    },
+    {
+        "id": 71838,
+        "weight": 0.06945321984100755,
+        "label": "Feb. ",
+        "value": "feb"
+    },
+    {
+        "id": 2798,
+        "weight": 0.06175133818517727,
+        "label": "Adjustment To Reconcile Net Income To Net Cash Provided By Used In Operating Activities",
+        "value": "adjust reconcil net incom net cash provid use oper activ"
+    },
+    {
+        "id": 48547,
+        "weight": 0.05903523686485642,
+        "label": "And Issued And Outstanding Respectively",
+        "value": "issu outstand respect"
+    },
+    {
+        "id": 62088,
+        "weight": 0.05903523686485642,
+        "label": "Principal Activities",
+        "value": "princip activ"
+    },
+    {
+        "id": 71611,
+        "weight": 0.05903523686485642,
+        "label": "Prepaid Lease Expense",
+        "value": "prepaid leas expens"
+    },
+    {
+        "id": 71615,
+        "weight": 0.05903523686485642,
+        "label": "Welfare Payable",
+        "value": "welfar payabl"
+    },
+    {
+        "id": 454,
+        "weight": 0.057575324111139116,
+        "label": "Cash Flows From Financing Activities",
+        "value": "cash flow financ activ"
+    },
+    {
+        "id": 24589,
+        "weight": 0.05737871625344385,
+        "label": "For The Three Months Ended November ",
+        "value": "three month end novemb"
+    },
+    {
+        "id": 190,
+        "weight": 0.05678451886250453,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 71694,
+        "weight": 0.05556257587280604,
+        "label": "Market Price And Estimated Fair Value Of Common Stock",
+        "value": "market price estim fair valu common stock"
+    },
+    {
+        "id": 187,
+        "weight": 0.05549964507416059,
+        "label": "Liabilities",
+        "value": "liabil"
+    },
+    {
+        "id": 71610,
+        "weight": 0.052089914880755664,
+        "label": "Costs Incurred For Real Estate Projects In Progress",
+        "value": "cost incur real estat project progress"
+    },
+    {
+        "id": 1345,
+        "weight": 0.05058345598096414,
+        "label": "Other Tax Payable",
+        "value": "tax payabl"
+    },
+    {
+        "id": 19383,
+        "weight": 0.04861725388870529,
+        "label": "To Net Cash Provided By Operating Activities",
+        "value": "net cash provid oper activ"
+    },
+    {
+        "id": 71941,
+        "weight": 0.04861725388870529,
+        "label": "0.001 Par Value And Shares",
+        "value": "001 par valu share"
+    },
+    {
+        "id": 4667,
+        "weight": 0.04644943696707359,
+        "label": "Lease Expiration Date",
+        "value": "leas expir date"
+    },
+    {
+        "id": 1670,
+        "weight": 0.04559383754388821,
+        "label": "Shares",
+        "value": "share"
+    },
+    {
+        "id": 29257,
+        "weight": 0.04559383754388821,
+        "label": "Percentage Of Ownership",
+        "value": "percentag ownership"
+    },
+    {
+        "id": 71691,
+        "weight": 0.04514459289665491,
+        "label": "Derivative Instruments Warrants",
+        "value": "deriv instrument warrant"
+    },
+    {
+        "id": 8,
+        "weight": 0.04357881680145697,
+        "label": "Page",
+        "value": "page"
+    },
+    {
+        "id": 1349,
+        "weight": 0.042397714383346795,
+        "label": "Percentage",
+        "value": "percentag"
+    },
+    {
+        "id": 71648,
+        "weight": 0.04167193190460453,
+        "label": "Rental Income Net",
+        "value": "rental incom net"
+    },
+    {
+        "id": 1460,
+        "weight": 0.04098479732388847,
+        "label": "Earnings Per Share Diluted",
+        "value": "earn per share dilut"
+    },
+    {
+        "id": 290,
+        "weight": 0.04055743293880966,
+        "label": "Long-term Liabilities",
+        "value": "long term liabil"
+    },
+    {
+        "id": 2888,
+        "weight": 0.03964422021233968,
+        "label": "Carrying Amount",
+        "value": "carri amount"
+    },
+    {
+        "id": 569,
+        "weight": 0.03897267071692301,
+        "label": "Cost Of Goods Sold",
+        "value": "cost good sold"
+    },
+    {
+        "id": 71899,
+        "weight": 0.03819927091255416,
+        "label": "Class Beneficially",
+        "value": "class benefici"
+    },
+    {
+        "id": 13079,
+        "weight": 0.036475070035110566,
+        "label": "Selling Expense",
+        "value": "sell expens"
+    },
+    {
+        "id": 4669,
+        "weight": 0.0349157647862856,
+        "label": "Non-vested At ",
+        "value": "non vest"
+    },
+    {
+        "id": 71617,
+        "weight": 0.034726609920503776,
+        "label": "Accrued Inventory Purchases",
+        "value": "accru inventori purchas"
+    },
+    {
+        "id": 71642,
+        "weight": 0.034726609920503776,
+        "label": "Gain On Change In Fair Value Of Warrants Classified As Derivatives",
+        "value": "gain chang fair valu warrant classifi deriv"
+    },
+    {
+        "id": 71681,
+        "weight": 0.034726609920503776,
+        "label": "Supplimental Information",
+        "value": "suppliment inform"
+    },
+    {
+        "id": 71687,
+        "weight": 0.034726609920503776,
+        "label": "Foguang",
+        "value": "foguang"
+    },
+    {
+        "id": 71798,
+        "weight": 0.034726609920503776,
+        "label": "Single Graves",
+        "value": "singl grave"
+    },
+    {
+        "id": 1570,
+        "weight": 0.034153627737944975,
+        "label": "Exercise Price",
+        "value": "exercis price"
+    },
+    {
+        "id": 1696,
+        "weight": 0.03343548086551802,
+        "label": "Beneficial",
+        "value": "benefici"
+    },
+    {
+        "id": 1459,
+        "weight": 0.03278783785911077,
+        "label": "Earnings Per Share Basic",
+        "value": "earn per share basic"
+    },
+    {
+        "id": 4332,
+        "weight": 0.03218947198788627,
+        "label": "Employees",
+        "value": "employe"
+    },
+    {
+        "id": 5364,
+        "weight": 0.03039589169592547,
+        "label": "Other Non-operating Expense",
+        "value": "non oper expens"
+    },
+    {
+        "id": 13633,
+        "weight": 0.0299277983882448,
+        "label": "For The Three Month Period Ended ",
+        "value": "three month period end"
+    },
+    {
+        "id": 19661,
+        "weight": 0.0299277983882448,
+        "label": "Of Incorporation",
+        "value": "incorpor"
+    },
+    {
+        "id": 1550,
+        "weight": 0.029858818826830457,
+        "label": "Expected Term In Years",
+        "value": "expect term year"
+    },
+    {
+        "id": 903,
+        "weight": 0.02805827245700139,
+        "label": "Weighted-average Shares Outstanding Diluted",
+        "value": "weight averag share outstand dilut"
+    },
+    {
+        "id": 20501,
+        "weight": 0.02778128793640302,
+        "label": "Land Use Rights",
+        "value": "land use right"
+    },
+    {
+        "id": 62089,
+        "weight": 0.02778128793640302,
+        "label": "Area Sq. Meters",
+        "value": "area Sq meter"
+    },
+    {
+        "id": 71701,
+        "weight": 0.02778128793640302,
+        "label": "Basic Plots",
+        "value": "basic plot"
+    },
+    {
+        "id": 71702,
+        "weight": 0.02778128793640302,
+        "label": "Standard Plots",
+        "value": "standard plot"
+    },
+    {
+        "id": 71703,
+        "weight": 0.02778128793640302,
+        "label": "Deluxe Plots",
+        "value": "delux plot"
+    },
+    {
+        "id": 71704,
+        "weight": 0.02778128793640302,
+        "label": "Artist Plots",
+        "value": "artist plot"
+    },
+    {
+        "id": 71707,
+        "weight": 0.02778128793640302,
+        "label": "Buildings And Structures",
+        "value": "build structur"
+    },
+    {
+        "id": 71709,
+        "weight": 0.02778128793640302,
+        "label": "Less Accumulated Units Of Production Costs",
+        "value": "less accumul unit product cost"
+    },
+    {
+        "id": 71711,
+        "weight": 0.02778128793640302,
+        "label": "Less Depreciation Of Building",
+        "value": "less depreci build"
+    },
+    {
+        "id": 71733,
+        "weight": 0.02778128793640302,
+        "label": "Park Construction Services",
+        "value": "park construct servic"
+    },
+    {
+        "id": 71834,
+        "weight": 0.02778128793640302,
+        "label": "Carrying Amount At March ",
+        "value": "carri amount march"
+    },
+    {
+        "id": 626,
+        "weight": 0.0264909507001112,
+        "label": "Net Income",
+        "value": "net incom"
+    },
+    {
+        "id": 902,
+        "weight": 0.026304630428438804,
+        "label": "Weighted-average Shares Outstanding Basic",
+        "value": "weight averag share outstand basic"
+    },
+    {
+        "id": 262,
+        "weight": 0.02494250925883073,
+        "label": "Inventory",
+        "value": "inventori"
+    },
+    {
+        "id": 571,
+        "weight": 0.024777637632712297,
+        "label": "Operating Expenses",
+        "value": "oper expens"
+    },
+    {
+        "id": 1552,
+        "weight": 0.024550988399876215,
+        "label": "Expected Volatility",
+        "value": "expect volatil"
+    },
+    {
+        "id": 46145,
+        "weight": 0.024316713356740377,
+        "label": "Net Rental Income",
+        "value": "net rental incom"
+    },
+    {
+        "id": 71684,
+        "weight": 0.024308626944352645,
+        "label": "Gold Industry Limited",
+        "value": "gold industri limit"
+    },
+    {
+        "id": 71685,
+        "weight": 0.024308626944352645,
+        "label": "Gold Holy Industry Limited",
+        "value": "gold holi industri limit"
+    },
+    {
+        "id": 71686,
+        "weight": 0.024308626944352645,
+        "label": "Chongqing Ran Ji Industry Co Limited",
+        "value": "chongq ran Ji industri Co limit"
+    },
+    {
+        "id": 71796,
+        "weight": 0.024308626944352645,
+        "label": "Percentage Of Customer",
+        "value": "percentag custom"
+    },
+    {
+        "id": 71860,
+        "weight": 0.024308626944352645,
+        "label": "Effective Date Of Appointment",
+        "value": "effect date appoint"
+    },
+    {
+        "id": 163,
+        "weight": 0.02377026370988562,
+        "label": "Accounts Payable",
+        "value": "account payabl"
+    },
+    {
+        "id": 853,
+        "weight": 0.02357462864593654,
+        "label": "Risk-free Interest Rate",
+        "value": "risk free interest rate"
+    },
+    {
+        "id": 8543,
+        "weight": 0.022992479991347337,
+        "label": "Stockholders Equity Deficiency",
+        "value": "stockhold equiti defici"
+    },
+    {
+        "id": 515,
+        "weight": 0.022394114120122845,
+        "label": "Net Revenues",
+        "value": "net revenu"
+    },
+    {
+        "id": 17328,
+        "weight": 0.021858558572740515,
+        "label": "Related Party Receivables",
+        "value": "relat parti receiv"
+    },
+    {
+        "id": 258,
+        "weight": 0.021824695601476887,
+        "label": "Stockholders Equity",
+        "value": "stockhold equiti"
+    },
+    {
+        "id": 536,
+        "weight": 0.021824695601476887,
+        "label": "Total Operating Expenses",
+        "value": "total oper expens"
+    },
+    {
+        "id": 276,
+        "weight": 0.021473952615017326,
+        "label": "Deferred Revenue",
+        "value": "defer revenu"
+    },
+    {
+        "id": 1793,
+        "weight": 0.02127712418714783,
+        "label": "Contractual Obligations At ",
+        "value": "contractu oblig"
+    },
+    {
+        "id": 478,
+        "weight": 0.021129123297676106,
+        "label": "Cash Flows From Investing Activities",
+        "value": "cash flow invest activ"
+    },
+    {
+        "id": 7041,
+        "weight": 0.020835965952302266,
+        "label": "Current Portion Of Deferred Revenue",
+        "value": "current portion defer revenu"
+    },
+    {
+        "id": 71618,
+        "weight": 0.020835965952302266,
+        "label": "Long-term Other Payables",
+        "value": "long term payabl"
+    },
+    {
+        "id": 71682,
+        "weight": 0.020835965952302266,
+        "label": "Quarter End Rmb U.s. Dollar Exchange Rate",
+        "value": "quarter end rmb dollar exchang rate"
+    },
+    {
+        "id": 71683,
+        "weight": 0.020835965952302266,
+        "label": "Average Year-to-date Rmb U.s. Dollar Exchange Rate",
+        "value": "averag year to date rmb dollar exchang rate"
+    },
+    {
+        "id": 12,
+        "weight": 0.020527937943445942,
+        "label": "Part Financial Information",
+        "value": "part financi inform"
+    },
+    {
+        "id": 1803,
+        "weight": 0.0199518655921632,
+        "label": "Rental Income",
+        "value": "rental incom"
+    },
+    {
+        "id": 93,
+        "weight": 0.01982211010616984,
+        "label": "General And Administrative Expenses",
+        "value": "gener administr expens"
+    },
+    {
+        "id": 617,
+        "weight": 0.01982211010616984,
+        "label": "Income From Operations",
+        "value": "incom oper"
+    },
+    {
+        "id": 696,
+        "weight": 0.01982211010616984,
+        "label": "Other Income",
+        "value": "incom"
+    },
+    {
+        "id": 873,
+        "weight": 0.01982211010616984,
+        "label": "Income Before Income Taxes",
+        "value": "incom incom tax"
+    },
+    {
+        "id": 152,
+        "weight": 0.019519647884292467,
+        "label": "Unaudited",
+        "value": "unaudit"
+    },
+    {
+        "id": 623,
+        "weight": 0.01877456221015406,
+        "label": "Balance ",
+        "value": "balanc"
+    },
+    {
+        "id": 705,
+        "weight": 0.018487982885466596,
+        "label": "Gross Profit",
+        "value": "gross profit"
+    },
+    {
+        "id": 288,
+        "weight": 0.017680971484452405,
+        "label": "Retained Earnings",
+        "value": "retain earn"
+    },
+    {
+        "id": 843,
+        "weight": 0.017680971484452405,
+        "label": "Income Tax",
+        "value": "incom tax"
+    },
+    {
+        "id": 31004,
+        "weight": 0.0174578823931428,
+        "label": "Capacity",
+        "value": "capac"
+    },
+    {
+        "id": 35624,
+        "weight": 0.017363304960251888,
+        "label": "Warrant Derivative Liability",
+        "value": "warrant deriv liabil"
+    },
+    {
+        "id": 71680,
+        "weight": 0.017363304960251888,
+        "label": "Effects Of Foreign Exchange",
+        "value": "effect foreign exchang"
+    },
+    {
+        "id": 71721,
+        "weight": 0.017363304960251888,
+        "label": "Preferred Stock Shares Authorized",
+        "value": "prefer stock share author"
+    },
+    {
+        "id": 71760,
+        "weight": 0.017363304960251888,
+        "label": "Prepayments On Contracts On Behalf Of Related Party",
+        "value": "prepay contract behalf relat parti"
+    },
+    {
+        "id": 71858,
+        "weight": 0.017363304960251888,
+        "label": "Yiyou Ran",
+        "value": "yiyou ran"
+    },
+    {
+        "id": 71861,
+        "weight": 0.017363304960251888,
+        "label": "Michael Wang",
+        "value": "michael wang"
+    },
+    {
+        "id": 71863,
+        "weight": 0.017363304960251888,
+        "label": "Jianquan Chen",
+        "value": "jianquan chen"
+    },
+    {
+        "id": 71866,
+        "weight": 0.017363304960251888,
+        "label": "Tim Hudson",
+        "value": "tim hudson"
+    },
+    {
+        "id": 71868,
+        "weight": 0.017363304960251888,
+        "label": "Michael Rudolph",
+        "value": "michael rudolph"
+    },
+    {
+        "id": 71872,
+        "weight": 0.017363304960251888,
+        "label": "Lihua Zhang",
+        "value": "lihua zhang"
+    },
+    {
+        "id": 71874,
+        "weight": 0.017363304960251888,
+        "label": "Ray Hsu",
+        "value": "ray hsu"
+    },
+    {
+        "id": 71887,
+        "weight": 0.017363304960251888,
+        "label": "Nonquali-fied",
+        "value": "nonquali fie"
+    },
+    {
+        "id": 71890,
+        "weight": 0.017363304960251888,
+        "label": "Yiyou Ran Ceo",
+        "value": "yiyou ran ceo"
+    },
+    {
+        "id": 71894,
+        "weight": 0.017363304960251888,
+        "label": "Michael Wang Cfo",
+        "value": "michael wang cfo"
+    },
+    {
+        "id": 71896,
+        "weight": 0.017363304960251888,
+        "label": "Jianquan Chen General Manager",
+        "value": "jianquan chen gener manag"
+    },
+    {
+        "id": 1870,
+        "weight": 0.017147975115446124,
+        "label": "Weighted- Average Grant Date Fair Value",
+        "value": "weight averag grant date fair valu"
+    },
+    {
+        "id": 1363,
+        "weight": 0.017076813868972487,
+        "label": "Office Equipment",
+        "value": "offic equip"
+    },
+    {
+        "id": 1134,
+        "weight": 0.016518425088474863,
+        "label": "Foreign Currency Translation",
+        "value": "foreign currenc translat"
+    },
+    {
+        "id": 4146,
+        "weight": 0.016393918929555384,
+        "label": "Forfeited",
+        "value": "forfeit"
+    },
+    {
+        "id": 14079,
+        "weight": 0.016393918929555384,
+        "label": "Short-term Notes Payable",
+        "value": "short term note payabl"
+    },
+    {
+        "id": 186,
+        "weight": 0.016094735993943135,
+        "label": "Total Non-current Assets",
+        "value": "total non current asset"
+    },
+    {
+        "id": 145,
+        "weight": 0.01584684247325708,
+        "label": "Interest Income",
+        "value": "interest incom"
+    },
+    {
+        "id": 10481,
+        "weight": 0.015197945847962736,
+        "label": "Non- Equity",
+        "value": "non equiti"
+    },
+    {
+        "id": 39709,
+        "weight": 0.015197945847962736,
+        "label": "Compen-",
+        "value": "compen"
+    },
+    {
+        "id": 508,
+        "weight": 0.015019649768123247,
+        "label": "Interest Expense",
+        "value": "interest expens"
+    },
+    {
+        "id": 350,
+        "weight": 0.014929409413415229,
+        "label": "Common Stock",
+        "value": "common stock"
+    },
+    {
+        "id": 1054,
+        "weight": 0.014929409413415229,
+        "label": "Machinery And Equipment",
+        "value": "machineri equip"
+    },
+    {
+        "id": 1600,
+        "weight": 0.014929409413415229,
+        "label": "Total Property And Equipment",
+        "value": "total properti equip"
+    },
+    {
+        "id": 3547,
+        "weight": 0.014734142903710338,
+        "label": "Name",
+        "value": "name"
+    },
+    {
+        "id": 1366,
+        "weight": 0.014029136228500695,
+        "label": "Less Accumulated Depreciation",
+        "value": "less accumul depreci"
+    },
+    {
+        "id": 917,
+        "weight": 0.013943850557943255,
+        "label": "Price",
+        "value": "price"
+    },
+    {
+        "id": 3994,
+        "weight": 0.01389064396820151,
+        "label": "Less Than Year",
+        "value": "less year"
+    },
+    {
+        "id": 6271,
+        "weight": 0.01389064396820151,
+        "label": "Outstanding As Of ",
+        "value": "outstand"
+    },
+    {
+        "id": 24826,
+        "weight": 0.01389064396820151,
+        "label": "Stock Issued For Consulting Services",
+        "value": "stock issu consult servic"
+    },
+    {
+        "id": 43893,
+        "weight": 0.01389064396820151,
+        "label": "Apic",
+        "value": "apic"
+    },
+    {
+        "id": 71609,
+        "weight": 0.01389064396820151,
+        "label": "Construction In Progress Cemetery Property",
+        "value": "construct progress cemeteri properti"
+    },
+    {
+        "id": 71674,
+        "weight": 0.01389064396820151,
+        "label": "Stock Issued For Board Of Director Fees",
+        "value": "stock issu board director fee"
+    },
+    {
+        "id": 71756,
+        "weight": 0.01389064396820151,
+        "label": "Net Income For Basic And Diluted Earnings Per Share",
+        "value": "net incom basic dilut earn per share"
+    },
+    {
+        "id": 71758,
+        "weight": 0.01389064396820151,
+        "label": "Small Tools And Supplies",
+        "value": "small tool suppli"
+    },
+    {
+        "id": 71795,
+        "weight": 0.01389064396820151,
+        "label": "Double Graves",
+        "value": "doubl grave"
+    },
+    {
+        "id": 71820,
+        "weight": 0.01389064396820151,
+        "label": "Chongqing Prc",
+        "value": "chongq prc"
+    },
+    {
+        "id": 71843,
+        "weight": 0.01389064396820151,
+        "label": "Capital Lease Obligations",
+        "value": "capit leas oblig"
+    },
+    {
+        "id": 71852,
+        "weight": 0.01389064396820151,
+        "label": "Balance Sheet Items Except For The Registered And Paid-up Capital As Of End Of Period/year.",
+        "value": "balanc sheet item except regist paid up capit end period year"
+    },
+    {
+        "id": 71854,
+        "weight": 0.01389064396820151,
+        "label": "Amounts Included In The Statement Of Operations Statement Of Changes In Stockholders Equity And Statement Of Cash Flows For The Period/ Year Ended.",
+        "value": "amount includ statement oper statement chang stockhold equiti statement cash flow period year end"
+    },
+    {
+        "id": 71910,
+        "weight": 0.01389064396820151,
+        "label": "China Redstone Group Inc. Registrant",
+        "value": "china redston group inc registr"
+    },
+    {
+        "id": 71961,
+        "weight": 0.01389064396820151,
+        "label": "Sale Of Common Shares And Warrants Units For Cash Net Of Costs Of ",
+        "value": "sale common share warrant unit cash net cost"
+    },
+    {
+        "id": 7,
+        "weight": 0.013768012287446311,
+        "label": "Item 1.",
+        "value": "item"
+    },
+    {
+        "id": 17348,
+        "weight": 0.013661599107962821,
+        "label": "Under The Plans Or",
+        "value": "plan"
+    },
+    {
+        "id": 257,
+        "weight": 0.013214740070779891,
+        "label": "June ",
+        "value": "june"
+    },
+    {
+        "id": 362,
+        "weight": 0.013214740070779891,
+        "label": "Equity",
+        "value": "equiti"
+    },
+    {
+        "id": 259,
+        "weight": 0.013205702061047568,
+        "label": "Accounts Receivable",
+        "value": "account receiv"
+    },
+    {
+        "id": 607,
+        "weight": 0.013063233236738327,
+        "label": "In Thousands",
+        "value": "thousand"
+    },
+    {
+        "id": 365,
+        "weight": 0.012471254629415365,
+        "label": "Stockholders",
+        "value": "stockhold"
+    },
+    {
+        "id": 893,
+        "weight": 0.012471254629415365,
+        "label": "Total Other Income Expense",
+        "value": "total incom expens"
+    },
+    {
+        "id": 4817,
+        "weight": 0.012469915995101999,
+        "label": "Taxes Paid",
+        "value": "tax paid"
+    },
+    {
+        "id": 18457,
+        "weight": 0.012469915995101999,
+        "label": "All Other Compen- Sation",
+        "value": "compen sation"
+    },
+    {
+        "id": 213,
+        "weight": 0.012275494199938107,
+        "label": "Total Long-term Liabilities",
+        "value": "total long term liabil"
+    },
+    {
+        "id": 1908,
+        "weight": 0.012275494199938107,
+        "label": "Payments Due By Period",
+        "value": "payment due period"
+    },
+    {
+        "id": 9615,
+        "weight": 0.012158356678370189,
+        "label": "Current Taxes",
+        "value": "current tax"
+    },
+    {
+        "id": 12109,
+        "weight": 0.012158356678370189,
+        "label": "Net Income For The Year Ended",
+        "value": "net incom year end"
+    },
+    {
+        "id": 17754,
+        "weight": 0.012158356678370189,
+        "label": "Total Cost Of Goods Sold",
+        "value": "total cost good sold"
+    },
+    {
+        "id": 56783,
+        "weight": 0.012158356678370189,
+        "label": "Named Executive Officers And Directors",
+        "value": "name execut offic director"
+    },
+    {
+        "id": 177,
+        "weight": 0.01188513185494281,
+        "label": "Additional Paid-in Capital",
+        "value": "addit paid in capit"
+    },
+    {
+        "id": 267,
+        "weight": 0.01188513185494281,
+        "label": "Total Stockholders Equity",
+        "value": "total stockhold equiti"
+    },
+    {
+        "id": 1350,
+        "weight": 0.011496239995673669,
+        "label": "Stock",
+        "value": "stock"
+    },
+    {
+        "id": 10482,
+        "weight": 0.011496239995673669,
+        "label": "Incentive",
+        "value": "incent"
+    },
+    {
+        "id": 147,
+        "weight": 0.011264737326092435,
+        "label": "Total Assets",
+        "value": "total asset"
+    },
+    {
+        "id": 12673,
+        "weight": 0.010929279286370257,
+        "label": "Six Month Period Ended ",
+        "value": "six month period end"
+    },
+    {
+        "id": 19773,
+        "weight": 0.010929279286370257,
+        "label": "Supplies",
+        "value": "suppli"
+    },
+    {
+        "id": 159,
+        "weight": 0.010912347800738444,
+        "label": "Property And Equipment Net",
+        "value": "properti equip net"
+    },
+    {
+        "id": 298,
+        "weight": 0.010912347800738444,
+        "label": "Accumulated Other Comprehensive Income",
+        "value": "accumul comprehens incom"
+    },
+    {
+        "id": 602,
+        "weight": 0.010912347800738444,
+        "label": "Other Intangible Assets Net",
+        "value": "intang asset net"
+    },
+    {
+        "id": 471,
+        "weight": 0.010564561648838053,
+        "label": "Change In Operating Assets And Liabilities",
+        "value": "chang oper asset liabil"
+    },
+    {
+        "id": 360,
+        "weight": 0.010521852171375521,
+        "label": "Foreign Currency Translation Adjustment",
+        "value": "foreign currenc translat adjust"
+    },
+    {
+        "id": 1794,
+        "weight": 0.010417982976151133,
+        "label": "Year",
+        "value": "year"
+    },
+    {
+        "id": 71722,
+        "weight": 0.010417982976151133,
+        "label": "Common Stock Shares Authorized",
+        "value": "common stock share author"
+    },
+    {
+        "id": 71803,
+        "weight": 0.010417982976151133,
+        "label": "Strength Of Competitors",
+        "value": "strength competitor"
+    },
+    {
+        "id": 71804,
+        "weight": 0.010417982976151133,
+        "label": "Weakness Of Competitors",
+        "value": "weak competitor"
+    },
+    {
+        "id": 71813,
+        "weight": 0.010417982976151133,
+        "label": "Long Qiao Village",
+        "value": "long qiao villag"
+    },
+    {
+        "id": 71814,
+        "weight": 0.010417982976151133,
+        "label": "Fuli Bowling House",
+        "value": "fuli bowl hous"
+    },
+    {
+        "id": 71815,
+        "weight": 0.010417982976151133,
+        "label": " E. Jianxin Rd.",
+        "value": "jianxin Rd"
+    },
+    {
+        "id": 71818,
+        "weight": 0.010417982976151133,
+        "label": "Huigong Rd.",
+        "value": "huigong Rd"
+    },
+    {
+        "id": 71821,
+        "weight": 0.010417982976151133,
+        "label": "Agricultural Land",
+        "value": "agricultur land"
+    }
+]

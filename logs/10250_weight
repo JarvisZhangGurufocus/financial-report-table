@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 204,
+        "weight": 0.6678577618743072,
+        "label": "Predecessor",
+        "value": "predecessor"
+    },
+    {
+        "id": 5410,
+        "weight": 0.38692139127569963,
+        "label": "Pro Forma",
+        "value": "pro forma"
+    },
+    {
+        "id": 6587,
+        "weight": 0.3845205592178943,
+        "label": "Successor",
+        "value": "successor"
+    },
+    {
+        "id": 5992,
+        "weight": 0.18914593900112905,
+        "label": "Net Sales",
+        "value": "net sale"
+    },
+    {
+        "id": 687,
+        "weight": 0.14452786459953854,
+        "label": "Three Months Ended ",
+        "value": "three month end"
+    },
+    {
+        "id": 447,
+        "weight": 0.13930873100705563,
+        "label": "Cash Flows From Operating Activities",
+        "value": "cash flow oper activ"
+    },
+    {
+        "id": 34292,
+        "weight": 0.10889743863294686,
+        "label": "Change To September ",
+        "value": "chang septemb"
+    },
+    {
+        "id": 32478,
+        "weight": 0.10064763267590544,
+        "label": "June Through June ",
+        "value": "june june"
+    },
+    {
+        "id": 32525,
+        "weight": 0.10064763267590544,
+        "label": "January Through June",
+        "value": "januari june"
+    },
+    {
+        "id": 20639,
+        "weight": 0.09315066156878196,
+        "label": "Add",
+        "value": "add"
+    },
+    {
+        "id": 689,
+        "weight": 0.09280028126271694,
+        "label": "Nine Months Ended ",
+        "value": "nine month end"
+    },
+    {
+        "id": 703,
+        "weight": 0.07873794839228034,
+        "label": "Three Months Ended September ",
+        "value": "three month end septemb"
+    },
+    {
+        "id": 32134,
+        "weight": 0.07464671803889161,
+        "label": "Other Operating Expense Net",
+        "value": "oper expens net"
+    },
+    {
+        "id": 694,
+        "weight": 0.07264718711363302,
+        "label": "For The Six Months Ended ",
+        "value": "six month end"
+    },
+    {
+        "id": 3128,
+        "weight": 0.069916089853722,
+        "label": "Transaction Costs",
+        "value": "transact cost"
+    },
+    {
+        "id": 153,
+        "weight": 0.0693322211159639,
+        "label": "Assets",
+        "value": "asset"
+    },
+    {
+        "id": 33848,
+        "weight": 0.06269852527351487,
+        "label": "Class Ordinary Shares",
+        "value": "class ordinari share"
+    },
+    {
+        "id": 1346,
+        "weight": 0.057045753983982754,
+        "label": "Class",
+        "value": "class"
+    },
+    {
+        "id": 6595,
+        "weight": 0.05626060355416693,
+        "label": "Foreign Currency Gain Loss",
+        "value": "foreign currenc gain loss"
+    },
+    {
+        "id": 32216,
+        "weight": 0.056098680507881714,
+        "label": "Adj",
+        "value": "adj"
+    },
+    {
+        "id": 863,
+        "weight": 0.05205455159042389,
+        "label": "Other Selling General And Administrative",
+        "value": "sell gener administr"
+    },
+    {
+        "id": 516,
+        "weight": 0.05140688383640644,
+        "label": "Three Months Ended June ",
+        "value": "three month end june"
+    },
+    {
+        "id": 32436,
+        "weight": 0.05032381633795272,
+        "label": "Cushioning Machines",
+        "value": "cushion machin"
+    },
+    {
+        "id": 32438,
+        "weight": 0.05032381633795272,
+        "label": "Void-fill Machines",
+        "value": "void fill machin"
+    },
+    {
+        "id": 32439,
+        "weight": 0.05032381633795272,
+        "label": "Wrapping Machines",
+        "value": "wrap machin"
+    },
+    {
+        "id": 32479,
+        "weight": 0.05032381633795272,
+        "label": "April Through June",
+        "value": "april june"
+    },
+    {
+        "id": 34389,
+        "weight": 0.049498835742248566,
+        "label": "June Through September ",
+        "value": "june septemb"
+    },
+    {
+        "id": 1311,
+        "weight": 0.04868264219927714,
+        "label": "Adjustments",
+        "value": "adjust"
+    },
+    {
+        "id": 1486,
+        "weight": 0.04858349130333949,
+        "label": "June ",
+        "value": "june"
+    },
+    {
+        "id": 704,
+        "weight": 0.0485146385471633,
+        "label": "Nine Months Ended September ",
+        "value": "nine month end septemb"
+    },
+    {
+        "id": 623,
+        "weight": 0.04846715293973637,
+        "label": "Balance ",
+        "value": "balanc"
+    },
+    {
+        "id": 32643,
+        "weight": 0.046198913359432,
+        "label": "B/ To Predecessor Six Months Ended ",
+        "value": "predecessor six month end"
+    },
+    {
+        "id": 517,
+        "weight": 0.045854030794287015,
+        "label": "Six Months Ended June ",
+        "value": "six month end june"
+    },
+    {
+        "id": 32552,
+        "weight": 0.043723971572319574,
+        "label": "Europe/ Asia",
+        "value": "europ asia"
+    },
+    {
+        "id": 5570,
+        "weight": 0.04316608566415808,
+        "label": "Cost Of Sales",
+        "value": "cost sale"
+    },
+    {
+        "id": 32590,
+        "weight": 0.04289899097661543,
+        "label": "B/ To Predecessor Three Months Ended ",
+        "value": "predecessor three month end"
+    },
+    {
+        "id": 34512,
+        "weight": 0.04289899097661543,
+        "label": "Better/ Worse To Predecessor Three Months Ended ",
+        "value": "better wors predecessor three month end"
+    },
+    {
+        "id": 34667,
+        "weight": 0.04289899097661543,
+        "label": "Better/ Worse To Predecessor Nine Months Ended ",
+        "value": "better wors predecessor nine month end"
+    },
+    {
+        "id": 819,
+        "weight": 0.042038541310131954,
+        "label": "Depreciation And Amortization",
+        "value": "depreci amort"
+    },
+    {
+        "id": 8,
+        "weight": 0.04109737993751706,
+        "label": "Page",
+        "value": "page"
+    },
+    {
+        "id": 349,
+        "weight": 0.03974719948530821,
+        "label": "Shares",
+        "value": "share"
+    },
+    {
+        "id": 508,
+        "weight": 0.038952129049726766,
+        "label": "Interest Expense",
+        "value": "interest expens"
+    },
+    {
+        "id": 190,
+        "weight": 0.03890133673474897,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 32179,
+        "weight": 0.037949107402390575,
+        "label": "Ordinary Shares",
+        "value": "ordinari share"
+    },
+    {
+        "id": 454,
+        "weight": 0.03687071757378717,
+        "label": "Cash Flows From Financing Activities",
+        "value": "cash flow financ activ"
+    },
+    {
+        "id": 5575,
+        "weight": 0.035353107711625864,
+        "label": "Net Loss Income",
+        "value": "net loss incom"
+    },
+    {
+        "id": 1113,
+        "weight": 0.034649185019574,
+        "label": "Capital Expenditures",
+        "value": "capit expenditur"
+    },
+    {
+        "id": 1894,
+        "weight": 0.03257077372841019,
+        "label": "Loss Before Income Taxes",
+        "value": "loss incom tax"
+    },
+    {
+        "id": 351,
+        "weight": 0.0324602129130017,
+        "label": "Amount",
+        "value": "amount"
+    },
+    {
+        "id": 705,
+        "weight": 0.03199948666890641,
+        "label": "Gross Profit",
+        "value": "gross profit"
+    },
+    {
+        "id": 1667,
+        "weight": 0.0317723186746233,
+        "label": "Change",
+        "value": "chang"
+    },
+    {
+        "id": 2443,
+        "weight": 0.03144053244966366,
+        "label": "Non-",
+        "value": "non"
+    },
+    {
+        "id": 32153,
+        "weight": 0.031349262636757434,
+        "label": "Two-class Method",
+        "value": "two class method"
+    },
+    {
+        "id": 837,
+        "weight": 0.03060867892549391,
+        "label": "Income/ Loss From Operations",
+        "value": "incom loss oper"
+    },
+    {
+        "id": 20975,
+        "weight": 0.029858687215556644,
+        "label": "Fair Value Measurements At ",
+        "value": "fair valu measur"
+    },
+    {
+        "id": 840,
+        "weight": 0.02981306136542459,
+        "label": "Income Tax Benefit",
+        "value": "incom tax benefit"
+    },
+    {
+        "id": 33812,
+        "weight": 0.029699301445349144,
+        "label": "Item 1. Financial Statements Unaudited",
+        "value": "item financi statement unaudit"
+    },
+    {
+        "id": 2440,
+        "weight": 0.028161827916143387,
+        "label": "Income",
+        "value": "incom"
+    },
+    {
+        "id": 152,
+        "weight": 0.027823039639715746,
+        "label": "Unaudited",
+        "value": "unaudit"
+    },
+    {
+        "id": 895,
+        "weight": 0.026684489319661362,
+        "label": "Income Tax Benefit Expense",
+        "value": "incom tax benefit expens"
+    },
+    {
+        "id": 32381,
+        "weight": 0.026399379062532573,
+        "label": "Restricted At ",
+        "value": "restrict"
+    },
+    {
+        "id": 1111,
+        "weight": 0.025554052598935364,
+        "label": "Ebitda",
+        "value": "ebitda"
+    },
+    {
+        "id": 4105,
+        "weight": 0.025476708854190223,
+        "label": "Us",
+        "value": "Us"
+    },
+    {
+        "id": 10369,
+        "weight": 0.025273435309359448,
+        "label": "Shareholders Equity",
+        "value": "sharehold equiti"
+    },
+    {
+        "id": 2881,
+        "weight": 0.025080829402658784,
+        "label": "North America",
+        "value": "north america"
+    },
+    {
+        "id": 33801,
+        "weight": 0.024749417871124283,
+        "label": "Greater Than 5% Shareholders",
+        "value": "greater sharehold"
+    },
+    {
+        "id": 4441,
+        "weight": 0.02455133715766346,
+        "label": "Balance Inception",
+        "value": "balanc incept"
+    },
+    {
+        "id": 33674,
+        "weight": 0.02392443727542014,
+        "label": "Sale Of Class Ordinary Shares",
+        "value": "sale class ordinari share"
+    },
+    {
+        "id": 33681,
+        "weight": 0.02392443727542014,
+        "label": "Ordinary Shares Subject To Redemption",
+        "value": "ordinari share subject redempt"
+    },
+    {
+        "id": 1720,
+        "weight": 0.022069464463672302,
+        "label": "For The Period From Inception To ",
+        "value": "period incept"
+    },
+    {
+        "id": 164,
+        "weight": 0.021706148249084383,
+        "label": "Current Liabilities",
+        "value": "current liabil"
+    },
+    {
+        "id": 8998,
+        "weight": 0.021449495488307716,
+        "label": "Retained Earnings",
+        "value": "retain earn"
+    },
+    {
+        "id": 471,
+        "weight": 0.020078109282451084,
+        "label": "Change In Operating Assets And Liabilities",
+        "value": "chang oper asset liabil"
+    },
+    {
+        "id": 3545,
+        "weight": 0.019950165358832008,
+        "label": "Total Shareholders Equity",
+        "value": "total sharehold equiti"
+    },
+    {
+        "id": 6213,
+        "weight": 0.018974553701195288,
+        "label": "Dilution",
+        "value": "dilut"
+    },
+    {
+        "id": 996,
+        "weight": 0.018928927851063232,
+        "label": "Adjusted Ebitda",
+        "value": "adjust ebitda"
+    },
+    {
+        "id": 362,
+        "weight": 0.018836110107996254,
+        "label": "Equity",
+        "value": "equiti"
+    },
+    {
+        "id": 1121,
+        "weight": 0.01876289839737993,
+        "label": "Shareholders",
+        "value": "sharehold"
+    },
+    {
+        "id": 302,
+        "weight": 0.01825579303528858,
+        "label": "Expenses",
+        "value": "expens"
+    },
+    {
+        "id": 32288,
+        "weight": 0.018149573105491146,
+        "label": "Adjustments To Reconcile Net Loss To Net Cash Providedby Used In Operating Activities",
+        "value": "adjust reconcil net loss net cash providedbi use oper activ"
+    },
+    {
+        "id": 32326,
+        "weight": 0.018149573105491146,
+        "label": "Inventories",
+        "value": "inventori"
+    },
+    {
+        "id": 1253,
+        "weight": 0.01791392476649764,
+        "label": "Statement Of Operations Data",
+        "value": "statement oper data"
+    },
+    {
+        "id": 146,
+        "weight": 0.017568345622144696,
+        "label": "Net Loss",
+        "value": "net loss"
+    },
+    {
+        "id": 32174,
+        "weight": 0.017324592509787,
+        "label": "Class Common Stock 0.0001 Par Value Shares Authorized Issued And Outstanding At ",
+        "value": "class common stock 0001 par valu share author issu outstand"
+    },
+    {
+        "id": 32589,
+        "weight": 0.017324592509787,
+        "label": "Combined Three Months Ended ",
+        "value": "combin three month end"
+    },
+    {
+        "id": 32642,
+        "weight": 0.017324592509787,
+        "label": "Combined Six Months Ended ",
+        "value": "combin six month end"
+    },
+    {
+        "id": 32426,
+        "weight": 0.016876649295749408,
+        "label": "Earnings Loss Per Share Attributable To Common Stockholders",
+        "value": "earn loss per share attribut common stockhold"
+    },
+    {
+        "id": 352,
+        "weight": 0.016294993099810577,
+        "label": "Capital",
+        "value": "capit"
+    },
+    {
+        "id": 982,
+        "weight": 0.016294993099810577,
+        "label": "Year Ended December ",
+        "value": "year end decemb"
+    },
+    {
+        "id": 4445,
+        "weight": 0.015674631318378717,
+        "label": "Sale Of Private Placement Warrants",
+        "value": "sale privat placement warrant"
+    },
+    {
+        "id": 19026,
+        "weight": 0.015674631318378717,
+        "label": "Issuer Purchases Of Equity Securities",
+        "value": "issuer purchas equiti secur"
+    },
+    {
+        "id": 33559,
+        "weight": 0.015674631318378717,
+        "label": "Weighted Average Number Of Class Ordinary Shares Outstanding Basic And Diluted",
+        "value": "weight averag number class ordinari share outstand basic dilut"
+    },
+    {
+        "id": 33792,
+        "weight": 0.015674631318378717,
+        "label": "Omar M. Asali",
+        "value": "omar asali"
+    },
+    {
+        "id": 7,
+        "weight": 0.01546191382126559,
+        "label": "Item 1.",
+        "value": "item"
+    },
+    {
+        "id": 7853,
+        "weight": 0.015164061185615666,
+        "label": "Other Comprehensive Loss Income",
+        "value": "comprehens loss incom"
+    },
+    {
+        "id": 32341,
+        "weight": 0.015164061185615666,
+        "label": "Preliminary Fair Value",
+        "value": "preliminari fair valu"
+    },
+    {
+        "id": 4702,
+        "weight": 0.014849650722674572,
+        "label": "Directors And Named Executive Officers",
+        "value": "director name execut offic"
+    },
+    {
+        "id": 33793,
+        "weight": 0.014849650722674572,
+        "label": "Thomas F. Corley",
+        "value": "thoma corley"
+    },
+    {
+        "id": 33795,
+        "weight": 0.014849650722674572,
+        "label": "Michael A. Jones",
+        "value": "michael jone"
+    },
+    {
+        "id": 749,
+        "weight": 0.014519501541580444,
+        "label": "Deficit",
+        "value": "deficit"
+    },
+    {
+        "id": 7643,
+        "weight": 0.014280241711787961,
+        "label": " Vs ",
+        "value": "Vs"
+    },
+    {
+        "id": 33797,
+        "weight": 0.014024670126970428,
+        "label": "Bharani Bobba",
+        "value": "bharani bobba"
+    },
+    {
+        "id": 1353,
+        "weight": 0.013747895751033076,
+        "label": "Paid-in-",
+        "value": "paid in"
+    },
+    {
+        "id": 369,
+        "weight": 0.0137198648822237,
+        "label": "Underwriters Discount And Offering Expenses",
+        "value": "underwrit discount offer expens"
+    },
+    {
+        "id": 32595,
+        "weight": 0.013199689531266287,
+        "label": "Unrealized Gain Loss Translation",
+        "value": "unreal gain loss translat"
+    },
+    {
+        "id": 499,
+        "weight": 0.013109266847572874,
+        "label": "Supplemental Disclosure Of Non-cash Financing Activities",
+        "value": "supplement disclosur non cash financ activ"
+    },
+    {
+        "id": 353,
+        "weight": 0.012949825699247424,
+        "label": "Additional",
+        "value": "addit"
+    },
+    {
+        "id": 350,
+        "weight": 0.012856773231247292,
+        "label": "Common Stock",
+        "value": "common stock"
+    },
+    {
+        "id": 33796,
+        "weight": 0.012374708935562142,
+        "label": "Robert C. King",
+        "value": "robert king"
+    },
+    {
+        "id": 826,
+        "weight": 0.011849632025204756,
+        "label": "Increase Decrease In",
+        "value": "increas decreas"
+    },
+    {
+        "id": 716,
+        "weight": 0.011663423328101037,
+        "label": "Adjustments To Reconcile Net Loss To Net Cash Provided By Used In Operating Activities",
+        "value": "adjust reconcil net loss net cash provid use oper activ"
+    },
+    {
+        "id": 11274,
+        "weight": 0.011526762207325158,
+        "label": "Loss Income Before Income Taxes",
+        "value": "loss incom incom tax"
+    },
+    {
+        "id": 3720,
+        "weight": 0.01135735671063794,
+        "label": "Period",
+        "value": "period"
+    },
+    {
+        "id": 299,
+        "weight": 0.011034732231836151,
+        "label": "Revenue",
+        "value": "revenu"
+    },
+    {
+        "id": 617,
+        "weight": 0.010987730896331148,
+        "label": "Income From Operations",
+        "value": "incom oper"
+    },
+    {
+        "id": 16685,
+        "weight": 0.010724747744153858,
+        "label": "Total Depreciation Expense",
+        "value": "total depreci expens"
+    },
+    {
+        "id": 32328,
+        "weight": 0.010724747744153858,
+        "label": "Depreciation Expense Included In Cost Of Sales",
+        "value": "depreci expens includ cost sale"
+    },
+    {
+        "id": 32329,
+        "weight": 0.010724747744153858,
+        "label": "Depreciation Expense Included In Depreciation And Amortization Expense",
+        "value": "depreci expens includ depreci amort expens"
+    },
+    {
+        "id": 32425,
+        "weight": 0.010724747744153858,
+        "label": "Net Income Loss Attributable To Common Stockholders For Basic And Diluted Eps",
+        "value": "net incom loss attribut common stockhold basic dilut ep"
+    },
+    {
+        "id": 1664,
+        "weight": 0.010196751183403024,
+        "label": "Year Ended ",
+        "value": "year end"
+    },
+    {
+        "id": 3789,
+        "weight": 0.009937687121808196,
+        "label": "Amortization Of Deferred Financing Costs",
+        "value": "amort defer financ cost"
+    },
+    {
+        "id": 180,
+        "weight": 0.009936799871327052,
+        "label": "Accumulated Deficit",
+        "value": "accumul deficit"
+    },
+    {
+        "id": 358,
+        "weight": 0.009936799871327052,
+        "label": "Accumulated",
+        "value": "accumul"
+    },
+    {
+        "id": 544,
+        "weight": 0.009936799871327052,
+        "label": "Net Income Loss",
+        "value": "net incom loss"
+    },
+    {
+        "id": 32217,
+        "weight": 0.009899767148449715,
+        "label": "Purchase Of Ranpak Corp.",
+        "value": "purchas ranpak corp"
+    },
+    {
+        "id": 32368,
+        "weight": 0.009899767148449715,
+        "label": "Earn-out Contingent Liability",
+        "value": "earn out conting liabil"
+    },
+    {
+        "id": 32668,
+        "weight": 0.009899767148449715,
+        "label": "Pay- Fixed Receive- Variable Interest Rate Swap",
+        "value": "pay fix receiv variabl interest rate swap"
+    },
+    {
+        "id": 33798,
+        "weight": 0.009899767148449715,
+        "label": "Entity Business",
+        "value": "entiti busi"
+    },
+    {
+        "id": 562,
+        "weight": 0.009831950135679658,
+        "label": "Other Comprehensive Income Loss",
+        "value": "comprehens incom loss"
+    },
+    {
+        "id": 6671,
+        "weight": 0.009387275972047795,
+        "label": "Combined",
+        "value": "combin"
+    },
+    {
+        "id": 12728,
+        "weight": 0.009387275972047795,
+        "label": "Translation Adjustments",
+        "value": "translat adjust"
+    },
+    {
+        "id": 179,
+        "weight": 0.009274346546571915,
+        "label": "Accumulated Other Comprehensive Loss",
+        "value": "accumul comprehens loss"
+    },
+    {
+        "id": 626,
+        "weight": 0.009274346546571915,
+        "label": "Net Income",
+        "value": "net incom"
+    },
+    {
+        "id": 4368,
+        "weight": 0.009087426543865067,
+        "label": "Units",
+        "value": "unit"
+    },
+    {
+        "id": 13694,
+        "weight": 0.009074786552745573,
+        "label": "Total Shareholder",
+        "value": "total sharehold"
+    },
+    {
+        "id": 33557,
+        "weight": 0.009074786552745573,
+        "label": "Administrative Fee Related Party",
+        "value": "administr fee relat parti"
+    },
+    {
+        "id": 33593,
+        "weight": 0.009074786552745573,
+        "label": "Class Ordinary Shares 0.0001 Par Value Shares Authorized None Issued And Outstanding",
+        "value": "class ordinari share 0001 par valu share author none issu outstand"
+    },
+    {
+        "id": 33869,
+        "weight": 0.009074786552745573,
+        "label": "Nmber Of Shares Beneficially Owned",
+        "value": "nmber share benefici own"
+    },
+    {
+        "id": 6289,
+        "weight": 0.00866517782035181,
+        "label": "Entity",
+        "value": "entiti"
+    },
+    {
+        "id": 10462,
+        "weight": 0.00866517782035181,
+        "label": "Affiliated",
+        "value": "affili"
+    },
+    {
+        "id": 21040,
+        "weight": 0.00866517782035181,
+        "label": "Period From Inception To December ",
+        "value": "period incept decemb"
+    },
+    {
+        "id": 864,
+        "weight": 0.008438324647874704,
+        "label": "Foreign Currency Gain",
+        "value": "foreign currenc gain"
+    },
+    {
+        "id": 3277,
+        "weight": 0.00824980595704143,
+        "label": "Vested",
+        "value": "vest"
+    },
+    {
+        "id": 32435,
+        "weight": 0.00824980595704143,
+        "label": "Protective Packaging Systems",
+        "value": "protect packag system"
+    },
+    {
+        "id": 33802,
+        "weight": 0.00824980595704143,
+        "label": "Percentage Of Outstanding Ordinary Shares",
+        "value": "percentag outstand ordinari share"
+    },
+    {
+        "id": 33859,
+        "weight": 0.00824980595704143,
+        "label": "Keith R. Mc Loughlin",
+        "value": "keith Mc loughlin"
+    },
+    {
+        "id": 12238,
+        "weight": 0.008113685793461592,
+        "label": "Effect Of Exchange Rate Changes On Cash",
+        "value": "effect exchang rate chang cash"
+    },
+    {
+        "id": 4146,
+        "weight": 0.007789222751884343,
+        "label": "Forfeited",
+        "value": "forfeit"
+    },
+    {
+        "id": 1337,
+        "weight": 0.007455960251081851,
+        "label": "Fair Value",
+        "value": "fair valu"
+    },
+    {
+        "id": 32357,
+        "weight": 0.007424825361337286,
+        "label": "378.2",
+        "value": "378"
+    },
+    {
+        "id": 33579,
+        "weight": 0.007424825361337286,
+        "label": "Cash And Marketable Securities Held In Trust Account",
+        "value": "cash market secur held trust account"
+    },
+    {
+        "id": 33662,
+        "weight": 0.007424825361337286,
+        "label": "Issuance Of Class Ordinary Shares To Sponsor At Approximately 0.003 Per Share",
+        "value": "issuanc class ordinari share sponsor approxim 003 per share"
+    },
+    {
+        "id": 33668,
+        "weight": 0.007424825361337286,
+        "label": "Issuance Of Anchor Shares",
+        "value": "issuanc anchor share"
+    },
+    {
+        "id": 1870,
+        "weight": 0.007406815045368443,
+        "label": "Weighted- Average Grant Date Fair Value",
+        "value": "weight averag grant date fair valu"
+    },
+    {
+        "id": 8405,
+        "weight": 0.007220981516959843,
+        "label": "Monitoring Fees",
+        "value": "monitor fee"
+    },
+    {
+        "id": 22924,
+        "weight": 0.0071401208558939805,
+        "label": "Balance Sheet Data End Of Period",
+        "value": "balanc sheet data end period"
+    },
+    {
+        "id": 479,
+        "weight": 0.007136267917507194,
+        "label": "Net Cash Used In Investing Activities",
+        "value": "net cash use invest activ"
+    },
+    {
+        "id": 1530,
+        "weight": 0.007099475069278892,
+        "label": " Common Shares As At And ",
+        "value": "common share"
+    },
+    {
+        "id": 1134,
+        "weight": 0.007063541290498595,
+        "label": "Foreign Currency Translation",
+        "value": "foreign currenc translat"
+    },
+    {
+        "id": 32291,
+        "weight": 0.006599844765633143,
+        "label": "Currency Gain On Foreign Denominated Notes Payable",
+        "value": "currenc gain foreign denomin note payabl"
+    },
+    {
+        "id": 32293,
+        "weight": 0.006599844765633143,
+        "label": "Increase Decrease In Receivables Net",
+        "value": "increas decreas receiv net"
+    },
+    {
+        "id": 32294,
+        "weight": 0.006599844765633143,
+        "label": "Increase Decrease In Prepaid Expenses And Other Assets",
+        "value": "increas decreas prepaid expens asset"
+    },
+    {
+        "id": 32304,
+        "weight": 0.006599844765633143,
+        "label": "Converter Equipment",
+        "value": "convert equip"
+    },
+    {
+        "id": 32314,
+        "weight": 0.006599844765633143,
+        "label": "Patent And Trademark Expenditures",
+        "value": "patent trademark expenditur"
+    },
+    {
+        "id": 32598,
+        "weight": 0.006599844765633143,
+        "label": "Gain Loss On Disposal Of Machines",
+        "value": "gain loss dispos machin"
+    },
+    {
+        "id": 32601,
+        "weight": 0.006599844765633143,
+        "label": "Public Company Costs",
+        "value": "public compani cost"
+    },
+    {
+        "id": 33563,
+        "weight": 0.006599844765633143,
+        "label": "Class Ordinary Shares Subject To Possible Redemption",
+        "value": "class ordinari share subject possibl redempt"
+    },
+    {
+        "id": 33603,
+        "weight": 0.006599844765633143,
+        "label": "Net Income Per Ordinary Share Class Basic And Diluted",
+        "value": "net incom per ordinari share class basic dilut"
+    },
+    {
+        "id": 33991,
+        "weight": 0.006599844765633143,
+        "label": "Net Loss Income Per Share Basic And Diluted",
+        "value": "net loss incom per share basic dilut"
+    },
+    {
+        "id": 34513,
+        "weight": 0.006599844765633143,
+        "label": "Cost Of Sales Cos",
+        "value": "cost sale co"
+    },
+    {
+        "id": 34514,
+        "weight": 0.006599844765633143,
+        "label": "Selling General And Administrative Sga",
+        "value": "sell gener administr sga"
+    },
+    {
+        "id": 34518,
+        "weight": 0.006599844765633143,
+        "label": "Cos Depreciation Amortization",
+        "value": "co depreci amort"
+    },
+    {
+        "id": 34520,
+        "weight": 0.006599844765633143,
+        "label": "Sg Depreciation Amortization",
+        "value": "Sg depreci amort"
+    },
+    {
+        "id": 34523,
+        "weight": 0.006599844765633143,
+        "label": "Non-cash Impairment Losses",
+        "value": "non cash impair loss"
+    },
+    {
+        "id": 34527,
+        "weight": 0.006599844765633143,
+        "label": "Other Non-core And Non-cash Adjustments",
+        "value": "non core non cash adjust"
+    },
+    {
+        "id": 1517,
+        "weight": 0.006274409150765963,
+        "label": "Granted",
+        "value": "grant"
+    },
+    {
+        "id": 4160,
+        "weight": 0.006008413971804234,
+        "label": "Basic Weighted Average Common Shares Outstanding",
+        "value": "basic weight averag common share outstand"
+    },
+    {
+        "id": 3550,
+        "weight": 0.005841917063913257,
+        "label": "Number Of Shares Beneficially Owned",
+        "value": "number share benefici own"
+    },
+    {
+        "id": 1035,
+        "weight": 0.005832440621650396,
+        "label": "Warrants",
+        "value": "warrant"
+    },
+    {
+        "id": 18210,
+        "weight": 0.005776785213567873,
+        "label": "Initial",
+        "value": "initi"
+    },
+    {
+        "id": 33607,
+        "weight": 0.005774864169929,
+        "label": "Net Loss Per Ordinary Share Class Basic And Diluted",
+        "value": "net loss per ordinari share class basic dilut"
+    },
+    {
+        "id": 33776,
+        "weight": 0.005774864169929,
+        "label": "Proceeds From Sponsor Note",
+        "value": "proce sponsor note"
+    },
+    {
+        "id": 34525,
+        "weight": 0.005774864169929,
+        "label": "Pe Sponsor Costs",
+        "value": "Pe sponsor cost"
+    },
+    {
+        "id": 4163,
+        "weight": 0.005578158983004844,
+        "label": "Diluted Weighted Average Common Shares Outstanding",
+        "value": "dilut weight averag common share outstand"
+    },
+    {
+        "id": 360,
+        "weight": 0.005415837720103939,
+        "label": "Foreign Currency Translation Adjustment",
+        "value": "foreign currenc translat adjust"
+    },
+    {
+        "id": 659,
+        "weight": 0.005299626598041094,
+        "label": "Long Term Debt",
+        "value": "long term debt"
+    },
+    {
+        "id": 5872,
+        "weight": 0.005299626598041094,
+        "label": "Net Cash Used In Provided By Operating Activities",
+        "value": "net cash use provid oper activ"
+    },
+    {
+        "id": 1716,
+        "weight": 0.005250461541330574,
+        "label": "Title",
+        "value": "titl"
+    },
+    {
+        "id": 997,
+        "weight": 0.005192815167922895,
+        "label": "Other Financial Data",
+        "value": "financi data"
+    },
+    {
+        "id": 4883,
+        "weight": 0.005192815167922895,
+        "label": "Decrease Increase In Accounts Payable",
+        "value": "decreas increas account payabl"
+    },
+    {
+        "id": 11200,
+        "weight": 0.005192815167922895,
+        "label": "Increase In Other Assets",
+        "value": "increas asset"
+    },
+    {
+        "id": 20452,
+        "weight": 0.005192815167922895,
+        "label": "Increase/ Decrease In Accrued Liabilities",
+        "value": "increas decreas accru liabil"
+    },
+    {
+        "id": 1687,
+        "weight": 0.005071053620913494,
+        "label": "September ",
+        "value": "septemb"
+    },
+    {
+        "id": 1042,
+        "weight": 0.005054687061871889,
+        "label": "Payment Of Offering Costs",
+        "value": "payment offer cost"
+    },
+    {
+        "id": 4442,
+        "weight": 0.005054687061871889,
+        "label": "Retained Earnings/ Accumulated",
+        "value": "retain earn accumul"
+    },
+    {
+        "id": 457,
+        "weight": 0.005019527320612771,
+        "label": "Cash And Cash Equivalents At Beginning Of The Period",
+        "value": "cash cash equival begin period"
+    },
+    {
+        "id": 1502,
+        "weight": 0.005019527320612771,
+        "label": "Net Cash Provided By Used In Financing Activities",
+        "value": "net cash provid use financ activ"
+    },
+    {
+        "id": 1629,
+        "weight": 0.005019527320612771,
+        "label": "Year",
+        "value": "year"
+    },
+    {
+        "id": 224,
+        "weight": 0.004999234818557482,
+        "label": "Derivative Liabilities",
+        "value": "deriv liabil"
+    },
+    {
+        "id": 32104,
+        "weight": 0.004949883574224857,
+        "label": "Class Ordinary Shares Par Value 0.0001 Per Share",
+        "value": "class ordinari share par valu 0001 per share"
+    }
+]

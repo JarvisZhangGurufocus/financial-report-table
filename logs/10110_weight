@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 527,
+        "weight": 0.457974248249356,
+        "label": "Three Months Ended",
+        "value": "three month end"
+    },
+    {
+        "id": 5992,
+        "weight": 0.42943654435625506,
+        "label": "Net Sales",
+        "value": "net sale"
+    },
+    {
+        "id": 32635,
+        "weight": 0.2012248855451429,
+        "label": "Crop Nutrients",
+        "value": "crop nutrient"
+    },
+    {
+        "id": 4231,
+        "weight": 0.20063681267891326,
+        "label": "U.s. Dollars",
+        "value": "dollar"
+    },
+    {
+        "id": 5257,
+        "weight": 0.1918110800378346,
+        "label": "Percent",
+        "value": "percent"
+    },
+    {
+        "id": 6880,
+        "weight": 0.18696062331979113,
+        "label": "Year Ended May ",
+        "value": "year end may"
+    },
+    {
+        "id": 982,
+        "weight": 0.18402823295257703,
+        "label": "Year Ended December ",
+        "value": "year end decemb"
+    },
+    {
+        "id": 1396,
+        "weight": 0.1730892194088987,
+        "label": "Change",
+        "value": "chang"
+    },
+    {
+        "id": 532,
+        "weight": 0.13750939640083282,
+        "label": "Nine Months Ended",
+        "value": "nine month end"
+    },
+    {
+        "id": 32721,
+        "weight": 0.1272557736683601,
+        "label": "Foreign Currency Exchange Forwards",
+        "value": "foreign currenc exchang forward"
+    },
+    {
+        "id": 400,
+        "weight": 0.12045184606786051,
+        "label": "September ",
+        "value": "septemb"
+    },
+    {
+        "id": 32723,
+        "weight": 0.11885635070799284,
+        "label": "Expected Maturity Date",
+        "value": "expect matur date"
+    },
+    {
+        "id": 447,
+        "weight": 0.11857191500832973,
+        "label": "Cash Flows From Operating Activities",
+        "value": "cash flow oper activ"
+    },
+    {
+        "id": 32482,
+        "weight": 0.11686939043779843,
+        "label": "Mosaic Shareholders",
+        "value": "mosaic sharehold"
+    },
+    {
+        "id": 568,
+        "weight": 0.11457655700261427,
+        "label": "For The Six Months Ended",
+        "value": "six month end"
+    },
+    {
+        "id": 257,
+        "weight": 0.11302996680685345,
+        "label": "June ",
+        "value": "june"
+    },
+    {
+        "id": 32509,
+        "weight": 0.11126977513088691,
+        "label": "Potash",
+        "value": "potash"
+    },
+    {
+        "id": 36522,
+        "weight": 0.10160592290766865,
+        "label": "2019-2018",
+        "value": "2019 2018"
+    },
+    {
+        "id": 190,
+        "weight": 0.09949794333830728,
+        "label": "Of Total",
+        "value": "total"
+    },
+    {
+        "id": 32508,
+        "weight": 0.09898674800604874,
+        "label": "Phosphates",
+        "value": "phosphat"
+    },
+    {
+        "id": 153,
+        "weight": 0.09898276586158149,
+        "label": "Assets",
+        "value": "asset"
+    },
+    {
+        "id": 32704,
+        "weight": 0.0903163759179277,
+        "label": "In Millions",
+        "value": "million"
+    },
+    {
+        "id": 4096,
+        "weight": 0.08923257940691255,
+        "label": "2015/2014",
+        "value": "2015 2014"
+    },
+    {
+        "id": 1400,
+        "weight": 0.08706498638488229,
+        "label": "2016/2015",
+        "value": "2016 2015"
+    },
+    {
+        "id": 570,
+        "weight": 0.08644117751705047,
+        "label": "Gross Margin",
+        "value": "gross margin"
+    },
+    {
+        "id": 38991,
+        "weight": 0.0864327717534568,
+        "label": "2017-2016",
+        "value": "2017 2016"
+    },
+    {
+        "id": 24590,
+        "weight": 0.08625213900162094,
+        "label": "For The Six Months Ended November ",
+        "value": "six month end novemb"
+    },
+    {
+        "id": 40547,
+        "weight": 0.07297563174168557,
+        "label": "2018-2017",
+        "value": "2018 2017"
+    },
+    {
+        "id": 49895,
+        "weight": 0.06936297670496847,
+        "label": "Seven Months Ended December ",
+        "value": "seven month end decemb"
+    },
+    {
+        "id": 33810,
+        "weight": 0.06836949656987126,
+        "label": "2012-2011",
+        "value": "2012 2011"
+    },
+    {
+        "id": 32263,
+        "weight": 0.06728570005885613,
+        "label": "Operating Earnings",
+        "value": "oper earn"
+    },
+    {
+        "id": 4125,
+        "weight": 0.066201903547841,
+        "label": "2014/2013",
+        "value": "2014 2013"
+    },
+    {
+        "id": 32572,
+        "weight": 0.06551889550211863,
+        "label": "Corporate Eliminations And Other",
+        "value": "corpor elimin"
+    },
+    {
+        "id": 32645,
+        "weight": 0.06520842341274379,
+        "label": "Average Cost Per Unit Consumed In Cost Of Goods Sold",
+        "value": "averag cost per unit consum cost good sold"
+    },
+    {
+        "id": 1664,
+        "weight": 0.06377524270488731,
+        "label": "Year Ended ",
+        "value": "year end"
+    },
+    {
+        "id": 15017,
+        "weight": 0.061234502872354976,
+        "label": "Three Months Ended August",
+        "value": "three month end august"
+    },
+    {
+        "id": 911,
+        "weight": 0.06029433566895555,
+        "label": "March ",
+        "value": "march"
+    },
+    {
+        "id": 33811,
+        "weight": 0.059066909850324714,
+        "label": "2011-2010",
+        "value": "2011 2010"
+    },
+    {
+        "id": 24589,
+        "weight": 0.05905228000245183,
+        "label": "For The Three Months Ended November ",
+        "value": "three month end novemb"
+    },
+    {
+        "id": 6265,
+        "weight": 0.058815519555993484,
+        "label": "Pension Plan",
+        "value": "pension plan"
+    },
+    {
+        "id": 32571,
+        "weight": 0.052835079911987694,
+        "label": "Net Sales To External Customers",
+        "value": "net sale extern custom"
+    },
+    {
+        "id": 32577,
+        "weight": 0.05238349803239806,
+        "label": "Depreciation Depletion And Amortization Expense",
+        "value": "depreci deplet amort expens"
+    },
+    {
+        "id": 32664,
+        "weight": 0.05184159977689049,
+        "label": "Average Selling Price Per Tonne Fob Plant",
+        "value": "averag sell price per tonn fob plant"
+    },
+    {
+        "id": 1337,
+        "weight": 0.05112339813764941,
+        "label": "Fair Value",
+        "value": "fair valu"
+    },
+    {
+        "id": 23968,
+        "weight": 0.05066748688995743,
+        "label": "Quarter",
+        "value": "quarter"
+    },
+    {
+        "id": 32456,
+        "weight": 0.049132108499352664,
+        "label": "Adjustments To Reconcile Net Earnings Including Noncontrolling Interests To Net Cash Provided By Operating Activities",
+        "value": "adjust reconcil net earn includ noncontrol interest net cash provid oper activ"
+    },
+    {
+        "id": 4760,
+        "weight": 0.04777736286058375,
+        "label": "10.1 Iii",
+        "value": "10 iii"
+    },
+    {
+        "id": 46333,
+        "weight": 0.046874199101404466,
+        "label": "Nine Months Ended February ",
+        "value": "nine month end februari"
+    },
+    {
+        "id": 36561,
+        "weight": 0.04624198446997898,
+        "label": "Sales Volumes In Thousands Of Metric Tonnes",
+        "value": "sale volum thousand metric tonn"
+    },
+    {
+        "id": 21050,
+        "weight": 0.04615166809406105,
+        "label": "United States",
+        "value": "unit state"
+    },
+    {
+        "id": 33828,
+        "weight": 0.04606135171814312,
+        "label": "Net Earnings Attributable To Mosaic",
+        "value": "net earn attribut mosaic"
+    },
+    {
+        "id": 3254,
+        "weight": 0.045538389616649765,
+        "label": "International",
+        "value": "intern"
+    },
+    {
+        "id": 569,
+        "weight": 0.04553066878293545,
+        "label": "Cost Of Goods Sold",
+        "value": "cost good sold"
+    },
+    {
+        "id": 255,
+        "weight": 0.04522754736670676,
+        "label": "Current Assets",
+        "value": "current asset"
+    },
+    {
+        "id": 2881,
+        "weight": 0.04522754736670676,
+        "label": "North America",
+        "value": "north america"
+    },
+    {
+        "id": 425,
+        "weight": 0.04450677135493278,
+        "label": "Total Equity",
+        "value": "total equiti"
+    },
+    {
+        "id": 4947,
+        "weight": 0.043261544064687366,
+        "label": "U.s. And Canada",
+        "value": "canada"
+    },
+    {
+        "id": 41988,
+        "weight": 0.043261544064687366,
+        "label": "2010-2009",
+        "value": "2010 2009"
+    },
+    {
+        "id": 32267,
+        "weight": 0.04280996218509772,
+        "label": "Equity In Net Earnings Loss Of Nonconsolidated Companies",
+        "value": "equiti net earn loss nonconsolid compani"
+    },
+    {
+        "id": 623,
+        "weight": 0.041048544278277914,
+        "label": "Balance ",
+        "value": "balanc"
+    },
+    {
+        "id": 37630,
+        "weight": 0.04073268553898538,
+        "label": "2013-2012",
+        "value": "2013 2012"
+    },
+    {
+        "id": 32680,
+        "weight": 0.04028110365939575,
+        "label": "Purchases Tonnes",
+        "value": "purchas tonn"
+    },
+    {
+        "id": 635,
+        "weight": 0.039439248377088766,
+        "label": "Operating Expenses",
+        "value": "oper expens"
+    },
+    {
+        "id": 183,
+        "weight": 0.03839496290065884,
+        "label": "December ",
+        "value": "decemb"
+    },
+    {
+        "id": 32455,
+        "weight": 0.03748129600593999,
+        "label": "Net Earnings Including Noncontrolling Interests",
+        "value": "net earn includ noncontrol interest"
+    },
+    {
+        "id": 14778,
+        "weight": 0.03739212466395822,
+        "label": "For The Three Months Ended February ",
+        "value": "three month end februari"
+    },
+    {
+        "id": 1253,
+        "weight": 0.03589382917660213,
+        "label": "Statement Of Operations Data",
+        "value": "statement oper data"
+    },
+    {
+        "id": 32510,
+        "weight": 0.03495243748023802,
+        "label": "International Distribution",
+        "value": "intern distribut"
+    },
+    {
+        "id": 34624,
+        "weight": 0.03486212110432009,
+        "label": "Earnings Per Common Share Attributable To Mosaic",
+        "value": "earn per common share attribut mosaic"
+    },
+    {
+        "id": 32641,
+        "weight": 0.034500855600648375,
+        "label": "Average Selling Price Per Tonne",
+        "value": "averag sell price per tonn"
+    },
+    {
+        "id": 33814,
+        "weight": 0.03404927372105874,
+        "label": "Earnings From Consolidated Companies Before Income Taxes",
+        "value": "earn consolid compani incom tax"
+    },
+    {
+        "id": 32573,
+        "weight": 0.03386864096922288,
+        "label": "Intersegment Net Sales",
+        "value": "interseg net sale"
+    },
+    {
+        "id": 32677,
+        "weight": 0.03323642633779739,
+        "label": "Realized Prices /tonne",
+        "value": "realiz price tonn"
+    },
+    {
+        "id": 454,
+        "weight": 0.032975555395634834,
+        "label": "Cash Flows From Financing Activities",
+        "value": "cash flow financ activ"
+    },
+    {
+        "id": 33830,
+        "weight": 0.03296547721004361,
+        "label": "Diluted Net Earnings Per Share Attributable To Mosaic",
+        "value": "dilut net earn per share attribut mosaic"
+    },
+    {
+        "id": 33816,
+        "weight": 0.030707567812095413,
+        "label": "Earnings From Consolidated Companies",
+        "value": "earn consolid compani"
+    },
+    {
+        "id": 32511,
+        "weight": 0.03019829095482461,
+        "label": "Foreign Currency Derivatives",
+        "value": "foreign currenc deriv"
+    },
+    {
+        "id": 32277,
+        "weight": 0.030119237837141825,
+        "label": "Diluted Weighted Average Number Of Shares Outstanding",
+        "value": "dilut weight averag number share outstand"
+    },
+    {
+        "id": 32752,
+        "weight": 0.029623771301080282,
+        "label": "Natural Gas Swaps",
+        "value": "natur ga swap"
+    },
+    {
+        "id": 32576,
+        "weight": 0.029081873045572717,
+        "label": "Operating Earnings Loss",
+        "value": "oper earn loss"
+    },
+    {
+        "id": 16194,
+        "weight": 0.028617228601168873,
+        "label": "Cash Flows From",
+        "value": "cash flow"
+    },
+    {
+        "id": 890,
+        "weight": 0.028583367312528488,
+        "label": "Selling General And Administrative Expenses",
+        "value": "sell gener administr expens"
+    },
+    {
+        "id": 2054,
+        "weight": 0.02846173596226241,
+        "label": "Capital Expenditures",
+        "value": "capit expenditur"
+    },
+    {
+        "id": 1981,
+        "weight": 0.0283902588281275,
+        "label": "Common Stock",
+        "value": "common stock"
+    },
+    {
+        "id": 6703,
+        "weight": 0.027028899649687774,
+        "label": "Capital In Excess Of Par Value",
+        "value": "capit excess par valu"
+    },
+    {
+        "id": 1068,
+        "weight": 0.027015817167821275,
+        "label": "Level",
+        "value": "level"
+    },
+    {
+        "id": 33689,
+        "weight": 0.026823963647624523,
+        "label": "Incorporated Herein By Reference To",
+        "value": "incorpor herein refer"
+    },
+    {
+        "id": 32575,
+        "weight": 0.02664333089578867,
+        "label": "Gross Margin Excluding Canadian Resource Taxes",
+        "value": "gross margin exclud canadian resourc tax"
+    },
+    {
+        "id": 5641,
+        "weight": 0.026372381768034883,
+        "label": "Commodity Derivatives",
+        "value": "commod deriv"
+    },
+    {
+        "id": 32646,
+        "weight": 0.026101432640281103,
+        "label": "Sulfur Long Ton",
+        "value": "sulfur long ton"
+    },
+    {
+        "id": 6780,
+        "weight": 0.02579540028987968,
+        "label": "May ",
+        "value": "may"
+    },
+    {
+        "id": 32731,
+        "weight": 0.025740167136609392,
+        "label": "Foreign Currency Exchange Collars",
+        "value": "foreign currenc exchang collar"
+    },
+    {
+        "id": 12920,
+        "weight": 0.025361468377904296,
+        "label": "Facilities",
+        "value": "facil"
+    },
+    {
+        "id": 32649,
+        "weight": 0.025107952505183898,
+        "label": "Production Volume In Thousands Of Metric Tonnes",
+        "value": "product volum thousand metric tonn"
+    },
+    {
+        "id": 164,
+        "weight": 0.025097880760152475,
+        "label": "Current Liabilities",
+        "value": "current liabil"
+    },
+    {
+        "id": 46953,
+        "weight": 0.024837003377430115,
+        "label": "2009-2008",
+        "value": "2009 2008"
+    },
+    {
+        "id": 8411,
+        "weight": 0.024800536366854017,
+        "label": "Foreign Currency Transaction Gain Loss",
+        "value": "foreign currenc transact gain loss"
+    },
+    {
+        "id": 34350,
+        "weight": 0.02465841294927892,
+        "label": "Change In Projected Benefit Obligation",
+        "value": "chang project benefit oblig"
+    },
+    {
+        "id": 34019,
+        "weight": 0.024566054249676332,
+        "label": "Preferred Stock 0.01 Par Value Shares Authorized None Issued And Outstanding As Of And ",
+        "value": "prefer stock 01 par valu share author none issu outstand"
+    },
+    {
+        "id": 3537,
+        "weight": 0.02395309465788444,
+        "label": "Less Than Months",
+        "value": "less month"
+    },
+    {
+        "id": 5871,
+        "weight": 0.023557829069470508,
+        "label": "Liability Derivatives",
+        "value": "liabil deriv"
+    },
+    {
+        "id": 1670,
+        "weight": 0.023162563481056574,
+        "label": "Shares",
+        "value": "share"
+    },
+    {
+        "id": 32644,
+        "weight": 0.02312099223498949,
+        "label": "Ammonia Metric Tonne",
+        "value": "ammonia metric tonn"
+    },
+    {
+        "id": 36394,
+        "weight": 0.022940359483153636,
+        "label": "Mosaic Fertilizantes",
+        "value": "mosaic fertilizant"
+    },
+    {
+        "id": 3611,
+        "weight": 0.022908610773749477,
+        "label": "Other Comprehensive Income Loss Net Of Tax",
+        "value": "comprehens incom loss net tax"
+    },
+    {
+        "id": 511,
+        "weight": 0.022804211675096654,
+        "label": "Provision For Income Taxes",
+        "value": "provis incom tax"
+    },
+    {
+        "id": 5870,
+        "weight": 0.022530138539594277,
+        "label": "Asset Derivatives",
+        "value": "asset deriv"
+    },
+    {
+        "id": 34516,
+        "weight": 0.022127512099892284,
+        "label": "Sales By Product Type",
+        "value": "sale product type"
+    },
+    {
+        "id": 32639,
+        "weight": 0.021766246596220572,
+        "label": "Total Phosphates Segment Tonnes",
+        "value": "total phosphat segment tonn"
+    },
+    {
+        "id": 1940,
+        "weight": 0.02170715045435296,
+        "label": "Other Noncurrent Liabilities",
+        "value": "noncurr liabil"
+    },
+    {
+        "id": 32460,
+        "weight": 0.02149529746846679,
+        "label": "Changes In Assets And Liabilities Excluding Effects Of Acquisition",
+        "value": "chang asset liabil exclud effect acquisit"
+    },
+    {
+        "id": 34306,
+        "weight": 0.02140498109254886,
+        "label": "Deferred Tax Liabilities",
+        "value": "defer tax liabil"
+    },
+    {
+        "id": 21189,
+        "weight": 0.021176389218689102,
+        "label": "Fy ",
+        "value": "Fy"
+    },
+    {
+        "id": 32753,
+        "weight": 0.021134031964795078,
+        "label": "Notional Million Btu Long",
+        "value": "notion million btu long"
+    },
+    {
+        "id": 274,
+        "weight": 0.021123311162875663,
+        "label": "Accrued Liabilities",
+        "value": "accru liabil"
+    },
+    {
+        "id": 32742,
+        "weight": 0.020772766461123367,
+        "label": "Weighted Average Rate Brazilian Real To U.s. Dollar",
+        "value": "weight averag rate brazilian real dollar"
+    },
+    {
+        "id": 33531,
+        "weight": 0.0202308682056158,
+        "label": "Active Mines",
+        "value": "activ mine"
+    },
+    {
+        "id": 32754,
+        "weight": 0.020140551829697876,
+        "label": "Weighted Average Rate Us Btu",
+        "value": "weight averag rate Us btu"
+    },
+    {
+        "id": 33993,
+        "weight": 0.019779286326026164,
+        "label": "Basic Net Earnings Per Share Attributable To Mosaic",
+        "value": "basic net earn per share attribut mosaic"
+    },
+    {
+        "id": 620,
+        "weight": 0.01972636010901925,
+        "label": "Description",
+        "value": "descript"
+    },
+    {
+        "id": 288,
+        "weight": 0.01942839617600764,
+        "label": "Retained Earnings",
+        "value": "retain earn"
+    },
+    {
+        "id": 32739,
+        "weight": 0.01939984649900042,
+        "label": "Brazilian Real",
+        "value": "brazilian real"
+    },
+    {
+        "id": 32275,
+        "weight": 0.0193680138322828,
+        "label": "Basic Weighted Average Number Of Shares Outstanding",
+        "value": "basic weight averag number share outstand"
+    },
+    {
+        "id": 13245,
+        "weight": 0.01914707169460067,
+        "label": "Government Bonds",
+        "value": "govern bond"
+    },
+    {
+        "id": 708,
+        "weight": 0.019044537955062685,
+        "label": "Other Income Expense",
+        "value": "incom expens"
+    },
+    {
+        "id": 86,
+        "weight": 0.0188200455339591,
+        "label": "Exhibit Index",
+        "value": "exhibit index"
+    },
+    {
+        "id": 32673,
+        "weight": 0.01878580619092896,
+        "label": "Gross Margin As Percent Of Net Sales",
+        "value": "gross margin percent net sale"
+    },
+    {
+        "id": 26740,
+        "weight": 0.01865653577313772,
+        "label": "Income Statement",
+        "value": "incom statement"
+    },
+    {
+        "id": 34335,
+        "weight": 0.018605173439093105,
+        "label": "Freight Derivatives",
+        "value": "freight deriv"
+    },
+    {
+        "id": 574,
+        "weight": 0.018516121510358738,
+        "label": "Interest Expense Net",
+        "value": "interest expens net"
+    },
+    {
+        "id": 34205,
+        "weight": 0.018514857063175176,
+        "label": "Receivables",
+        "value": "receiv"
+    },
+    {
+        "id": 32661,
+        "weight": 0.018334224311339322,
+        "label": "Non-agricultural",
+        "value": "non agricultur"
+    },
+    {
+        "id": 32640,
+        "weight": 0.018153591559503465,
+        "label": "Dap Fob Plant",
+        "value": "dap fob plant"
+    },
+    {
+        "id": 34743,
+        "weight": 0.01797295880766761,
+        "label": "Class Common Stock 0.01 Par Value Shares Authorized None Issued And Outstanding As Of And ",
+        "value": "class common stock 01 par valu share author none issu outstand"
+    },
+    {
+        "id": 34629,
+        "weight": 0.017250427800324188,
+        "label": "Balance Sheet Data At Period End",
+        "value": "balanc sheet data period end"
+    },
+    {
+        "id": 11531,
+        "weight": 0.01675926094875083,
+        "label": "Foreign Currency Transaction Loss Gain",
+        "value": "foreign currenc transact loss gain"
+    },
+    {
+        "id": 37703,
+        "weight": 0.01643758041706284,
+        "label": "Expected Maturity Date Years Ending December ",
+        "value": "expect matur date year end decemb"
+    },
+    {
+        "id": 2797,
+        "weight": 0.016196236216717504,
+        "label": "For The Three Months Ended March ",
+        "value": "three month end march"
+    },
+    {
+        "id": 423,
+        "weight": 0.016008375872064592,
+        "label": "Noncontrolling Interests",
+        "value": "noncontrol interest"
+    },
+    {
+        "id": 516,
+        "weight": 0.0159384711840907,
+        "label": "Three Months Ended June ",
+        "value": "three month end june"
+    },
+    {
+        "id": 36565,
+        "weight": 0.015895682161555274,
+        "label": "Average Finished Product Selling Price Destination",
+        "value": "averag finish product sell price destin"
+    },
+    {
+        "id": 1368,
+        "weight": 0.015846589396387743,
+        "label": "Derivative Instruments",
+        "value": "deriv instrument"
+    },
+    {
+        "id": 32666,
+        "weight": 0.015805365785637345,
+        "label": "Mop International",
+        "value": "mop intern"
+    },
+    {
+        "id": 33584,
+        "weight": 0.015805365785637345,
+        "label": "Acres Under Control",
+        "value": "acr control"
+    },
+    {
+        "id": 32667,
+        "weight": 0.015715049409719416,
+        "label": "Mop Average",
+        "value": "mop averag"
+    },
+    {
+        "id": 32746,
+        "weight": 0.015715049409719416,
+        "label": "Indian Rupee",
+        "value": "indian rupe"
+    },
+    {
+        "id": 33700,
+        "weight": 0.015715049409719416,
+        "label": "Filed With Electronic Submission",
+        "value": "file electron submiss"
+    },
+    {
+        "id": 2888,
+        "weight": 0.015508862796379358,
+        "label": "Carrying Amount",
+        "value": "carri amount"
+    },
+    {
+        "id": 33852,
+        "weight": 0.015353783906047707,
+        "label": "Crop Nutrient Blends",
+        "value": "crop nutrient blend"
+    },
+    {
+        "id": 478,
+        "weight": 0.015352288806428496,
+        "label": "Cash Flows From Investing Activities",
+        "value": "cash flow invest activ"
+    },
+    {
+        "id": 3390,
+        "weight": 0.015178198595095093,
+        "label": "Municipal Bonds",
+        "value": "municip bond"
+    },
+    {
+        "id": 261,
+        "weight": 0.015155965872480338,
+        "label": "Receivables Net",
+        "value": "receiv net"
+    },
+    {
+        "id": 703,
+        "weight": 0.014959562858863403,
+        "label": "Three Months Ended September ",
+        "value": "three month end septemb"
+    },
+    {
+        "id": 19838,
+        "weight": 0.01491851081053194,
+        "label": "Short-term Debt",
+        "value": "short term debt"
+    },
+    {
+        "id": 32662,
+        "weight": 0.014811885650540141,
+        "label": "Total Potash Segment Tonnes",
+        "value": "total potash segment tonn"
+    },
+    {
+        "id": 50061,
+        "weight": 0.014811885650540141,
+        "label": "Seven Months Ended ",
+        "value": "seven month end"
+    },
+    {
+        "id": 517,
+        "weight": 0.014561717054995864,
+        "label": "Six Months Ended June ",
+        "value": "six month end june"
+    },
+    {
+        "id": 32647,
+        "weight": 0.014540936522786358,
+        "label": "Blended Rock Metric Tonne",
+        "value": "blend rock metric tonn"
+    },
+    {
+        "id": 32727,
+        "weight": 0.014360303770950503,
+        "label": "Weighted Average Rate Canadian Dollar To U.s. Dollar",
+        "value": "weight averag rate canadian dollar dollar"
+    },
+    {
+        "id": 32574,
+        "weight": 0.014269987395032576,
+        "label": "Canadian Resource Taxes",
+        "value": "canadian resourc tax"
+    },
+    {
+        "id": 33957,
+        "weight": 0.014269987395032576,
+        "label": "Notional Million Us Long",
+        "value": "notion million Us long"
+    },
+    {
+        "id": 147,
+        "weight": 0.014127730544625388,
+        "label": "Total Assets",
+        "value": "total asset"
+    },
+    {
+        "id": 1562,
+        "weight": 0.013928094922359276,
+        "label": "Corporate Debt Securities",
+        "value": "corpor debt secur"
+    },
+    {
+        "id": 6025,
+        "weight": 0.0139133487121705,
+        "label": "Balance Sheets",
+        "value": "balanc sheet"
+    },
+    {
+        "id": 3083,
+        "weight": 0.013908721891360864,
+        "label": "Total Fair Value",
+        "value": "total fair valu"
+    },
+    {
+        "id": 34696,
+        "weight": 0.013908721891360864,
+        "label": "Less Net Earnings Attributable To Noncontrolling Interests",
+        "value": "less net earn attribut noncontrol interest"
+    },
+    {
+        "id": 32663,
+        "weight": 0.013818405515442937,
+        "label": "Mop North America",
+        "value": "mop north america"
+    },
+    {
+        "id": 13056,
+        "weight": 0.013547456387689154,
+        "label": "Cash Paid During The Period For",
+        "value": "cash paid period"
+    },
+    {
+        "id": 34351,
+        "weight": 0.013547456387689154,
+        "label": "Postretirement Benefit Plans",
+        "value": "postretir benefit plan"
+    },
+    {
+        "id": 2564,
+        "weight": 0.013434958758755463,
+        "label": "Gross Unrealized Losses",
+        "value": "gross unreal loss"
+    },
+    {
+        "id": 37694,
+        "weight": 0.013366823635853297,
+        "label": "Foreign Currency Exchange Non- Deliverable Forwards",
+        "value": "foreign currenc exchang non deliver forward"
+    },
+    {
+        "id": 32679,
+        "weight": 0.012734609004427803,
+        "label": "Dap/map From Mosaic",
+        "value": "dap map mosaic"
+    },
+    {
+        "id": 32682,
+        "weight": 0.012734609004427803,
+        "label": "Micro Essentials From Mosaic",
+        "value": "micro essenti mosaic"
+    },
+    {
+        "id": 32684,
+        "weight": 0.012734609004427803,
+        "label": "Potash From Mosaic/ Canpotex",
+        "value": "potash mosaic canpotex"
+    },
+    {
+        "id": 40732,
+        "weight": 0.012644292628509876,
+        "label": "Payments By Calendar Year",
+        "value": "payment calendar year"
+    },
+    {
+        "id": 41521,
+        "weight": 0.01246365987667402,
+        "label": "Corporate Eliminationsand Other",
+        "value": "corpor eliminationsand"
+    },
+    {
+        "id": 3087,
+        "weight": 0.012378279264348162,
+        "label": "Current",
+        "value": "current"
+    },
+    {
+        "id": 18697,
+        "weight": 0.012332286358514763,
+        "label": "Deferred Tax Asset",
+        "value": "defer tax asset"
+    },
+    {
+        "id": 1494,
+        "weight": 0.012147537648509708,
+        "label": "Deferred Income Taxes",
+        "value": "defer incom tax"
+    },
+    {
+        "id": 32633,
+        "weight": 0.012012077997084383,
+        "label": "Gross Margin As Percentage Of Net Sales",
+        "value": "gross margin percentag net sale"
+    },
+    {
+        "id": 32486,
+        "weight": 0.011937020770100828,
+        "label": "Dividends For Noncontrolling Interests",
+        "value": "dividend noncontrol interest"
+    },
+    {
+        "id": 935,
+        "weight": 0.0117940517330956,
+        "label": "Other Expenses",
+        "value": "expens"
+    },
+    {
+        "id": 22651,
+        "weight": 0.0117411288693306,
+        "label": "Gross Margin Percentage",
+        "value": "gross margin percentag"
+    },
+    {
+        "id": 32529,
+        "weight": 0.011650812493412672,
+        "label": "Transactions With Non-consolidated Companies Included In Net Sales",
+        "value": "transact non consolid compani includ net sale"
+    },
+    {
+        "id": 32530,
+        "weight": 0.011650812493412672,
+        "label": "Transactions With Non-consolidated Companies Included In Cost Of Goods Sold",
+        "value": "transact non consolid compani includ cost good sold"
+    },
+    {
+        "id": 2285,
+        "weight": 0.01162080829936968,
+        "label": "Long-term Debt Including Current Portion",
+        "value": "long term debt includ current portion"
+    },
+    {
+        "id": 151,
+        "weight": 0.011490988207955672,
+        "label": "Cash And Cash Equivalents",
+        "value": "cash cash equival"
+    },
+    {
+        "id": 900,
+        "weight": 0.01144771426089852,
+        "label": "Total Comprehensive Income Loss",
+        "value": "total comprehens incom loss"
+    },
+    {
+        "id": 3961,
+        "weight": 0.011405770194557473,
+        "label": "Provision Benefit For Income Taxes",
+        "value": "provis benefit incom tax"
+    },
+    {
+        "id": 35766,
+        "weight": 0.011379863365658889,
+        "label": "Florida Phosphate Rock Mines",
+        "value": "florida phosphat rock mine"
+    },
+    {
+        "id": 32375,
+        "weight": 0.011289546989740962,
+        "label": "Investments In Nonconsolidated Companies",
+        "value": "invest nonconsolid compani"
+    },
+    {
+        "id": 12489,
+        "weight": 0.011091588472178095,
+        "label": "Net Periodic Benefit Cost",
+        "value": "net period benefit cost"
+    },
+    {
+        "id": 997,
+        "weight": 0.010943503153282288,
+        "label": "Other Financial Data",
+        "value": "financi data"
+    },
+    {
+        "id": 33855,
+        "weight": 0.010928281486069249,
+        "label": "Crop Nutrient Blends Fob Destination",
+        "value": "crop nutrient blend fob destin"
+    },
+    {
+        "id": 508,
+        "weight": 0.010872493091946727,
+        "label": "Interest Expense",
+        "value": "interest expens"
+    },
+    {
+        "id": 374,
+        "weight": 0.010872441444494741,
+        "label": "Reserves",
+        "value": "reserv"
+    },
+    {
+        "id": 33822,
+        "weight": 0.010837965110151322,
+        "label": "Net Earnings Including Non-controlling Interests",
+        "value": "net earn includ non control interest"
+    },
+    {
+        "id": 33853,
+        "weight": 0.010837965110151322,
+        "label": "Feed Phosphates",
+        "value": "feed phosphat"
+    },
+    {
+        "id": 34649,
+        "weight": 0.010837965110151322,
+        "label": "Column",
+        "value": "column"
+    },
+    {
+        "id": 328,
+        "weight": 0.010751224004859023,
+        "label": "Asset Retirement Obligations",
+        "value": "asset retir oblig"
+    }
+]
