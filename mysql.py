@@ -212,7 +212,7 @@ class MySqlHelper:
     
     isTagStopWords = utils.isTagStopWords(tag['value'])
 
-    SQL = "INSERT INTO %s (value, type, label) VALUES ('%s', '%s', '%s', '%s')" % (self.tagTable, tag['value'], tag['type'], tag['label'], isTagStopWords)
+    SQL = "INSERT INTO %s (value, type, label, stop_words) VALUES ('%s', '%s', '%s', '%s')" % (self.tagTable, tag['value'], tag['type'], tag['label'], isTagStopWords)
     tagId = self.execute(SQL)
 
     tag['id'] = tagId
