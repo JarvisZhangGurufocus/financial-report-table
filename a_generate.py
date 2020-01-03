@@ -22,8 +22,14 @@ class Generator:
 
     handledStocks = self.mysqlHelper.query('SELECT distinct morn_comp_id from %s' % self.mysqlHelper.table)
     self.handled_stocks = [x['morn_comp_id'] for x in handledStocks if x]
+    self.handled_stocks = self.handled_stocks[:-5]
+
     handledTables = self.mysqlHelper.query('SELECT distinct table_id from %s' % self.mysqlHelper.table)
     self.handled_tables = [x['table_id'] for x in handledTables if x]
+    
+    handledReports = [x[:x.index(':')] for x in self.handled_tables if ':' in x]
+    self.handled_reports = handledReports
+    self.handled_reports = self.handled_reports[:-5]
 
     self.log = self.utils.setupLogger('generator', 'logs/logs', logging.DEBUG)
 
@@ -37,7 +43,10 @@ class Generator:
   def handleStock(self, morn_comp_id):
     report_ids = self.elasticHelper.getStockReports(morn_comp_id)
     for report_id in report_ids:
+      if report_id in self.handled_reports:
+        continue
       self.handleReport(report_id)
+      self.log.info('Generator %s handle reprt %s' % (self.workerId, report_id))
   
   def handleReport(self, report_id):
     resultTables = []
