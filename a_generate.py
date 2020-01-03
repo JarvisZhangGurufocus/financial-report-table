@@ -20,40 +20,26 @@ class Generator:
     self.mysqlHelper = MySqlHelper()
     self.utils = Utils()
 
-    self.handled_stocks = self.utils.readFile('logs/stocks').split('\n')
-    self.handled_reports = self.utils.readFile('logs/reports').split('\n')
-    self.handled_tables = self.utils.readFile('logs/tables').split('\n')
-    self.handled_stocks = [x for x in set(self.handled_stocks) if x]
-    self.handled_reports = [x for x in set(self.handled_reports) if x]
-    self.handled_tables = [x for x in set(self.handled_tables) if x]
+    handledStocks = self.mysqlHelper.query('SELECT distinct morn_comp_id from %s' % self.mysqlHelper.table)
+    self.handled_stocks = [x['morn_comp_id'] for x in handledStocks if x]
+    handledTables = self.mysqlHelper.query('SELECT distinct table_id from %s' % self.mysqlHelper.table)
+    self.handled_tables = [x['table_id'] for x in handledTables if x]
 
     self.log = self.utils.setupLogger('generator', 'logs/logs', logging.DEBUG)
-    self.stockLog = self.utils.setupLogger('stocks', 'logs/stocks', logging.DEBUG)
-    self.reportLog = self.utils.setupLogger('reports', 'logs/reports', logging.DEBUG)
-    self.tableLog = self.utils.setupLogger('tables', 'logs/tables', logging.DEBUG)
 
   def start(self, morn_comp_ids):
-    self.log.info('GENERATOR %s STARTED %s' % (self.workerId, time.ctime()))
-    self.log.info('%s STOCKS FINISHED' % str(len(self.handled_stocks)))
-    self.log.info('%s REPORTS FINISHED' % str(len(self.handled_reports)))
-    self.log.info('%s TABLES FINISHED' % str(len(self.handled_tables)))
     for morn_comp_id in morn_comp_ids:
+      if morn_comp_id in self.handled_stocks:
+        continue
       self.handleStock(morn_comp_id)
-      self.stockLog.info(morn_comp_id)
-      self.log.info('Generator %s finish stock %s' % (self.workerId, morn_comp_id))
-    self.log.info('DONE %s' % self.workerId)
+      self.log.info('Generator %s handle stock %s' % (self.workerId, morn_comp_id))
 
   def handleStock(self, morn_comp_id):
     report_ids = self.elasticHelper.getStockReports(morn_comp_id)
     for report_id in report_ids:
       self.handleReport(report_id)
-      self.reportLog.info(report_id)
-      self.log.info('Generator %s finish report %s' % (self.workerId, report_id))
   
   def handleReport(self, report_id):
-    if report_id in self.handled_reports:
-      return
-
     resultTables = []
 
     report = self.elasticHelper.getReport(report_id)
@@ -107,6 +93,4 @@ class Generator:
         'document_type': report['_source']['document_type'],
         'filing_date': report['_source']['filling_date']
       })
-
-      self.tableLog.info(table_id)
-      self.log.info('Generator %s finish table %s' % (self.workerId, table_id))
+      self.log.info('Generator %s handle table %s' % (self.workerId, table_id))

@@ -1,5 +1,7 @@
 clusters/*
 words/*
+logs/*
+industries/*
 *.pyc
 .env
 .DS_Store

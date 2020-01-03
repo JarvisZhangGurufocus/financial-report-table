@@ -23,7 +23,7 @@ cur.execute('SELECT distinct morn_comp_id from stock_list where morn_comp_id is 
 ids = []
 for row in cur:
   ids.append(row['morn_comp_id'])
-offset = int(len(ids) / 1)
+offset = int(len(ids) / 5)
 
 worker = 1
 threads = []
