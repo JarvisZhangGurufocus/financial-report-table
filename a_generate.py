@@ -36,6 +36,7 @@ class Generator:
   def start(self, morn_comp_ids):
     for morn_comp_id in morn_comp_ids:
       if morn_comp_id in self.handled_stocks:
+        self.log('Generator %s skip stock %s' % (self.workerId, morn_comp_id))
         continue
       self.handleStock(morn_comp_id)
       self.log.info('Generator %s handle stock %s' % (self.workerId, morn_comp_id))
@@ -44,6 +45,7 @@ class Generator:
     report_ids = self.elasticHelper.getStockReports(morn_comp_id)
     for report_id in report_ids:
       if report_id in self.handled_reports:
+        self.log('Generator %s skip reprt %s' % (self.workerId, report_id))
         continue
       self.handleReport(report_id)
       self.log.info('Generator %s handle reprt %s' % (self.workerId, report_id))
@@ -60,6 +62,7 @@ class Generator:
     for table in tables:
       table_id = str(report['_source']['document_id']) + ':' + table.attrs['id']
       if table_id in self.handled_tables:
+        self.log('Generator %s skip table %s' % (self.workerId, table_id))
         continue
       if not table in nodes:
         continue
