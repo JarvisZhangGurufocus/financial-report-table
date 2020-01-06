@@ -82,6 +82,9 @@ class Generator:
 
       cells = self.htmlHelper.getTableCells(table)
 
+      if len(cells) == 0:
+        continue
+
       for cell in cells:
         cell['table_id'] = table_id
         if not cell['date']:
